@@ -1,6 +1,1426 @@
 window.LEAFLET_INDEX = {
-  "indexedAt": "2026-05-17T23:31:12.344655+00:00",
+  "indexedAt": "2026-05-18T10:15:38.665856+00:00",
   "leaflets": [
+    {
+      "file": "ALDI IE  - ALDI IE Thur  14May _ Sun 17 May.pdf",
+      "pageCount": 24,
+      "items": [
+        {
+          "name": "400g (€1.23 per kg) Baby Potatoes Microwaveable May In store Thur smiles.",
+          "price": "€0.99",
+          "page": 1
+        },
+        {
+          "name": "400g (€1.23 per kg) Baby Potatoes Microwaveable May In store Thur May smiles.",
+          "price": "€0.49",
+          "page": 1
+        },
+        {
+          "name": "Potting Bench Wooden Mud Kitchen/",
+          "price": "€39.99",
+          "page": 1
+        },
+        {
+          "name": "each Loose Ready to Eat Avocado guaranteed fruit and veg fresh",
+          "price": "€0.99",
+          "page": 2
+        },
+        {
+          "name": "each Loose Ready to Eat Avocado guaranteed fruit and veg",
+          "price": "€0.49",
+          "page": 2
+        },
+        {
+          "name": "each Mango each",
+          "price": "€0.99",
+          "page": 2
+        },
+        {
+          "name": "each Mango",
+          "price": "€0.59",
+          "page": 2
+        },
+        {
+          "name": "pack (32c each) Oranges 300g (€1.63 per kg)",
+          "price": "€1.99",
+          "page": 2
+        },
+        {
+          "name": "pack (32c each) Oranges",
+          "price": "€1.29",
+          "page": 2
+        },
+        {
+          "name": "400g (€1.23 per kg) Baby Potatoes Avocado Microwaveable",
+          "price": "€0.99",
+          "page": 2
+        },
+        {
+          "name": "400g (€1.23 per kg) Baby Potatoes Microwaveable",
+          "price": "€0.49",
+          "page": 2
+        },
+        {
+          "name": "¤1.49 250g (€3.16 per kg) Snack Bite Peppers",
+          "price": "€0.79",
+          "page": 2
+        },
+        {
+          "name": "300g (€1.63 per kg) Shallots",
+          "price": "€0.99",
+          "page": 2
+        },
+        {
+          "name": "300g (€1.63 per kg) Shallots",
+          "price": "€0.49",
+          "page": 2
+        },
+        {
+          "name": "454g (€8.79 per kg) Pounder Burgers Irish Beef Quarter 350g (€8.54 per kg)",
+          "price": "€4.49",
+          "page": 3
+        },
+        {
+          "name": "454g (€8.79 per kg) Pounder Burgers Irish Beef Quarter",
+          "price": "€3.99",
+          "page": 3
+        },
+        {
+          "name": "1kg Mince Fat Ham Fillet Small Irish 200g (€19.45 per kg)",
+          "price": "€5.79",
+          "page": 3
+        },
+        {
+          "name": "1kg Fat Ham Fillet Small Irish",
+          "price": "€4.99",
+          "page": 3
+        },
+        {
+          "name": "523g (€5.72 per kg) Pork Loin Chops Irish Premium",
+          "price": "€3.49",
+          "page": 3
+        },
+        {
+          "name": "523g (€5.72 per kg) Pork Loin Chops Irish Premium",
+          "price": "€2.99",
+          "page": 3
+        },
+        {
+          "name": "454g (€10.99 per kg) Irish Angus Steak Mince Fat Specially Selected 523g (€5.72 per kg)",
+          "price": "€5.79",
+          "page": 3
+        },
+        {
+          "name": "454g (€10.99 per kg) Irish Angus Steak Mince Fat Specially Selected",
+          "price": "€4.99",
+          "page": 3
+        },
+        {
+          "name": "200g (€19.45 per kg) Pepper Garlic. Choose from Plain or Salt, Irish Single Lamb Rump Steak",
+          "price": "€4.39",
+          "page": 3
+        },
+        {
+          "name": "200g (€19.45 per kg) Pepper Garlic. Choose from Plain or Salt, Irish Single Lamb Rump Steak",
+          "price": "€3.89",
+          "page": 3
+        },
+        {
+          "name": "350g (€8.54 per kg) Breast Pieces Irish Diced Chicken",
+          "price": "€3.99",
+          "page": 3
+        },
+        {
+          "name": "350g (€8.54 per kg) Breast Pieces Irish Diced Chicken",
+          "price": "€2.99",
+          "page": 3
+        },
+        {
+          "name": "(€3.39 per litre) 70cl Irish Whiskey Jameson Triple Distilled",
+          "price": "€32.50",
+          "page": 4
+        },
+        {
+          "name": "May. per litre) 70cl Irish Whiskey Jameson Triple Distilled",
+          "price": "€26.00",
+          "page": 4
+        },
+        {
+          "name": "Available from May. x 300ml (€3.39 per litre) 70cl Budweiser Irish Whiskey Jameson",
+          "price": "€15.27",
+          "page": 4
+        },
+        {
+          "name": "Available from May. 75cl (€9.99 per litre) New Zealand Pinot Gris Specially Selected",
+          "price": "€9.49",
+          "page": 4
+        },
+        {
+          "name": "Available from May. Available 75cl (€9.99 per litre) x 500ml New Zealand Pinot Gris Guinness Specially Selected",
+          "price": "€7.49",
+          "page": 4
+        },
+        {
+          "name": "from May. Available from May. (€9.99 per litre) x 500ml (€3.31 per litre) Zealand Pinot Gris Guinness Draught Selected",
+          "price": "€22.00",
+          "page": 4
+        },
+        {
+          "name": "May. Available from May. litre) x 500ml (€3.31 per litre) Pinot Gris Guinness Draught",
+          "price": "€19.88",
+          "page": 4
+        },
+        {
+          "name": "Available from Thur May. 250ml (€9.96 per litre) Whiskey Cola Jameson Ginger Lime/ deposit +€1.80",
+          "price": "€2.49",
+          "page": 4
+        },
+        {
+          "name": "May. Available from Thur May. 250ml (€5.96 per litre) Alcohol Free WKD blue May.",
+          "price": "€1.49",
+          "page": 4
+        },
+        {
+          "name": "Available from Thur May. 70cl Johnnie Walker Available from May. Available from May. 75cl (€9.99 per litre) x 500ml (€3.31 per litre)",
+          "price": "€26.99",
+          "page": 4
+        },
+        {
+          "name": "500g (€2.98 per kg) Kilkeely Gold Spread 120g (€16.58 per kg) Crunch Delight",
+          "price": "€1.69",
+          "page": 5
+        },
+        {
+          "name": "500g (€2.98 per kg) Kilkeely Gold Spread 120g (€16.58 per kg) Crunch Delight",
+          "price": "€1.49",
+          "page": 5
+        },
+        {
+          "name": "125g (€7.92 per kg) Crumbed Ham Wafer Thin",
+          "price": "€1.29",
+          "page": 5
+        },
+        {
+          "name": "125g (€7.92 per kg) Crumbed Ham Wafer Thin",
+          "price": "€0.99",
+          "page": 5
+        },
+        {
+          "name": "120g (€16.58 per kg) Crunch Delight 125g (€7.92 per kg) Crumbed Ham Wafer Thin",
+          "price": "€2.59",
+          "page": 5
+        },
+        {
+          "name": "120g (€16.58 per kg) Crunch Delight 125g (€7.92 per kg)",
+          "price": "€1.99",
+          "page": 5
+        },
+        {
+          "name": "126g (€9.44 per kg) Mini Iced Rings pack (33c each) Tayto",
+          "price": "€1.65",
+          "page": 5
+        },
+        {
+          "name": "126g (€9.44 per kg) Mini Iced Rings pack (33c each) Tayto",
+          "price": "€1.19",
+          "page": 5
+        },
+        {
+          "name": "112.5g (€14.13 per kg) Chicken Bites Fridge Raiders Roast",
+          "price": "€1.99",
+          "page": 5
+        },
+        {
+          "name": "112.5g (€14.13 per kg) Chicken Bites Fridge Raiders Roast",
+          "price": "€1.59",
+          "page": 5
+        },
+        {
+          "name": "pack (33c each) Tayto 112.5g (€14.13 per kg) Chicken Bites Fridge Raiders Roast",
+          "price": "€4.75",
+          "page": 5
+        },
+        {
+          "name": "pack (33c each) Tayto 112.5g (€14.13 per kg)",
+          "price": "€3.99",
+          "page": 5
+        },
+        {
+          "name": "202g (€5.89 per kg) Seal Bars 300g (€4.97 per kg) Protein Yogurt Drink",
+          "price": "€1.59",
+          "page": 5
+        },
+        {
+          "name": "202g (€5.89 per kg) Seal Bars 300g (€4.97 per kg) Protein Yogurt Drink",
+          "price": "€1.19",
+          "page": 5
+        },
+        {
+          "name": "340g (€4.38 per kg) Chilli Chicken Pizza Stonebaked Sweet",
+          "price": "€1.79",
+          "page": 5
+        },
+        {
+          "name": "340g (€4.38 per kg) Chilli Chicken Pizza Stonebaked Sweet",
+          "price": "€1.49",
+          "page": 5
+        },
+        {
+          "name": "300g (€4.97 per kg) Protein Yogurt Drink 340g (€4.38 per kg) Chilli Chicken Pizza Stonebaked Sweet",
+          "price": "€1.89",
+          "page": 5
+        },
+        {
+          "name": "300g (€4.97 per kg) Protein Yogurt Drink 340g (€4.38 per kg)",
+          "price": "€1.49",
+          "page": 5
+        },
+        {
+          "name": "litre) 100g (€59.90 per kg) Super Greens",
+          "price": "€7.99",
+          "page": 5
+        },
+        {
+          "name": "100g (€59.90 per kg) Super Greens",
+          "price": "€5.99",
+          "page": 5
+        },
+        {
+          "name": "litre Mixers",
+          "price": "€0.59",
+          "page": 5
+        },
+        {
+          "name": "litre Mixers",
+          "price": "€0.49",
+          "page": 5
+        },
+        {
+          "name": "x 330ml (€1.51 per litre) Italian Sodas",
+          "price": "€3.99",
+          "page": 5
+        },
+        {
+          "name": "x 330ml (€1.51 per litre) Italian Sodas",
+          "price": "€2.99",
+          "page": 5
+        },
+        {
+          "name": "orange. Sizes XS-L. lining. Available in green or cooling and breathable mesh Adjustable closure. Evaporative Interactive cooling technology.",
+          "price": "€9.99",
+          "page": 6
+        },
+        {
+          "name": "Approx. x x 18cm. green Stripe or grey. Lightweight. Steel frame. Available in Easy to assemble, no tools required. Elevated Pet Bed",
+          "price": "€17.99",
+          "page": 7
+        },
+        {
+          "name": "grey or green. or Towel. Available in pink, Choose from Bottle, Bowl Pet Travel Accessory",
+          "price": "€4.99",
+          "page": 7
+        },
+        {
+          "name": "x x 0.8cm. green designs. Approx. Choose from Lemon or Large Cooling Mat",
+          "price": "€8.99",
+          "page": 7
+        },
+        {
+          "name": "Flamingo designs. Giraffe, Ostrich or Choose from Alpaca, Squeaker in body. Long rope neck.",
+          "price": "€4.99",
+          "page": 8
+        },
+        {
+          "name": "Floats on water. Heavy-Duty Dog Toy each Flamingo designs. Giraffe, Ostrich or",
+          "price": "€3.49",
+          "page": 8
+        },
+        {
+          "name": "Duck or Horse designs. Choose from Cow, Pig, Contains squeakers. Long Body Dog Toy",
+          "price": "€3.99",
+          "page": 8
+        },
+        {
+          "name": "1.5kg (€11.33 per kg) Choose from Chicken or Beef. Irish Rover Superfoods Specials. Pet",
+          "price": "€16.99",
+          "page": 9
+        },
+        {
+          "name": "315g (€14.25 per kg) Dog treats. Bakers Sizzlers",
+          "price": "€4.49",
+          "page": 9
+        },
+        {
+          "name": "450g (€9.98 per kg) Dog treats. Bakers Whirlers",
+          "price": "€4.49",
+          "page": 9
+        },
+        {
+          "name": "x 100g (€5.00 per kg) Dog wet pouches. Winalot",
+          "price": "€19.99",
+          "page": 9
+        },
+        {
+          "name": "x 85g (€5.88 per kg) Cat wet pouches. Felix As Good As It Looks",
+          "price": "€19.99",
+          "page": 9
+        },
+        {
+          "name": "x 50g (€9.97 per kg) Cat wet pouches. Gourmet Mon Petit Intense Poultry",
+          "price": "€2.99",
+          "page": 9
+        },
+        {
+          "name": "2kg (€4.00 per kg) Dry adult cat food. Poultry Go-Cat Chicken, Duck Vegetables",
+          "price": "€7.99",
+          "page": 9
+        },
+        {
+          "name": "345g (€13.01 per kg) Dog treats. Dentalife Pack 315g (€14.25 per kg) Dog treats.",
+          "price": "€4.49",
+          "page": 9
+        },
+        {
+          "name": "100g (€19.90 per kg) Dog treats. Park Life Chill-Bix 450g (€9.98 per kg) Dog treats.",
+          "price": "€1.99",
+          "page": 9
+        },
+        {
+          "name": "100g (€19.90 per kg) Dog treats. Park Life Brush-Bix x 100g (€5.00 per kg) Dog wet pouches.",
+          "price": "€1.99",
+          "page": 9
+        },
+        {
+          "name": "390g (€2.54 per kg) or Turkey with Chicken. Choose from Chicken with Liver Naturally Better Premium Can",
+          "price": "€0.99",
+          "page": 10
+        },
+        {
+          "name": "3kg (€2.33 per kg) Rich in chicken. Grain Free Dry Dog Food",
+          "price": "€6.99",
+          "page": 10
+        },
+        {
+          "name": "(€19.92-€23.90 per kg) 120g/120g/100g/100g Chicken Twists or Duck Fillets. Choose from Beef Steak, Chicken Fillets, Food Naturally Better Dog Treats",
+          "price": "€2.39",
+          "page": 10
+        },
+        {
+          "name": "(€22.64-€27.67 per kg) 100g/110g/90g/90g Sausages, Calcium Bones or Duck Sticks. Choose from Marbled Beef, Meaty Naturally Better Dog Treats",
+          "price": "€2.49",
+          "page": 10
+        },
+        {
+          "name": "300g (€2.83 per kg) Duck Sticks. or Chicken Pâté. Meaty Choose from Beef Pâté Dog Trays 3kg (€2.33 per kg)",
+          "price": "€0.85",
+          "page": 10
+        },
+        {
+          "name": "150g (€3.00 per kg) kg) Pâté or Turkey Lamb Pâté. Beef Liver Pâté, Chicken Turkey Beef Pâté Choose from Beef Turkey Pâté, Dog Trays",
+          "price": "€0.45",
+          "page": 10
+        },
+        {
+          "name": "x 395g (€3.16 per kg) Grain free variety trays. Mixed Selection Naturally Better your",
+          "price": "€7.49",
+          "page": 10
+        },
+        {
+          "name": "kg) 100g (€3.90 per kg) 65g Food Turkey Pâté or Salmon Pâté. Choose from Chicken Pâté, Cat Trays",
+          "price": "€0.39",
+          "page": 11
+        },
+        {
+          "name": "2kg (€1.20 per kg) 100g Complete Cat Food Cat",
+          "price": "€2.39",
+          "page": 11
+        },
+        {
+          "name": "per kg) 65g (€15.23 per kg) or Salmon Pâté. Cheese or Catnip. Chicken Pâté, Choose from Salmon, Chicken, Pawsome Pockets",
+          "price": "€0.99",
+          "page": 11
+        },
+        {
+          "name": "kg) 75g (€16.67 per kg) Chicken or Salmon. Salmon, Chicken, Choose from Tasty Licks",
+          "price": "€1.25",
+          "page": 11
+        },
+        {
+          "name": "Sudoku or Crosswords. Training, Wordsearch, Choose from Brain Puzzle Book",
+          "price": "€2.99",
+          "page": 12
+        },
+        {
+          "name": "Mindful Colouring Book",
+          "price": "€2.49",
+          "page": 12
+        },
+        {
+          "name": "or downloading our app. products by checking our website Camera. Discover more about our mind. Choose from Bike or Car Record your drive for peace of",
+          "price": "€24.99",
+          "page": 12
+        },
+        {
+          "name": "Available in green, black or navy. straps with black air-mesh. Adjustable padded shoulder Carry-On Backpack each",
+          "price": "€14.99",
+          "page": 12
+        },
+        {
+          "name": "Pooh designs. Truck or Winnie the Ship, Ice Cream Choose from Pirate Cardboard",
+          "price": "€12.99",
+          "page": 13
+        },
+        {
+          "name": "Toy Story designs. Wheels, Animo, Dino or Paints. Choose from Pencils, Crayons and Colouring Sheets,",
+          "price": "€4.99",
+          "page": 13
+        },
+        {
+          "name": "Unicorn designs. Harry Potter, Dinosaur or closure. Choose from Stitch, Carry handle. Snap box Colouring Activity Case",
+          "price": "€5.99",
+          "page": 13
+        },
+        {
+          "name": "Suitable for ages years. Includes over Craft Pieces. Big Box of Crafts",
+          "price": "€5.99",
+          "page": 13
+        },
+        {
+          "name": "or Cup Accessories. Phone Bling, Charms Phone Stickers, Choose from Decoden Magic",
+          "price": "€5.99",
+          "page": 13
+        },
+        {
+          "name": "year warranty*. Suitable for ages months. Available in pink or blue. Balance Bike to Trike",
+          "price": "€34.99",
+          "page": 14
+        },
+        {
+          "name": "Cleaning Station or Stencils. Choose from Paint Mat, Brush Painting Accessories Children’s",
+          "price": "€4.99",
+          "page": 15
+        },
+        {
+          "name": "Magnets or Shrinkies kits. Choose from Hair Accessories, Own Accessories Children’s Make Your",
+          "price": "€3.99",
+          "page": 15
+        },
+        {
+          "name": "Approx. x x 5cm. or Transformers designs. Minecraft, Squishmallows Pokémon, Peppa Pig, Choose from Harry Potter,",
+          "price": "€7.99",
+          "page": 15
+        },
+        {
+          "name": "Lemons or Owl kits. Peacock, Happy Cappy, Pop, Highland Cow, Holiday, Choose from Drink, Cherry Crystal Art",
+          "price": "€5.99",
+          "page": 15
+        },
+        {
+          "name": "or Fruity Cuties. Pocket Pets Stickers, Mer-Mazing, Choose from Puffy Nano Tape",
+          "price": "€4.99",
+          "page": 15
+        },
+        {
+          "name": "Board. Choose from kits. Spinner and Silicone Play Suction Robot, Suction Includes Pop It Game, Travel Fidget Bag",
+          "price": "€6.99",
+          "page": 15
+        },
+        {
+          "name": "Suitable for ages years. or Pizza Oven Accessories. Wooden Kitchen, Bread Oven Choose from Metal Kitchen, Mud Kitchen Accessories",
+          "price": "€12.99",
+          "page": 16
+        },
+        {
+          "name": "ages years. Potting Bench. Suitable for Choose from Mud Kitchen or Designed for outdoor play. Potting Bench",
+          "price": "€39.99",
+          "page": 16
+        },
+        {
+          "name": "ages years. Utensils. Suitable for chalkboard lid, Chalk and Includes BBQ with liftable Wooden Outdoor BBQ",
+          "price": "€34.99",
+          "page": 17
+        },
+        {
+          "name": "Barbecue Play Food Sets. Hot Dogs, Veggie Box or Choose from Meat Box, Play Food Set Wooden BBQ",
+          "price": "€12.99",
+          "page": 17
+        },
+        {
+          "name": "or Theatre Accessories. Post Office, Coffee Shop, Florist Choose from Vet, Village Shop, Accessories Wooden Role Play",
+          "price": "€12.99",
+          "page": 18
+        },
+        {
+          "name": "Suitable for ages years. Post Shop and Paws Vets. Bakery, Coffee Shop, Cinema, shop signs including Florist, Features interchangeable",
+          "price": "€39.99",
+          "page": 18
+        },
+        {
+          "name": "with mesh storage bag. Includes coloured Bean Bags Foldable legs for easy storage. Built-in carry handles. Bean Bag Toss",
+          "price": "€24.99",
+          "page": 19
+        },
+        {
+          "name": "Suitable for ages years. Giant Toppling Blocks or 4-in-a-Row. Includes Carry Bag. Choose from Giant Game",
+          "price": "€29.99",
+          "page": 19
+        },
+        {
+          "name": "or Frisbee Golf. Choose from Lawn Darts Lawn Darts/Frisbee Golf",
+          "price": "€4.99",
+          "page": 19
+        },
+        {
+          "name": "Mermaid, Shark or Crab sets. punctures. Choose from Crocodile, Includes Repair Patch in case of Children’s Swim Essentials Set each",
+          "price": "€12.99",
+          "page": 19
+        },
+        {
+          "name": "storage and transport. as a carry handle for easy surfaces. Base doubles Can be used on most Swingball",
+          "price": "€19.99",
+          "page": 19
+        },
+        {
+          "name": "10.5cm Mixed Patio Plants each with mesh storage bag. Includes coloured Bean Bags Foldable legs for easy storage.",
+          "price": "€1.99",
+          "page": 19
+        },
+        {
+          "name": "Summer Bedding Geranium 13cm Irish Grown each",
+          "price": "€2.49",
+          "page": 19
+        },
+        {
+          "name": "Bedding Geranium 13cm Grown Japanese Thur",
+          "price": "€2.99",
+          "page": 19
+        },
+        {
+          "name": "Japanese Maple Thur May In store",
+          "price": "€14.99",
+          "page": 19
+        },
+        {
+          "name": "year warranty*. Scoop or red with Trailer. Available in yellow with Ride-On Tractor",
+          "price": "€29.99",
+          "page": 20
+        },
+        {
+          "name": "for ages years. yellow or red. Suitable hands. Available in blue, Perfectly sized for little Foam Football",
+          "price": "€4.99",
+          "page": 20
+        },
+        {
+          "name": "orange or pink. Available in blue, League Football** UEFA Champions",
+          "price": "€12.99",
+          "page": 20
+        },
+        {
+          "name": "red, yellow or blue. purple, orange, Available in green, Bubble Wand Sun May",
+          "price": "€0.99",
+          "page": 21
+        },
+        {
+          "name": "Flower or Sunflower designs. Bubble Solution. Choose from approx. 40ml concentrated Connectors, Base and Includes Bubble Tank,",
+          "price": "€8.99",
+          "page": 21
+        },
+        {
+          "name": "Dinosaur designs. Choose from Unicorn or Unicorn/Dinosaur Bouncer per set Star or Long designs.",
+          "price": "€8.99",
+          "page": 21
+        },
+        {
+          "name": "Star or Long designs. surface. Choose from Triangle, Raised elements. Non-slip River Stones",
+          "price": "€9.99",
+          "page": 21
+        },
+        {
+          "name": "in pink, green or grey. Play Accessories. Available Includes Bucket, Spade and Sandpit Toys Contents not included.",
+          "price": "€5.99",
+          "page": 22
+        },
+        {
+          "name": "Suitable for ages years. Tubs, Lids and Pack of Chalk. Includes Bench, Plastic Play Picnic Bench Wooden Messy",
+          "price": "€39.99",
+          "page": 22
+        },
+        {
+          "name": "FOR UNDER tastic value! Sand-",
+          "price": "€51.00",
+          "page": 22
+        },
+        {
+          "name": "with Roof Wooden Sandpit",
+          "price": "€39.99",
+          "page": 23
+        },
+        {
+          "name": "Suitable for ages years. Approx. 15kg bag. Non-toxic. Play Sand",
+          "price": "€0.30",
+          "page": 23
+        },
+        {
+          "name": "per kg Suitable for ages years. Approx. 15kg bag. Non-toxic. Play Sand",
+          "price": "€4.49",
+          "page": 23
+        },
+        {
+          "name": "Wooden Bookshelf Children’s",
+          "price": "€24.99",
+          "page": 23
+        },
+        {
+          "name": "Suitable for outdoor use. or Blackboard finish. Choose from Perspex Wooden Easel additions.",
+          "price": "€29.99",
+          "page": 23
+        },
+        {
+          "name": "for ages years. Table and Chairs. Suitable Easy installation. Includes Children’s Table with Chairs each",
+          "price": "€29.99",
+          "page": 23
+        },
+        {
+          "name": "the grill",
+          "price": "€2.99",
+          "page": 24
+        }
+      ],
+      "tags": [
+        "2025",
+        "aldi"
+      ]
+    },
+    {
+      "file": "ALDI IE  - ALDI IE Thur  21 May _ Sun 24 May.pdf",
+      "pageCount": 20,
+      "items": [
+        {
+          "name": "Metal Dining set",
+          "price": "€124.99",
+          "page": 1
+        },
+        {
+          "name": "1kg Rooster Potatoes Irish May In store Thur relax.",
+          "price": "€1.99",
+          "page": 1
+        },
+        {
+          "name": "1kg Rooster Potatoes Irish May In store Thur May relax.",
+          "price": "€0.99",
+          "page": 1
+        },
+        {
+          "name": "202g/227g (€14.80/€13.17 per kg) Peppercorn or Plain. Choose from Garlic Sirloin Steak ¤3.79",
+          "price": "€3.89",
+          "page": 3
+        },
+        {
+          "name": "202g/227g (€14.80/€13.17 per kg) Peppercorn or Plain. Choose from Garlic Sirloin Steak ¤3.79",
+          "price": "€2.99",
+          "page": 3
+        },
+        {
+          "name": "250g (€3.96 per kg) Baby Plum Tomatoes 1kg Pear Brown Onions",
+          "price": "€1.49",
+          "page": 3
+        },
+        {
+          "name": "250g (€3.96 per kg) Baby Plum Tomatoes",
+          "price": "€0.99",
+          "page": 3
+        },
+        {
+          "name": "each Loose Conference Pear",
+          "price": "€0.49",
+          "page": 3
+        },
+        {
+          "name": "each Loose Conference Pear",
+          "price": "€0.29",
+          "page": 3
+        },
+        {
+          "name": "500g (€1.58 per kg) Broccoli Wed June veg Thur May fresh",
+          "price": "€1.59",
+          "page": 3
+        },
+        {
+          "name": "500g (€1.58 per kg) Broccoli Wed June Thur May In store",
+          "price": "€0.79",
+          "page": 3
+        },
+        {
+          "name": "1kg Rooster Potatoes Irish each",
+          "price": "€1.99",
+          "page": 3
+        },
+        {
+          "name": "1kg Rooster Potatoes Irish",
+          "price": "€0.99",
+          "page": 3
+        },
+        {
+          "name": "1kg Pear Brown Onions guaranteed fruit and veg fresh",
+          "price": "€0.99",
+          "page": 3
+        },
+        {
+          "name": "1kg Brown Onions guaranteed fruit and veg fresh",
+          "price": "€0.49",
+          "page": 3
+        },
+        {
+          "name": "Orange 500g (€1.58 per kg) Broccoli",
+          "price": "€0.49",
+          "page": 3
+        },
+        {
+          "name": "each Orange",
+          "price": "€1.00",
+          "page": 3
+        },
+        {
+          "name": "¤3.79 291g (€10.27 per kg) Irish Chicken Breast Fillets GROWN IRELAND IN",
+          "price": "€2.99",
+          "page": 3
+        },
+        {
+          "name": "¤3.79 575g (€5.20 per kg) Irish Pork Fillet 202g/227g (€14.80/€13.17 per kg) Peppercorn or Plain.",
+          "price": "€2.99",
+          "page": 3
+        },
+        {
+          "name": "¤5.79 500g (€9.98 per kg) Irish Fat Beef Steak Mince 500g (€7.98 per kg) Irish BBQ Spare Ribs",
+          "price": "€4.99",
+          "page": 3
+        },
+        {
+          "name": "610g (€5.72 per kg) Sous Vide Chicken Wings for",
+          "price": "€3.99",
+          "page": 3
+        },
+        {
+          "name": "610g (€5.72 per kg) Sous Vide Chicken Wings",
+          "price": "€3.49",
+          "page": 3
+        },
+        {
+          "name": "500g (€7.98 per kg) Irish BBQ Spare Ribs 610g (€5.72 per kg) Sous Vide Chicken Wings",
+          "price": "€4.79",
+          "page": 3
+        },
+        {
+          "name": "500g (€7.98 per kg) Irish BBQ Spare Ribs 610g (€5.72 per kg) Sous Vide Chicken Wings",
+          "price": "€3.99",
+          "page": 3
+        },
+        {
+          "name": "454g (€5.48 per kg) Beef Burgers Irish 2oz 1kg Premium Potato Wedges",
+          "price": "€2.89",
+          "page": 4
+        },
+        {
+          "name": "454g (€5.48 per kg) 454g Beef Burgers Irish 2oz 1kg 240g Premium Potato Wedges",
+          "price": "€2.49",
+          "page": 4
+        },
+        {
+          "name": "per kg) 500g (€3.50 per kg) Coffee Natural Yogurt Selected Glenilen Farm per kg) 454g (€6.59 per kg)",
+          "price": "€2.25",
+          "page": 4
+        },
+        {
+          "name": "500g (€3.50 per kg) Natural Yogurt Glenilen Farm Magic",
+          "price": "€1.75",
+          "page": 4
+        },
+        {
+          "name": "200g (€17.45 per kg) Velo Filter Coffee Specially Selected 454g (€5.48 per kg)",
+          "price": "€4.49",
+          "page": 4
+        },
+        {
+          "name": "200g (€17.45 per kg) 500g Velo Filter Coffee Specially Selected",
+          "price": "€3.49",
+          "page": 4
+        },
+        {
+          "name": "Yogurt (€18.82/€17.50/€14.83 per kg) Farm 93g/100g/118g Magic Stars Maltesers/Minstrels/ per kg)",
+          "price": "€2.39",
+          "page": 4
+        },
+        {
+          "name": "(€18.82/€17.50/€14.83 per kg) 133g 93g/100g/118g Safari Magic Stars Maltesers/Minstrels/",
+          "price": "€1.75",
+          "page": 4
+        },
+        {
+          "name": "217g (€9.17 per kg) Salsa/Dip Specially Selected Snack Share. save.",
+          "price": "€2.99",
+          "page": 4
+        },
+        {
+          "name": "217g (€9.17 per kg) Salsa/Dip Specially Selected Share.",
+          "price": "€1.99",
+          "page": 4
+        },
+        {
+          "name": "140g (€14.21 per kg) Doritos Chilli per kg) from Roasted or Tikka. Breast Pieces",
+          "price": "€2.79",
+          "page": 4
+        },
+        {
+          "name": "140g (€14.21 per kg) 200g Doritos Chilli Jelly or Tikka. Pieces",
+          "price": "€1.99",
+          "page": 4
+        },
+        {
+          "name": "(€18.82/€17.50/€14.83 per kg) 133g (€11.20 per kg) Safari Snacks Stars Maltesers/Minstrels/",
+          "price": "€1.99",
+          "page": 4
+        },
+        {
+          "name": "per kg) 133g (€11.20 per kg) Safari Snacks",
+          "price": "€1.49",
+          "page": 4
+        },
+        {
+          "name": "100g (€14.90 per kg) Pink Wafers Stock up and",
+          "price": "€1.69",
+          "page": 4
+        },
+        {
+          "name": "100g (€14.90 per kg) Pink Wafers up and",
+          "price": "€1.49",
+          "page": 4
+        },
+        {
+          "name": "240g (€10.79 per kg) Potato Wedges Choose from Roasted or Tikka. Selected Chicken Breast Pieces",
+          "price": "€2.99",
+          "page": 4
+        },
+        {
+          "name": "240g (€10.79 per kg) Wedges Choose from Roasted or Tikka. Chicken Breast Pieces",
+          "price": "€2.59",
+          "page": 4
+        },
+        {
+          "name": "(€14.21 per kg) 200g (€4.95 per kg) Chilli Jelly Beans",
+          "price": "€1.49",
+          "page": 4
+        },
+        {
+          "name": "per kg) 200g (€4.95 per kg) Jelly Beans",
+          "price": "€0.99",
+          "page": 4
+        },
+        {
+          "name": "per kg) 454g (€6.59 per kg) Dairygold 240g (€10.79 per kg) Potato Wedges Choose from Roasted or Tikka. Selected Chicken Breast Pieces",
+          "price": "€3.99",
+          "page": 4
+        },
+        {
+          "name": "454g (€6.59 per kg) Dairygold 140g Doritos 240g (€10.79 per kg)",
+          "price": "€2.99",
+          "page": 4
+        },
+        {
+          "name": "1kg Premium Potato Wedges Specially Selected",
+          "price": "€2.99",
+          "page": 4
+        },
+        {
+          "name": "1kg 240g Premium Potato Wedges Specially Selected",
+          "price": "€2.19",
+          "page": 4
+        },
+        {
+          "name": "May. In store Sun May. (€5.30 per litre) x 330ml (€3.79 per litre) Corona Ligera deposit +90c deposit +90c",
+          "price": "€15.00",
+          "page": 5
+        },
+        {
+          "name": "In store Sun May. In store x 330ml (€5.30 per litre) x 330ml Birra Moretti Corona deposit +90c",
+          "price": "€10.50",
+          "page": 5
+        },
+        {
+          "name": "May. In store Sun May. per litre) x 330ml (€4.29 per litre) Coors deposit +90c deposit +90c",
+          "price": "€17.00",
+          "page": 5
+        },
+        {
+          "name": "In store Sun May. per litre) x 330ml (€6.43 per litre) Leffe deposit +90c deposit +90c",
+          "price": "€8.49",
+          "page": 5
+        },
+        {
+          "name": "75cl Spanish Rioja Reserva Sun May. Mon Offer available",
+          "price": "€8.99",
+          "page": 5
+        },
+        {
+          "name": "75cl De 75cl Jolie Spanish Rioja Reserva Sun May.",
+          "price": "€7.99",
+          "page": 5
+        },
+        {
+          "name": "75cl 75cl De Beziers Rosé Jolie by Juliette Coteaux Sainte Reserva May.",
+          "price": "€8.99",
+          "page": 5
+        },
+        {
+          "name": "75cl 75cl Victoire Rosé White Coteaux Sainte Animus",
+          "price": "€11.99",
+          "page": 5
+        },
+        {
+          "name": "75cl White Wine Animus Douro",
+          "price": "€7.99",
+          "page": 5
+        },
+        {
+          "name": "Sun May. Mon May Mon June. available Offer available (€3.39 per litre) x 330ml (€3.03 per litre) Heineken deposit +€1.20 deposit +90c",
+          "price": "€6.49",
+          "page": 5
+        },
+        {
+          "name": "ONLY May. Mon May Mon June. Mon Offer available Offer per litre) x 330ml (€3.03 per litre) x Heineken Stella",
+          "price": "€5.99",
+          "page": 5
+        },
+        {
+          "name": "ONLY Mon Sun May. Mon Offer available Offer x 500ml (€3.39 per litre) x 330ml Budweiser Heineken",
+          "price": "€13.57",
+          "page": 5
+        },
+        {
+          "name": "ONLY ONLY June. Mon Sun May. Mon Offer available Offer litre) x 500ml (€3.75 per litre) 620ml Stella Artois Corona",
+          "price": "€7.50",
+          "page": 5
+        },
+        {
+          "name": "ONLY Mon May Mon June. Offer available litre) 620ml (€4.68 per litre) Corona",
+          "price": "€2.90",
+          "page": 5
+        },
+        {
+          "name": "In store now. 120g (€24.92 per kg) Spanish Tapas Selection",
+          "price": "€2.99",
+          "page": 6
+        },
+        {
+          "name": "In store now. litre. Sangria",
+          "price": "€4.99",
+          "page": 6
+        },
+        {
+          "name": "160g (€11.19 per kg) 37g/32g Granules Mix Paella or Chorizo Peri Peri Style Sauce Choose from Spanish Flavour",
+          "price": "€1.79",
+          "page": 7
+        },
+        {
+          "name": "35g (€19.71 per kg) Patatas Bravas or Pil Pil. Choose from Chorizo, Paella, Spanish Seasoning Fiesta season.",
+          "price": "€0.69",
+          "page": 7
+        },
+        {
+          "name": "(€11.19 per kg) 37g/32g (€53.78/€62.19 per kg) Mix Paella or Chorizo Baked Eggs. Style Sauce Choose from Chicken Chorizo Spanish Flavour Kit",
+          "price": "€1.99",
+          "page": 7
+        },
+        {
+          "name": "400g (€3.23 per kg) Red or Green. Choose from Gazpacho Soup",
+          "price": "€1.29",
+          "page": 8
+        },
+        {
+          "name": "150g (€11.27 per kg) or Campensinas. Choose from Iberico Ham Cooked Crisps Spanish Hand",
+          "price": "€1.69",
+          "page": 8
+        },
+        {
+          "name": "700g (€4.27 per kg) In store now. Bagged Rice Meal Chicken and Chorizo kg) 65g (€19.85 per kg)",
+          "price": "€2.99",
+          "page": 8
+        },
+        {
+          "name": "(€14.54/€18.90 per kg) 130g/100g In store now. Choose from Diced or Coins. Spanish Chorizo",
+          "price": "€1.89",
+          "page": 8
+        },
+        {
+          "name": "660ml (€3.77 per litre) In store now. Premium Spanish Lager",
+          "price": "€2.49",
+          "page": 8
+        },
+        {
+          "name": "65g (€19.85 per kg) Choose from Salted or Barbecue. Chicharricos",
+          "price": "€1.29",
+          "page": 8
+        },
+        {
+          "name": "250g (€3.80 per kg) Patatas Bravas or Garbanzo. Choose from Paella, Spanish Style Rice",
+          "price": "€0.95",
+          "page": 8
+        },
+        {
+          "name": "120g (€11.58 per kg) In store now. Chorizo Slices",
+          "price": "€1.39",
+          "page": 8
+        },
+        {
+          "name": "(€4.65/€4.94 per kg) 170g/160g drained, In store now. Choose from Green or Black. Pitted Olives",
+          "price": "€0.79",
+          "page": 9
+        },
+        {
+          "name": "In store now. 75cl Rioja Joven Thur May",
+          "price": "€7.99",
+          "page": 9
+        },
+        {
+          "name": "green, blue or pink. Warm white LED. Available in Metal and glass construction. Solar Leaf Cascade Lantern in beige or black.",
+          "price": "€9.99",
+          "page": 10
+        },
+        {
+          "name": "designs. Approx. x x 16cm. mean Flower, Kingfisher or Butterfly Choose from Sunflower, Abstract Solar Stained-Glass Lantern",
+          "price": "€12.99",
+          "page": 10
+        },
+        {
+          "name": "Available in beige or black. Lighting time approx. hours. Four adjustable height options. spike for flexible placement. Weatherproof design. Ground",
+          "price": "€12.99",
+          "page": 10
+        },
+        {
+          "name": "by checking our website or downloading our year warranty*. Discover more about our Table with matching benches. Spacious seating. Metal Dining Set or",
+          "price": "€124.99",
+          "page": 11
+        },
+        {
+          "name": "Approx. x 150cm. Available in black, rose or grey. indoor and outdoor areas. Suitable for underfloor heating, Outdoor Rug",
+          "price": "€8.99",
+          "page": 11
+        },
+        {
+          "name": "or Round designs. life. Choose from Classic Approx. hours’ battery Cordless design. White Table Lamp",
+          "price": "€9.99",
+          "page": 11
+        },
+        {
+          "name": "Approx. x x 270cm. transportation and storage. Bag with wheels for easy UV resistant. Includes Carry Instant Canopy",
+          "price": "€59.99",
+          "page": 11
+        },
+        {
+          "name": "or Ball Ribbed. Approx. 3m wire. Choose from Filament Colour Change Party Fairy Lights",
+          "price": "€9.99",
+          "page": 11
+        },
+        {
+          "name": "in yellow, white or pink. Ladybird designs or Flower Clip String Light in Bee, Flower or green, red/green or yellow/green, yellow, Tulip in pink/green, purple/",
+          "price": "€1.99",
+          "page": 12
+        },
+        {
+          "name": "Approx. 20cm. purple, rose or yellow. pink, white, beige, designs in orange, Diamond or Round",
+          "price": "€3.49",
+          "page": 12
+        },
+        {
+          "name": "Approx. 4.7m. white LED lights. Horizontal. cool Vertical or Rainbow Choose from Rainbow",
+          "price": "€8.99",
+          "page": 12
+        },
+        {
+          "name": "or Fairy designs. Choose from Duck Water Feature Solar Novelty",
+          "price": "€59.99",
+          "page": 12
+        },
+        {
+          "name": "year warranty*. Approx. x x 8cm. or Blue Tit designs. Choose from Robin Solar Hanging Bird",
+          "price": "€5.99",
+          "page": 12
+        },
+        {
+          "name": "year warranty*. white LEDs. spotlight with stake. Solar-powered metal Spotlight",
+          "price": "€6.99",
+          "page": 13
+        },
+        {
+          "name": "white designs. change or warm Choose from colour Solar Ball Lights",
+          "price": "€9.99",
+          "page": 13
+        },
+        {
+          "name": "Choose from various colours. Solar Honeycomb Lantern",
+          "price": "€6.99",
+          "page": 13
+        },
+        {
+          "name": "Small in black, silver or Sunbeam. from Large in black or silver, or pack Lighting time approx. hours. Choose sensor. Includes rechargeable Battery. Solar panel with On/Off function. Twilight",
+          "price": "€5.99",
+          "page": 13
+        },
+        {
+          "name": "yellow/green, blue or pink. sensor. Available in Rainbow, with On/Off function. Twilight LED in the basket. Solar panel LEDs in balloon and SMD",
+          "price": "€12.99",
+          "page": 13
+        },
+        {
+          "name": "or warm white. year warranty*. Light Tube or Micro Wire in multicoloured Spike and Wall Bracket. Choose from Flashing functions. Includes Ground Solar Light Assortment",
+          "price": "€5.99",
+          "page": 13
+        },
+        {
+          "name": "installation. (€2.50 each) stainless Choose from various colours. Multicoloured Fluted Stake Lights each year warranty*.",
+          "price": "€9.99",
+          "page": 13
+        },
+        {
+          "name": "(€2.83 each) Mermaid or multicoloured designs. Bright white LED. Choose from steel construction. Easy installation. Mosaic design with durable stainless",
+          "price": "€16.99",
+          "page": 13
+        },
+        {
+          "name": "or Dragonfly designs. Seagrass, Peacock, Fireworks Solar powered. Choose from Lights Solar Spring Garden Stick",
+          "price": "€6.99",
+          "page": 13
+        },
+        {
+          "name": "x 96cm. year warranty*. orange or blue. Approx. x For outdoor use. Available in Garden String Chair",
+          "price": "€34.99",
+          "page": 14
+        },
+        {
+          "name": "in orange or blue. year warranty*. Suitable for outdoor use. Available Stackable space-saving design. Children’s Garden String Chair each",
+          "price": "€19.99",
+          "page": 14
+        },
+        {
+          "name": "year warranty*. designs in warm grey or dark slate. Choose from Rectangle or Triangle Easy to install, carry and store. Garden Wing Tarp",
+          "price": "€19.99",
+          "page": 14
+        },
+        {
+          "name": "FOR UNDER SEAT TOGETHER TAKE A",
+          "price": "€55.00",
+          "page": 14
+        },
+        {
+          "name": "Hanging Basket Mixed Irish Grown Premium Rattan",
+          "price": "€12.99",
+          "page": 14
+        },
+        {
+          "name": "Premium Rattan Mixed Petunia Plant",
+          "price": "€2.99",
+          "page": 14
+        },
+        {
+          "name": "Available in grey or black. year warranty*. with lock. Easy to clean. For outdoor use. coated steel frame. Multiple reclining positions Foldable space-saving design. Sturdy, powder- Folding Recliner",
+          "price": "€34.99",
+          "page": 15
+        },
+        {
+          "name": "(€2.50/€4.99 each) Both available in green, blue or pink. Hanging Plant Trough with hooks. Hanging Plant Pots with hooks or Metal frost resistant. Choose from pack Metal",
+          "price": "€4.99",
+          "page": 15
+        },
+        {
+          "name": "Slate in anthracite. in sand or anthracite or Choose from Sand Dune Plant Bowl",
+          "price": "€14.99",
+          "page": 15
+        },
+        {
+          "name": "or Fountain. Choose from Teapot Fairy Garden Kit each",
+          "price": "€9.99",
+          "page": 15
+        },
+        {
+          "name": "Gecko designs. Ladybird, Butterfly or hanger. Choose from Bee, designs. Metal figurine with Metal Wall Decor",
+          "price": "€3.99",
+          "page": 15
+        },
+        {
+          "name": "Height approx. 30cm. Choose from Bee, Pig or Frog designs. Metal Garden Figurine",
+          "price": "€6.99",
+          "page": 15
+        },
+        {
+          "name": "15.2cm. Diameter approx. in blue, red or sand. drainage. Available to control water",
+          "price": "€5.99",
+          "page": 15
+        },
+        {
+          "name": "(€24.95 per kg/ fragrances. or Citrus Sea Salt Fig, Olive Leaf Cypress Reed Diffuser in Pistachio",
+          "price": "€49.90",
+          "page": 15
+        },
+        {
+          "name": "per litre) (€24.95 per kg/ fragrances. or Citrus Sea Salt Fig, Olive Leaf Cypress",
+          "price": "€4.99",
+          "page": 15
+        },
+        {
+          "name": "Approx. x x 30cm. Includes Liner. Available in grey or natural. Wooden Planter with Trellis each per litre)",
+          "price": "€24.99",
+          "page": 15
+        },
+        {
+          "name": "year warranty*. and Chromed Cooking Grill. Plate, Steel Ring Safety Guard Includes Barbecue, Pizza Mini BBQ",
+          "price": "€99.99",
+          "page": 16
+        },
+        {
+          "name": "Sun May. French. In store Caesar, Ranch or Balsamic, Creamy Choose from",
+          "price": "€1.99",
+          "page": 16
+        },
+        {
+          "name": "(€3.99/€3.99/€2.00 each) Can Organiser or pack Small Trays. Hand wash only. Choose from Large Tray, Temperature resistant from -15°C to 40°C. Fridge Tray Assortment",
+          "price": "€3.99",
+          "page": 17
+        },
+        {
+          "name": "(€5.99/€3.00 each) in Plain or Patterned designs. Container or pack Medium Containers (without lid). Choose from Large microwave and dishwasher safe",
+          "price": "€5.99",
+          "page": 17
+        },
+        {
+          "name": "lilac or blue. (without lid). Available in green, Microwave and dishwasher safe Portion Perfect Meal Container each/2 pack",
+          "price": "€4.99",
+          "page": 17
+        },
+        {
+          "name": "In store Thur May. Have endless outdoor fun. Zuru Water Balloons per set lilac or blue.",
+          "price": "€8.99",
+          "page": 17
+        },
+        {
+          "name": "In store Thur May. litre Multipurpose Plant Food",
+          "price": "€4.99",
+          "page": 17
+        },
+        {
+          "name": "293g (€9.52 per kg) Seasoning. and Souvlaki Style Tzatziki Style Sauce Plain Pitta Breads,",
+          "price": "€2.79",
+          "page": 17
+        },
+        {
+          "name": "Choose from various designs. Summer Tableware each In store Thur May.",
+          "price": "€1.29",
+          "page": 17
+        },
+        {
+          "name": "berry, black or taupe. Water resistant. Available in Play time up to hours. Sports Earbuds Bluetooth®. or taupe.",
+          "price": "€14.99",
+          "page": 18
+        },
+        {
+          "name": "tube for easy inflation. approx. 22cm and approx. 25cm. Features Yoga Balls Set of Includes approx. 18cm, padded handles. Diameter approx. 25cm. Adjustable fitness bands with comfortable",
+          "price": "€7.99",
+          "page": 18
+        },
+        {
+          "name": "year warranty*. Chart. Max. user weight 125kg. Includes introductory Exercise Transportation wheels. Foldable design.",
+          "price": "€179.99",
+          "page": 18
+        },
+        {
+          "name": "4cm. warm grey or 8kg. Features Choose from 6kg Soft Kettlebell",
+          "price": "€7.99",
+          "page": 19
+        },
+        {
+          "name": "each) position. Choose from various designs. or pack Blocks. Comfortable support for every yoga Straps, pack Yoga Cushion each",
+          "price": "€12.99",
+          "page": 19
+        },
+        {
+          "name": "or beige in sizes Available in black in sizes Comfort Walking Shoes PADS",
+          "price": "€14.99",
+          "page": 19
+        },
+        {
+          "name": "(99.6c per pair) Socks in sizes or from Low Cut, Ankle or Crew Anti-bacterial treatment. Choose Fitness Socks",
+          "price": "€2.99",
+          "page": 19
+        },
+        {
+          "name": "in sizes or Available in black, pink or white Longline Sports Bra pair or beige in sizes",
+          "price": "€6.99",
+          "page": 19
+        },
+        {
+          "name": "(€5.99/€3.00/€3.00/€3.00/€3.00 each) Knee Pads, pack Moon Blocks or pack Choose from Wedge, pack Straps, pack Yoga Equipment",
+          "price": "€5.99",
+          "page": 19
+        },
+        {
+          "name": "various designs. rose or black. every yoga Available in berry, beige, Features a carry strap. Yoga Mat each",
+          "price": "€7.99",
+          "page": 19
+        },
+        {
+          "name": "various designs. Choose from tone muscles. workouts to Great for home",
+          "price": "€6.99",
+          "page": 19
+        },
+        {
+          "name": "or 12kg. Choose from 10kg Soft Kettlebell each warm grey or 8kg.",
+          "price": "€16.99",
+          "page": 19
+        },
+        {
+          "name": "or black. Approx. x x 4cm. carrying handles. Available in warm grey Foldable space-saving design. Features Foldable Fitness Mat",
+          "price": "€24.99",
+          "page": 19
+        },
+        {
+          "name": "x 100ml (€6.63 per litre) Tropico Fruit Lollies",
+          "price": "€1.99",
+          "page": 20
+        },
+        {
+          "name": "x 95ml (€8.66 per litre) Ice Cream Sandwiches Chocolate Chip Cookie",
+          "price": "€3.29",
+          "page": 20
+        },
+        {
+          "name": "x 75ml (€7.07 per litre) Watermelon Lollies x 95ml (€8.66 per litre) Ice Cream Sandwiches Chocolate Chip Cookie",
+          "price": "€1.59",
+          "page": 20
+        },
+        {
+          "name": "litre) x 70ml (€4.54 per litre) or Fruit Spiral Lollies x 75ml (€7.07 per litre) Watermelon Lollies",
+          "price": "€1.59",
+          "page": 20
+        },
+        {
+          "name": "x 58ml (€3.43 per litre) Rocket Lollies",
+          "price": "€1.55",
+          "page": 20
+        },
+        {
+          "name": "x 140ml (€5.16 per litre) Chocolate or Neapolitan. Choose from Cookies Whippy Cones",
+          "price": "€2.89",
+          "page": 20
+        },
+        {
+          "name": "300ml (€8.30 per litre) Strawberry Vanilla. Choose from Bubblegum or Gianni’s Twisty Pop",
+          "price": "€2.49",
+          "page": 20
+        }
+      ],
+      "tags": [
+        "2025",
+        "aldi"
+      ]
+    },
     {
       "file": "From-Thu-14-05-to-Wed-20-05-May-00.pdf",
       "pageCount": 32,
@@ -780,6 +2200,10 @@ window.LEAFLET_INDEX = {
           "price": "€19.99",
           "page": 32
         }
+      ],
+      "tags": [
+        "2025",
+        "lidl"
       ]
     },
     {
@@ -1526,6 +2950,10 @@ window.LEAFLET_INDEX = {
           "price": "€149.99",
           "page": 32
         }
+      ],
+      "tags": [
+        "2025",
+        "lidl"
       ]
     }
   ]

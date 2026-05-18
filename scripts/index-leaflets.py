@@ -12,7 +12,10 @@ from pathlib import Path
 try:
     import fitz
 except ImportError:
-    print("Install pymupdf: python3 -m pip install -r scripts/requirements.txt", file=sys.stderr)
+    print(
+        "Install pymupdf: python3 -m pip install -r scripts/requirements.txt",
+        file=sys.stderr,
+    )
     sys.exit(1)
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -20,7 +23,16 @@ LEAFLETS_DIR = ROOT / "leaflets"
 LOOKUP_DIR = ROOT / "lookup"
 PRODUCTS_JS = LOOKUP_DIR / "products.js"
 
-EURO_GLYPH = {"·": "4", "´": "1", "µ": "0", "¶": "1", "¸": "8", "º": "0", "¼": "1", "»": "2"}
+EURO_GLYPH = {
+    "·": "4",
+    "´": "1",
+    "µ": "0",
+    "¶": "1",
+    "¸": "8",
+    "º": "0",
+    "¼": "1",
+    "»": "2",
+}
 SUP = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹", "0123456789")
 
 
@@ -28,7 +40,7 @@ def is_noise_word(text: str) -> bool:
     text = text.strip()
     if len(text) < 2 and not text.isalpha():
         return True
-    if re.match(r'^[!\"#$%&\'()*+,\-./0-9:;<=>?@\\^_{|}~]+$', text):
+    if re.match(r"^[!\"#$%&\'()*+,\-./0-9:;<=>?@\\^_{|}~]+$", text):
         return True
     if re.search(r"[&;<>@%]{2}", text):
         return True
@@ -60,7 +72,11 @@ def normalize_price(text: str) -> str:
         euros_part, cents_part = body, "00"
 
     def conv(segment: str) -> str:
-        digits = "".join(EURO_GLYPH.get(ch, ch) for ch in segment if EURO_GLYPH.get(ch, ch) or ch.isdigit())
+        digits = "".join(
+            EURO_GLYPH.get(ch, ch)
+            for ch in segment
+            if EURO_GLYPH.get(ch, ch) or ch.isdigit()
+        )
         return digits or "0"
 
     euros = conv(euros_part)
@@ -154,11 +170,18 @@ def index_pdf(path: Path) -> dict:
     for page_idx in range(page_count):
         items.extend(extract_page(doc[page_idx], page_idx + 1))
     doc.close()
-    return {"file": path.name, "pageCount": page_count, "items": items}
+
+    relative = path.relative_to(LEAFLETS_DIR)
+    return {
+        "file": relative.name,
+        "pageCount": page_count,
+        "items": items,
+        "tags": list(relative.parent.parts),
+    }
 
 
 def main() -> None:
-    pdfs = sorted(LEAFLETS_DIR.glob("*.pdf"))
+    pdfs = sorted(LEAFLETS_DIR.glob("**/*.pdf"))
     if not pdfs:
         print(f"No PDFs in {LEAFLETS_DIR}")
         sys.exit(1)
@@ -177,7 +200,11 @@ def main() -> None:
         "leaflets": leaflets,
     }
     LOOKUP_DIR.mkdir(parents=True, exist_ok=True)
-    js = "window.LEAFLET_INDEX = " + json.dumps(payload, ensure_ascii=False, indent=2) + ";\n"
+    js = (
+        "window.LEAFLET_INDEX = "
+        + json.dumps(payload, ensure_ascii=False, indent=2)
+        + ";\n"
+    )
     PRODUCTS_JS.write_text(js, encoding="utf-8")
     print(f"Wrote {total_items} items to {PRODUCTS_JS.relative_to(ROOT)}")
 
