@@ -18,12 +18,34 @@
           autocomplete="off"
           autofocus
         />
+        <div class="tag-filter-wrap" id="tag-filter-wrap" hidden>
+          <button
+            type="button"
+            class="btn-secondary"
+            id="tag-filter-toggle"
+            aria-expanded="false"
+            aria-controls="tag-filter-menu"
+          >
+            Tags
+          </button>
+          <div id="tag-filter-menu" class="tag-filter-menu">
+            <input
+              type="text"
+              id="tag-filter-q"
+              class="tag-filter-q"
+              placeholder="Filter tags…"
+              autocomplete="off"
+              aria-label="Filter tags"
+            />
+            <div id="tag-filter-list" role="group" aria-label="Tag filters"></div>
+            <p id="tag-filter-empty" class="tag-filter-empty" hidden>No tags match.</p>
+            <button type="button" class="tag-filter-clear" id="tag-filter-clear" hidden>
+              Clear tags
+            </button>
+          </div>
+        </div>
         <button type="submit">Search</button>
       </form>
-      <div class="tag-filters" id="tag-filters" hidden>
-        <span class="tag-filters-label">Filter by tag</span>
-        <div id="tag-filter-list" role="group" aria-label="Tag filters"></div>
-      </div>
       <p id="meta"></p>
       <div id="results"></div>
     </main>

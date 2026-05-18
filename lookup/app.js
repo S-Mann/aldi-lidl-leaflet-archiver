@@ -3,8 +3,13 @@
   const input = document.getElementById("q");
   const meta = document.getElementById("meta");
   const results = document.getElementById("results");
-  const tagFiltersEl = document.getElementById("tag-filters");
+  const tagFilterWrap = document.getElementById("tag-filter-wrap");
+  const tagFilterToggle = document.getElementById("tag-filter-toggle");
+  const tagFilterMenu = document.getElementById("tag-filter-menu");
+  const tagFilterQuery = document.getElementById("tag-filter-q");
   const tagFilterList = document.getElementById("tag-filter-list");
+  const tagFilterEmpty = document.getElementById("tag-filter-empty");
+  const tagFilterClear = document.getElementById("tag-filter-clear");
 
   const index = window.LEAFLET_INDEX;
   if (!index?.leaflets) {
@@ -52,41 +57,109 @@
   function initTagFilters() {
     if (allTags.length === 0) return;
 
-    tagFiltersEl.hidden = false;
+    tagFilterWrap.hidden = false;
     tagFilterList.innerHTML = allTags
       .map(
-        (tag) =>
-          `<button type="button" class="tag-chip" data-tag="${escapeHtml(tag)}" aria-pressed="false">${escapeHtml(tag)}</button>`,
+        (tag) => `
+        <label class="tag-option" data-tag="${escapeHtml(tag)}">
+          <input type="checkbox" value="${escapeHtml(tag)}" />
+          <span>${escapeHtml(tag)}</span>
+        </label>`,
       )
       .join("");
 
-    tagFilterList.addEventListener("click", (e) => {
-      const btn = e.target.closest("[data-tag]");
-      if (!btn) return;
-      const tag = btn.dataset.tag;
-      if (selectedTags.has(tag)) {
-        selectedTags.delete(tag);
-        btn.setAttribute("aria-pressed", "false");
-        btn.classList.remove("is-active");
-      } else {
-        selectedTags.add(tag);
-        btn.setAttribute("aria-pressed", "true");
-        btn.classList.add("is-active");
-      }
+    tagFilterList.addEventListener("change", (e) => {
+      const input = e.target.closest('input[type="checkbox"]');
+      if (!input) return;
+      if (input.checked) selectedTags.add(input.value);
+      else selectedTags.delete(input.value);
+      updateTagFilterUi();
       syncTagParams();
       refresh();
+    });
+
+    tagFilterToggle.addEventListener("click", (e) => {
+      e.stopPropagation();
+      setTagMenuOpen(!isTagMenuOpen());
+    });
+
+    tagFilterMenu.addEventListener("click", (e) => {
+      e.stopPropagation();
+    });
+
+    tagFilterQuery.addEventListener("input", () => {
+      filterTagList(tagFilterQuery.value);
+    });
+
+    tagFilterQuery.addEventListener("keydown", (e) => {
+      if (e.key === "Enter") e.preventDefault();
+    });
+
+    tagFilterClear.addEventListener("click", () => {
+      selectedTags.clear();
+      updateTagFilterUi();
+      syncTagParams();
+      refresh();
+    });
+
+    document.addEventListener("click", () => {
+      if (isTagMenuOpen()) setTagMenuOpen(false);
+    });
+
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape" && isTagMenuOpen()) setTagMenuOpen(false);
     });
 
     const params = new URLSearchParams(location.search);
     for (const tag of params.getAll("tag")) {
       if (!allTags.includes(tag)) continue;
       selectedTags.add(tag);
-      const btn = tagFilterList.querySelector(`[data-tag="${cssEscape(tag)}"]`);
-      if (btn) {
-        btn.setAttribute("aria-pressed", "true");
-        btn.classList.add("is-active");
-      }
     }
+    updateTagFilterUi();
+  }
+
+  function isTagMenuOpen() {
+    return tagFilterMenu.classList.contains("is-open");
+  }
+
+  function filterTagList(query) {
+    const q = query.trim().toLowerCase();
+    let visible = 0;
+    for (const label of tagFilterList.querySelectorAll(".tag-option")) {
+      const tag = label.dataset.tag ?? "";
+      const match = !q || tag.includes(q);
+      label.classList.toggle("is-filtered-out", !match);
+      if (match) visible += 1;
+    }
+    tagFilterEmpty.hidden = visible > 0 || !q;
+  }
+
+  function setTagMenuOpen(open) {
+    tagFilterMenu.classList.toggle("is-open", open);
+    tagFilterToggle.setAttribute("aria-expanded", open ? "true" : "false");
+    if (open) {
+      tagFilterQuery.value = "";
+      filterTagList("");
+      tagFilterQuery.focus();
+    }
+  }
+
+  function updateTagFilterUi() {
+    for (const input of tagFilterList.querySelectorAll('input[type="checkbox"]')) {
+      input.checked = selectedTags.has(input.value);
+    }
+    const count = selectedTags.size;
+    tagFilterClear.hidden = count === 0;
+    tagFilterToggle.classList.toggle("has-filter", count > 0);
+    if (count === 0) {
+      tagFilterToggle.textContent = "Tags";
+      return;
+    }
+    if (count === 1) {
+      tagFilterToggle.textContent = `Tags · ${[...selectedTags][0]}`;
+      return;
+    }
+    tagFilterToggle.textContent = `Tags · ${count}`;
   }
 
   function syncTagParams() {
@@ -200,11 +273,6 @@
       .replace(/</g, "&lt;")
       .replace(/>/g, "&gt;")
       .replace(/"/g, "&quot;");
-  }
-
-  function cssEscape(s) {
-    if (typeof CSS !== "undefined" && CSS.escape) return CSS.escape(s);
-    return String(s).replace(/["\\]/g, "\\$&");
   }
 
   function formatDate(iso) {
