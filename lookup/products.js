@@ -1,5 +1,5 @@
 window.LEAFLET_INDEX = {
-  "indexedAt": "2026-06-04T09:15:39.428467+00:00",
+  "indexedAt": "2026-06-11T09:56:39.090640+00:00",
   "leaflets": [
     {
       "file": "ALDI IE  - ALDI IE Thur  04 Jun _ Sun 07 Jun.pdf",
@@ -2044,6 +2044,801 @@ window.LEAFLET_INDEX = {
           "name": "the grill",
           "price": "€2.99",
           "page": 24
+        }
+      ],
+      "tags": [
+        "2025",
+        "aldi"
+      ]
+    },
+    {
+      "file": "ALDI IE  - ALDI IE Thur  18 Jun _ Sun 21 Jun.pdf",
+      "pageCount": 20,
+      "items": [
+        {
+          "name": "Large Family Tent",
+          "price": "€119.99",
+          "page": 1
+        },
+        {
+          "name": "500g (€2.58 per kg) Flat Peaches June In store Thur June unpacked. Adventure,",
+          "price": "€2.99",
+          "page": 1
+        },
+        {
+          "name": "500g (€2.58 per kg) Flat Peaches June In store Thur June unpacked.",
+          "price": "€1.29",
+          "page": 1
+        },
+        {
+          "name": "500g pack (€3.38 (24.8c per each) kg) White Joya Apples Grapes GROWN IRELAND IN 1kg",
+          "price": "€2.79",
+          "page": 2
+        },
+        {
+          "name": "500g pack (€3.38 (24.8c per each) kg) White Joya Apples Grapes GROWN IRELAND IN",
+          "price": "€1.49",
+          "page": 2
+        },
+        {
+          "name": "750g (€1.32 per kg) Clementines",
+          "price": "€1.99",
+          "page": 2
+        },
+        {
+          "name": "750g (€1.32 per kg) Clementines",
+          "price": "€0.99",
+          "page": 2
+        },
+        {
+          "name": "¤1.49 pack (49.5c each) Twin Peppers",
+          "price": "€0.99",
+          "page": 2
+        },
+        {
+          "name": "1kg Baby Potatoes",
+          "price": "€1.39",
+          "page": 2
+        },
+        {
+          "name": "1kg Baby Potatoes",
+          "price": "€0.99",
+          "page": 2
+        },
+        {
+          "name": "750g (65.3c per kg) Red Onions guaranteed fruit and veg fresh",
+          "price": "€0.99",
+          "page": 2
+        },
+        {
+          "name": "750g (65.3c per kg) Red Onions guaranteed fruit and veg fresh",
+          "price": "€0.49",
+          "page": 2
+        },
+        {
+          "name": "500g (€2.58 per kg) Flat Peaches 750g (€1.32 per kg)",
+          "price": "€2.99",
+          "page": 2
+        },
+        {
+          "name": "500g (€2.58 per kg) Flat Peaches",
+          "price": "€1.29",
+          "page": 2
+        },
+        {
+          "name": "per kg) 400g (€7.48 per kg) Fried. BBQ Pulled Pork from Plain Slow Cooked Irish Goujons Irish",
+          "price": "€3.69",
+          "page": 3
+        },
+        {
+          "name": "400g (€7.48 per kg) BBQ Pulled Pork Slow Cooked Irish",
+          "price": "€2.99",
+          "page": 3
+        },
+        {
+          "name": "per kg) 454g (€8.79 per kg) Maple. Steak Mince from Asian BBQ Irish Fat Beef Round Strips per kg) 915g (€2.17 per kg)",
+          "price": "€4.39",
+          "page": 3
+        },
+        {
+          "name": "¤12.99 454g (€8.79 per kg) 454g Steak Mince Angus BBQ Irish Fat Beef Round Specially 915g (€2.17 per kg) 270g",
+          "price": "€3.99",
+          "page": 3
+        },
+        {
+          "name": "per kg) 270g (€8.48 per kg) Thighs/Drumsticks or Southern Fried. Chicken Choose from Plain Chicken Goujons Breaded Irish",
+          "price": "€2.99",
+          "page": 3
+        },
+        {
+          "name": "270g (€8.48 per kg) 400g or Southern Fried. BBQ Choose from Plain Slow Chicken Goujons Breaded Irish",
+          "price": "€2.29",
+          "page": 3
+        },
+        {
+          "name": "500g (€5.98 per kg) or Spicy Maple. Choose from Asian BBQ Pork Belly Strips Marinated",
+          "price": "€3.49",
+          "page": 3
+        },
+        {
+          "name": "500g (€5.98 per kg) 454g or Spicy Maple. Steak Choose from Asian BBQ Irish Pork Belly Strips Marinated",
+          "price": "€2.99",
+          "page": 3
+        },
+        {
+          "name": "per kg) 915g (€2.17 per kg) or Plain. Thighs/Drumsticks from Hot Honey Irish Chicken Sausages",
+          "price": "€2.89",
+          "page": 3
+        },
+        {
+          "name": "kg) 915g (€2.17 per kg) 270g Thighs/Drumsticks or Honey Irish Chicken Choose Chicken Breaded",
+          "price": "€1.99",
+          "page": 3
+        },
+        {
+          "name": "¤12.99 454g (€24.21 per kg) 454g (€26.41 Angus Striploin Steaks Angus Round Specially Selected Irish Specially 270g (€8.48 per kg) 400g (€7.48",
+          "price": "€10.99",
+          "page": 3
+        },
+        {
+          "name": "per kg) 454g (€26.41 per kg) Striploin Steaks Angus Ribeye Steaks Selected Irish Specially Selected Irish per kg) 400g (€7.48 per kg) Fried. BBQ Pulled Pork",
+          "price": "€13.99",
+          "page": 3
+        },
+        {
+          "name": "454g (€26.41 per kg) Steaks Angus Ribeye Steaks Irish Specially Selected Irish 400g (€7.48 per kg)",
+          "price": "€11.99",
+          "page": 3
+        },
+        {
+          "name": "400g (€3.73 per kg) Paprika or Plain. Choose from Hot Honey Jumbo Sausages",
+          "price": "€1.99",
+          "page": 3
+        },
+        {
+          "name": "400g (€3.73 per kg) 915g Paprika or Plain. Choose from Hot Honey Irish Jumbo Sausages",
+          "price": "€1.49",
+          "page": 3
+        },
+        {
+          "name": "pack (€12.02 per kg) Chocolate or Orange. Choose from Dark KitKat",
+          "price": "€1.69",
+          "page": 4
+        },
+        {
+          "name": "pack (€12.02 per kg) 280g Chocolate or Orange. Filled Choose from Dark Specially KitKat",
+          "price": "€1.49",
+          "page": 4
+        },
+        {
+          "name": "125g (€15.92 per kg) Moser Roth Chocolate",
+          "price": "€2.79",
+          "page": 4
+        },
+        {
+          "name": "125g (€15.92 per kg) 120g Moser Roth Chocolate Satin",
+          "price": "€1.99",
+          "page": 4
+        },
+        {
+          "name": "(€12.02 per kg) 280g (€10.68 per kg) or Orange. Filled Croissants from Dark Specially Selected",
+          "price": "€3.79",
+          "page": 4
+        },
+        {
+          "name": "kg) 280g (€10.68 per kg) 720g Filled Croissants Gráinne’s Specially Selected",
+          "price": "€2.99",
+          "page": 4
+        },
+        {
+          "name": "per kg) 120g (€16.58 per kg) Roth Chocolate Satin Crunch",
+          "price": "€2.79",
+          "page": 4
+        },
+        {
+          "name": "120g (€16.58 per kg) Chocolate Satin Crunch x 115g Choose Deli Style",
+          "price": "€1.99",
+          "page": 4
+        },
+        {
+          "name": "150g (€5.27 per kg) Snack Cracker without the up",
+          "price": "€0.99",
+          "page": 4
+        },
+        {
+          "name": "150g (€5.27 per kg) Snack Cracker without the up",
+          "price": "€0.79",
+          "page": 4
+        },
+        {
+          "name": "x 115g (€9.96 per kg) Choose from Crumbed or Carved. Deli Style Twin Pack",
+          "price": "€2.79",
+          "page": 4
+        },
+        {
+          "name": "x 115g (€9.96 per kg) Choose from Crumbed or Carved. Deli Style Twin Pack",
+          "price": "€2.29",
+          "page": 4
+        },
+        {
+          "name": "(€10.68 per kg) 720g (€4.01 per kg) Croissants Gráinne’s Crumble Selected",
+          "price": "€3.29",
+          "page": 4
+        },
+        {
+          "name": "kg) 720g (€4.01 per kg) Gráinne’s Crumble",
+          "price": "€2.89",
+          "page": 4
+        },
+        {
+          "name": "450g (€4.42 per kg) or Smooth Tomato. Choose from Original Pasta Sauce Dolmio Bolognese",
+          "price": "€2.49",
+          "page": 4
+        },
+        {
+          "name": "450g (€4.42 per kg) or Smooth Tomato. Choose from Original Pasta Sauce Dolmio Bolognese",
+          "price": "€1.99",
+          "page": 4
+        },
+        {
+          "name": "Thur Sun June. Offer available from 70cl Irish Whiskey Jameson Triple Distilled",
+          "price": "€32.50",
+          "page": 5
+        },
+        {
+          "name": "Thur Sun June. Thur Offer available from Offer 70cl 70cl Irish Whiskey Smirnoff Jameson Triple Distilled",
+          "price": "€22.09",
+          "page": 5
+        },
+        {
+          "name": "Sun June. Thur Wed June. available from Offer available from 70cl Smirnoff Vodka Triple Distilled",
+          "price": "€25.00",
+          "page": 5
+        },
+        {
+          "name": "70cl Irish Thur Wed June. Ardfallen Offer available from 70cl",
+          "price": "€20.71",
+          "page": 5
+        },
+        {
+          "name": "Thur Wed June Offer available from x 500ml (€3.00 per litre) Guinness",
+          "price": "€6.99",
+          "page": 5
+        },
+        {
+          "name": "Thur Wed June Offer available from x 500ml (€3.00 per litre) Guinness",
+          "price": "€5.99",
+          "page": 5
+        },
+        {
+          "name": "ONLY x 500ml (€3.75 per litre) Stella Artois",
+          "price": "€7.50",
+          "page": 5
+        },
+        {
+          "name": "Thur Wed June Offer available from x 500ml (€3.32 per litre) Guinness deposit +60c",
+          "price": "€16.50",
+          "page": 5
+        },
+        {
+          "name": "Thur Wed June Offer available from x 500ml (€3.32 per litre) Guinness deposit +60c",
+          "price": "€13.26",
+          "page": 5
+        },
+        {
+          "name": "70cl 70cl Irish Whiskey Douro White June. Ardfallen Animus",
+          "price": "€22.09",
+          "page": 5
+        },
+        {
+          "name": "70cl Douro White Animus",
+          "price": "€7.99",
+          "page": 5
+        },
+        {
+          "name": "(€2.77 per 70cl) 250ml Cocktail Cans Thur Wed June Offer available from",
+          "price": "€1.49",
+          "page": 5
+        },
+        {
+          "name": "(€2.77 per 70cl) 250ml Cocktail Cans deposit +€1.20 Thur Wed June",
+          "price": "€0.99",
+          "page": 5
+        },
+        {
+          "name": "3kg (€2.00 per kg) Premium Dog Food Naturally Better 70cl 70cl Irish Whiskey Douro White",
+          "price": "€6.99",
+          "page": 5
+        },
+        {
+          "name": "3kg (€2.00 per kg) Premium Dog Food Naturally Better",
+          "price": "€5.99",
+          "page": 5
+        },
+        {
+          "name": "pack (€2.74 per kg) Selection Dog Food Naturally Better Mixed deposit +60c 3kg (€2.00 per kg)",
+          "price": "€7.49",
+          "page": 5
+        },
+        {
+          "name": "pack (€2.74 per kg) Selection Dog Food Naturally Better Mixed 3kg (€2.00 per kg) Premium Dog Food",
+          "price": "€6.49",
+          "page": 5
+        },
+        {
+          "name": "Sauces from 170g (€5.82 per kg) Mixed Salad Leaves Italian Style",
+          "price": "€0.99",
+          "page": 7
+        },
+        {
+          "name": "750g (€1.59 per kg) Half Corn Cobs",
+          "price": "€1.19",
+          "page": 7
+        },
+        {
+          "name": "100g (€13.90 per kg) Asparagus Tips",
+          "price": "€1.39",
+          "page": 7
+        },
+        {
+          "name": "pack (17.5c each) Bungees Buns 750g (€1.59 per kg) Half Corn Cobs",
+          "price": "€1.05",
+          "page": 7
+        },
+        {
+          "name": "pack (27c each) Burger Buns Wholemeal 100g (€13.90 per kg) Asparagus Tips",
+          "price": "€1.09",
+          "page": 7
+        },
+        {
+          "name": "500g (€3.98 per kg) Irish Plum Tomatoes",
+          "price": "€1.99",
+          "page": 7
+        },
+        {
+          "name": "140g (€10.64 per kg) Cheddar Slices Spicy Irish",
+          "price": "€1.49",
+          "page": 7
+        },
+        {
+          "name": "500g (€2.30 per kg) Creamy Coleslaw for the grill. pairings",
+          "price": "€1.15",
+          "page": 7
+        },
+        {
+          "name": "220g (€9.95 per kg) Roasted Veg Cous Cous 500g (€2.30 per kg) Creamy Coleslaw",
+          "price": "€2.19",
+          "page": 7
+        },
+        {
+          "name": "170g (€5.82 per kg) Mixed Salad Leaves Italian Style",
+          "price": "€0.99",
+          "page": 7
+        },
+        {
+          "name": "(€6.36 per kg) Curry Pouch Indian Inspired Bilash",
+          "price": "€1.59",
+          "page": 8
+        },
+        {
+          "name": "Aged Basmati Rice Specially Selected tastebuds From creamy Discover a world of bold",
+          "price": "€2.69",
+          "page": 9
+        },
+        {
+          "name": "(€10.49 per kg) Indian Curry Kit Bilash Discover our full range in store. tastebuds to India has never been so",
+          "price": "€2.99",
+          "page": 9
+        },
+        {
+          "name": "(€6.61/€5.95 per kg) Choose from Chopped Chilli or Garlic. Chopped Ingredients Ready, Set... Cook! range in store.",
+          "price": "€1.19",
+          "page": 9
+        },
+        {
+          "name": "(€7.59/€9.92 per kg) Batter Mix Onion Bhaji Masala Chapati/ Bilash",
+          "price": "€1.29",
+          "page": 9
+        },
+        {
+          "name": "(24.8c each) Mini Naans Bilash 285g (€10.49 per kg)",
+          "price": "€1.49",
+          "page": 9
+        },
+        {
+          "name": "(€5.20 per kg) Balti Mix Bilash Bombay/ 170g/130g (€7.59/€9.92 per kg)",
+          "price": "€1.69",
+          "page": 9
+        },
+        {
+          "name": "(€9.93 per kg) or Tandoori Chicken. Choose from Onion Bhaji Bilash Hand Cooked Crisps pack",
+          "price": "€1.49",
+          "page": 9
+        },
+        {
+          "name": "(€9.93 per kg) Onion Bhaji Rings Crisps Bilash Vindaloo Sticks/",
+          "price": "€1.49",
+          "page": 9
+        },
+        {
+          "name": "or Rounders. Choose from Cricket Cricket/Rounders Set",
+          "price": "€12.99",
+          "page": 10
+        },
+        {
+          "name": "or charcoal in sizes Available in mauve in sizes Adults’ Hiking Shoes per set or Rounders.",
+          "price": "€19.99",
+          "page": 10
+        },
+        {
+          "name": "Available in green or grey. Exterior pocket. Roof opening. Zip entrance with straps. Pet Play Pen Thur",
+          "price": "€24.99",
+          "page": 11
+        },
+        {
+          "name": "Available in cream or blue. Net, Bats and Balls. and outdoor use. Includes games in one. For indoor Camping Games Table",
+          "price": "€29.99",
+          "page": 11
+        },
+        {
+          "name": "ages years. designs. Suitable for Pig or PAW Patrol Friends, Bluey, Peppa Spidey His Amazing",
+          "price": "€14.99",
+          "page": 11
+        },
+        {
+          "name": "Choose from Skittles or Bocce. Outdoor Game per set ages years. designs. Suitable for",
+          "price": "€11.99",
+          "page": 11
+        },
+        {
+          "name": "for little ones. Safe target play Soft Archery Set",
+          "price": "€29.99",
+          "page": 11
+        },
+        {
+          "name": "Jumble Tower or 4-in-1 Game. Cable. Choose from in a Row, or Travel Game Get road trip each",
+          "price": "€7.99",
+          "page": 11
+        },
+        {
+          "name": "yellow or green. year warranty*. 4-in-1 Game. Cable. Available in blue, pink, white, Row, or cable connection. Includes USB-C Adjustable and foldable. Bluetooth® Children’s Headphones",
+          "price": "€12.99",
+          "page": 11
+        },
+        {
+          "name": "Headrest or Sunglasses Clip. Cup Holder, Car Door Bin, Choose from Tablet Holder, Car Interior Accessory per set",
+          "price": "€4.99",
+          "page": 11
+        },
+        {
+          "name": "for on-the-go. Handy medical supplies Car Medical Kit warranty*. pink, white, each",
+          "price": "€5.99",
+          "page": 11
+        },
+        {
+          "name": "Girl or Flowers designs. Flip Flops, Guitar, Hula Choose from Lizard, Bird, Air Freshener per set",
+          "price": "€2.49",
+          "page": 11
+        },
+        {
+          "name": "Sleeps up to people. blue or Large Family Tent Includes Camping",
+          "price": "€119.99",
+          "page": 12
+        },
+        {
+          "name": "blue or green. Max. capacity 240kg. Includes Carry Bag. Available in Camping Double Chair",
+          "price": "€54.99",
+          "page": 12
+        },
+        {
+          "name": "240kg. Includes matching Stools. in Picnic Table",
+          "price": "€29.99",
+          "page": 12
+        },
+        {
+          "name": "Foldable design. year warranty*. front cup holder and removable inner cover. Features a handle, large wheels, brakes, double Folding Trolley each each",
+          "price": "€49.99",
+          "page": 12
+        },
+        {
+          "name": "58c/35c/€1.17 each or pack Reflective Ropes. pack Premium Tent Pegs Pile Driver Tent Pegs, cover. Ground Tent Pegs, pack",
+          "price": "€6.99",
+          "page": 12
+        },
+        {
+          "name": "Available in green or grey. Foldable design. Camping Storage Box pack/20 pack/6 pack 58c/35c/€1.17 each",
+          "price": "€8.99",
+          "page": 12
+        },
+        {
+          "name": "outdoor use. Available in grey or beige. Flocked surface. Suitable for indoor and 4-in-1 Airbed",
+          "price": "€29.99",
+          "page": 13
+        },
+        {
+          "name": "Children’s available in green or blue. Adults’ available in green, grey or blue. Children’s in left or right opening designs. polyester. Choose from Adults’ or Sleeping Bag",
+          "price": "€14.99",
+          "page": 13
+        },
+        {
+          "name": "from Plug In or Car Pump. airbeds and boats. Choose for inflatable pools, toys, Includes Adaptors. Suitable Electric Air Pump",
+          "price": "€5.99",
+          "page": 13
+        },
+        {
+          "name": "Available in black or green. and outdoor use. Suitable for indoor Multipurpose Floor Mat",
+          "price": "€2.83",
+          "page": 13
+        },
+        {
+          "name": "each Available in black or green. and outdoor use. Suitable for indoor Multipurpose Floor Mat",
+          "price": "€16.99",
+          "page": 13
+        },
+        {
+          "name": "downloading our app. by checking our website or more about our products year warranty*. Discover Suitable for outdoor use.",
+          "price": "€19.99",
+          "page": 13
+        },
+        {
+          "name": "dust resistant. Approx. 40W. and foldable. Water and USB ports. Lightweight solar panels and Solar Charger",
+          "price": "€34.99",
+          "page": 13
+        },
+        {
+          "name": "or Lion designs. Shark, Unicorn Flashlight in Headtorch or Choose from",
+          "price": "€3.99",
+          "page": 13
+        },
+        {
+          "name": "blue, beige or grey. Anti-slip feet. Available in Foldable design. Carry handle. Folding Step Stool",
+          "price": "€4.99",
+          "page": 13
+        },
+        {
+          "name": "Available in grey or black. Includes Carry Bag. Kitchen Storage",
+          "price": "€44.99",
+          "page": 14
+        },
+        {
+          "name": "(€3.00 each) Lemon or Bee designs. Leaf from Cherries, Ladybird, capacity. for liquids up to 60°C. Choose Hand Dishwasher safe. Suitable",
+          "price": "€5.99",
+          "page": 14
+        },
+        {
+          "name": "steel. Available in grey or blue. Double lined with stainless Folding Kettle Warmer each Available in grey or black.",
+          "price": "€19.99",
+          "page": 14
+        },
+        {
+          "name": "designs. Leaf Print, cream, navy or green. Ladybird, capacity. Choose from Flower Print, or 60°C. Choose Hand wash only. Approx. litre Suitable Stainless Steel Bottle",
+          "price": "€7.99",
+          "page": 14
+        },
+        {
+          "name": "navy or green. or Floral designs. Available in Flower Print, Mango Wood in green Dishwasher Approx. litre Choose from Acacia or 24-piece set. Wooden Snack Bowl Cutlery Set",
+          "price": "€9.99",
+          "page": 14
+        },
+        {
+          "name": "designs. Available in gold or silver. Wood in green Dishwasher safe. from Acacia or 24-piece set. Snack Bowl Cutlery Set",
+          "price": "€16.99",
+          "page": 14
+        },
+        {
+          "name": "Available in black or grey. Includes Carry Bag. Foldable design. Box with Stand Pop-Up Cool",
+          "price": "€19.99",
+          "page": 15
+        },
+        {
+          "name": "blue or rose. Fork. Available in green, safe. Includes Spoon and safe (without lid). Freezer Dishwasher and microwave",
+          "price": "€5.99",
+          "page": 15
+        },
+        {
+          "name": "(€1.20 each) and freezer safe. Dishwasher Microwave Containers",
+          "price": "€5.99",
+          "page": 15
+        },
+        {
+          "name": "(€1.50 each) Choose from Round or Square. Plastic Storage Boxes each",
+          "price": "€2.99",
+          "page": 15
+        },
+        {
+          "name": "(€4.49/€2.25/€1.50 each) Apple designs or pack Peelers. Pineapple, Pear/Tomato or pack Timers in Strawberry/ Juicer, Strawberry Hull Slice,",
+          "price": "€4.49",
+          "page": 15
+        },
+        {
+          "name": "with Trays, Mats or Containers. Choose from Chopping Board BPA free. bamboo. Chopping Board pack",
+          "price": "€8.99",
+          "page": 15
+        },
+        {
+          "name": "or Dish Drying Rack. Choose from Washing Bowl Washing Accessory Collapsible each",
+          "price": "€5.99",
+          "page": 15
+        },
+        {
+          "name": "Rack in charcoal or grey. Soap Holder or Corner Choose from Sink Mat, Silicone Sink Accessory each/2 pack/3 pack",
+          "price": "€3.49",
+          "page": 15
+        },
+        {
+          "name": "Bedding Kalanchoe Carry Kraft Outdoor each or Dish Drying Rack. Choose from Washing Bowl",
+          "price": "€4.99",
+          "page": 15
+        },
+        {
+          "name": "Plants Summer Calla Lily Pot Electric Cool each Rack in charcoal or grey. Soap Holder or Corner",
+          "price": "€7.99",
+          "page": 15
+        },
+        {
+          "name": "Bedding Plants Carry Kraft Outdoor Summer Calla Lily Pot Rack. Rack Washing Bowl Accessory",
+          "price": "€2.99",
+          "page": 15
+        },
+        {
+          "name": "Electric Cool Box each Rack in charcoal or grey. Soap Holder or Corner Choose from Sink Mat,",
+          "price": "€49.99",
+          "page": 15
+        },
+        {
+          "name": "blue or teal. Choose from Watermelon, Collapsible Pet Pool",
+          "price": "€9.99",
+          "page": 16
+        },
+        {
+          "name": "(€2.00 each) Doughnut or yellow pink Rings. Choose from Watermelon Bone, Popsicle Cooling Dog Toy not included.",
+          "price": "€3.99",
+          "page": 16
+        },
+        {
+          "name": "Suitable for land and water. Lighthouse, Tail or Sea Horse. Choose from Starfish, Dog Floating Toy each",
+          "price": "€4.99",
+          "page": 17
+        },
+        {
+          "name": "Crocodile, Cow, Reindeer or Beaver. Choose from Fox, Goat, Raccoon, Dog Plush Rope Toy",
+          "price": "€4.99",
+          "page": 17
+        },
+        {
+          "name": "Cream, Pickle or Flower. Choose from Bee, Ice Soft Toy with Rope Sun In",
+          "price": "€4.99",
+          "page": 17
+        },
+        {
+          "name": "Mr. Chatterbox or Mr. Funny. Choose from Mr. Tickle, Mr. Bump, Mr. Men Dog Toy each Crocodile, Cow, Reindeer or Beaver.",
+          "price": "€4.99",
+          "page": 17
+        },
+        {
+          "name": "Choose from various colours. Honking Bird each Cream, Pickle or Flower. Choose from Bee, Ice",
+          "price": "€5.99",
+          "page": 17
+        },
+        {
+          "name": "Choose from Shoe, Football or Trophy. Sports Plush Toy each",
+          "price": "€4.49",
+          "page": 17
+        },
+        {
+          "name": "Choose from various designs. Coffee Wood Chew Bone each",
+          "price": "€4.99",
+          "page": 17
+        },
+        {
+          "name": "Beef or BBQ flavours. or blue/yellow designs, in Chicken, Available in black/white, multicoloured Sensory Dog Ball each",
+          "price": "€2.99",
+          "page": 17
+        },
+        {
+          "name": "Choose from Quilted, Two-Tone, Velvet or Removable and reversible cushion. Plush Pet Bed Accessories",
+          "price": "€14.99",
+          "page": 18
+        },
+        {
+          "name": "Quilted, Two-Tone, Velvet or Corduroy. and reversible cushion. Bed Accessories not included.",
+          "price": "€19.99",
+          "page": 18
+        },
+        {
+          "name": "small medium Choose from Quilted, Two-Tone, Velvet or Removable and reversible cushion. Plush Pet Bed Accessories",
+          "price": "€24.99",
+          "page": 18
+        },
+        {
+          "name": "medium Quilted, Two-Tone, Velvet or Corduroy. and reversible cushion. Bed Accessories not included.",
+          "price": "€29.99",
+          "page": 18
+        },
+        {
+          "name": "beige, dark grey or light grey. Machine washable. Available in Medium Pet Crate Mat",
+          "price": "€9.99",
+          "page": 18
+        },
+        {
+          "name": "Water-repellent fabric. Approx. x x 35cm. Pet Travel Seat large extra large small medium Choose from Quilted, Two-Tone, Velvet or",
+          "price": "€17.99",
+          "page": 18
+        },
+        {
+          "name": "Choose from Round or Square. Includes Ceramic Food Bowls. Raised Food Bowls",
+          "price": "€8.99",
+          "page": 19
+        },
+        {
+          "name": "litre capacity. black or white. Approx. or Water Dispenser in Choose from Feeder Hand wash only.",
+          "price": "€6.99",
+          "page": 19
+        },
+        {
+          "name": "All available in green or grey. De-Shed Comb, Pet Rake, or Slicker Brush. Choose from Nail Grinder, Nail Clipper, Pet Grooming Tool",
+          "price": "€4.99",
+          "page": 19
+        },
+        {
+          "name": "Approx. x x 20cm. in silver cloud or thunderstorm. Mounts to the window. Available Cat Window Bed each",
+          "price": "€14.99",
+          "page": 19
+        },
+        {
+          "name": "Available in green or blue. thunderstorm. Balls, Feather Wand and Food Bowl. Available Includes 360° Spinning Disc, Interactive Cat Toy each",
+          "price": "€4.99",
+          "page": 19
+        },
+        {
+          "name": "pack Starfish Shell. (€3.49/€1.75 each) blue. Fish Seahorse, pack Squid Whale or and Food Bowl. Jellyfish Wand, Manta Ray Wand, pack Disc, Catnip filled. Choose from Crab Wand, Sea Creature Cat Toy",
+          "price": "€3.49",
+          "page": 19
+        },
+        {
+          "name": "x x 39cm. or dark grey. Approx. Available in light grey Cat Litter House each",
+          "price": "€16.99",
+          "page": 19
+        },
+        {
+          "name": "grey. Approx. x 75cm. Available in light grey or dark Cat Litter Catcher Mat each/2 pack",
+          "price": "€7.99",
+          "page": 19
+        },
+        {
+          "name": "1.5kg (€1.99 per kg) 500ml Chunky Oven Chips Vanilla kg) Specially Selected Irish Specially",
+          "price": "€2.99",
+          "page": 20
+        },
+        {
+          "name": "kg) 500ml (€5.98 per litre) Chips Vanilla Ice Cream Irish Madagascan Specially Selected",
+          "price": "€2.99",
+          "page": 20
+        },
+        {
+          "name": "(€6.64/€7.48 per kg) 450g/400g or Banana Blonde. Choose from Sticky Toffee Hot Sponge Puddings",
+          "price": "€2.99",
+          "page": 20
+        },
+        {
+          "name": "Wed June 454g (€24.21 per kg) available from Striploin Steaks Irish Angus Alberone Rosso Specially Selected",
+          "price": "€12.99",
+          "page": 20
+        },
+        {
+          "name": "1.5kg Chunky June 454g (€24.21 per kg) Specially from Striploin Steaks Irish Angus",
+          "price": "€10.99",
+          "page": 20
+        },
+        {
+          "name": "Thur Wed June Offer available from 75cl Grande Alberone Rosso",
+          "price": "€9.99",
+          "page": 20
+        },
+        {
+          "name": "Thur Wed June 454g (€24.21 Offer available from Striploin 75cl Irish Angus Grande Alberone Rosso Specially",
+          "price": "€8.99",
+          "page": 20
         }
       ],
       "tags": [
@@ -5743,6 +6538,786 @@ window.LEAFLET_INDEX = {
         {
           "name": "to 240°C. Temperature range from Ultra Crisp. Roast, Bake, Prove, Air Fry, selection: Reheat, Dehydrate,",
           "price": "€19.99",
+          "page": 32
+        }
+      ],
+      "tags": [
+        "2025",
+        "lidl"
+      ]
+    },
+    {
+      "file": "From-Thu-18-06-to-Wed-24-06-June-00.pdf",
+      "pageCount": 32,
+      "items": [
+        {
+          "name": "With Lidl Plus With 1l 15x500ml Deposit Return Alc. Vol.",
+          "price": "€5.45",
+          "page": 1
+        },
+        {
+          "name": "With Lidl Plus With Lidl Plus 1l Universal Tool Tool 15x500ml PARKSIDE E Deposit Return Alc. Vol.",
+          "price": "€0.00",
+          "page": 1
+        },
+        {
+          "name": "SAVE€10 With Lidl Plus Universal Tool Tool Stand Stand PARKSIDE E Return",
+          "price": "€19.99",
+          "page": 1
+        },
+        {
+          "name": "PARKSIDE E Offer Highlight",
+          "price": "€0.00",
+          "page": 1
+        },
+        {
+          "name": "Day Irish 1kg Up to DELUXE 33/40/45g POCKY",
+          "price": "€1.99",
+          "page": 1
+        },
+        {
+          "name": "Steaks With Lidl Plus",
+          "price": "€11.69",
+          "page": 1
+        },
+        {
+          "name": "Lidl Plus",
+          "price": "€0.00",
+          "page": 1
+        },
+        {
+          "name": "piece Melon Melon Honeydew Honeydew With Lidl Plus A E T S T W K",
+          "price": "€1.49",
+          "page": 1
+        },
+        {
+          "name": "A E T S T S E B W K SUPER SAVERS L R O S D B E S",
+          "price": "€0.00",
+          "page": 1
+        },
+        {
+          "name": "Potatoes Cyprus",
+          "price": "€0.49",
+          "page": 2
+        },
+        {
+          "name": "piece Irish Butterhead Lettuce FARRELL'S",
+          "price": "€0.59",
+          "page": 2
+        },
+        {
+          "name": "piece Honeydew Melon",
+          "price": "€1.49",
+          "page": 3
+        },
+        {
+          "name": "Tomatoes Loose Vine",
+          "price": "€1.99",
+          "page": 3
+        },
+        {
+          "name": "1kg 200g Snack Peppers",
+          "price": "€0.99",
+          "page": 3
+        },
+        {
+          "name": "Skinless Salmon Darnes LIGHTHOUSE BAY Sensational Salmon",
+          "price": "€4.49",
+          "page": 4
+        },
+        {
+          "name": "Irish Chicken Breast Fillets Irish Chicken",
+          "price": "€4.99",
+          "page": 4
+        },
+        {
+          "name": "Garlic Pepper Plain Irish Duck Breast Fillets DELUXE Irish Duck",
+          "price": "€4.85",
+          "page": 5
+        },
+        {
+          "name": "Breast Mince Irish Turkey Irish Turkey",
+          "price": "€1.79",
+          "page": 5
+        },
+        {
+          "name": "Teriyaki Salt Chilli Irish Marinated Quick Fry Pork Loin Chops Irish Pork",
+          "price": "€0.49",
+          "page": 5
+        },
+        {
+          "name": "Steak Mince Irish Organic Irish Organic Beef",
+          "price": "€4.89",
+          "page": 5
+        },
+        {
+          "name": "Cut",
+          "price": "€1.49",
+          "page": 6
+        },
+        {
+          "name": "Baked Beans NEWGATE 1kg 240g Buttermilk Pancakes",
+          "price": "€1.29",
+          "page": 7
+        },
+        {
+          "name": "Pudding Sausages",
+          "price": "€0.47",
+          "page": 7
+        },
+        {
+          "name": "1kg 470g Brown Sauce BATTS Each",
+          "price": "€1.19",
+          "page": 7
+        },
+        {
+          "name": "1l Return Deposit Orange Juice with Bits NATURIS",
+          "price": "€1.99",
+          "page": 7
+        },
+        {
+          "name": "Sausages GLENSALLAGH special person this up a sizzling",
+          "price": "€1.49",
+          "page": 7
+        },
+        {
+          "name": "1kg 240g Buttermilk Pancakes MILBONA Father’s Day!",
+          "price": "€2.29",
+          "page": 7
+        },
+        {
+          "name": "1kg 1k 227g Ground G Coffee BELLAROM B Each",
+          "price": "€2.69",
+          "page": 7
+        },
+        {
+          "name": "1kg 500ml Tomato Ketchup BATTS Beans",
+          "price": "€0.99",
+          "page": 7
+        },
+        {
+          "name": "1kg x 47g Petits Filous YOPLAIT",
+          "price": "€1.49",
+          "page": 8
+        },
+        {
+          "name": "1kg 1kg 180g x Yogurt Protein Granola",
+          "price": "€1.65",
+          "page": 8
+        },
+        {
+          "name": "1kg 450g FLORA",
+          "price": "€0.75",
+          "page": 8
+        },
+        {
+          "name": "Oat Barista Drink OATLY",
+          "price": "€1.99",
+          "page": 8
+        },
+        {
+          "name": "1kg 1.02kg Potato Wafﬂ es BIRDSEYE",
+          "price": "€1.99",
+          "page": 8
+        },
+        {
+          "name": "With Lidl Plus 1l 12x500ml Return Deposit Alc. Vol.",
+          "price": "€0.00",
+          "page": 9
+        },
+        {
+          "name": "With Lidl Plus 1l 15x500ml Deposit Return Alc. Vol.",
+          "price": "€0.00",
+          "page": 9
+        },
+        {
+          "name": "With Lidl Plus 1l 12x330ml Alc. Vol. Beer",
+          "price": "€0.00",
+          "page": 9
+        },
+        {
+          "name": "With Lidl Plus 1l 12x330ml Alc. Vol. Beer",
+          "price": "€15.62",
+          "page": 9
+        },
+        {
+          "name": "With Lidl Plus MIX 1kg 1l 140g 2l Chilli Unit DORITOS 7UP",
+          "price": "€1.99",
+          "page": 9
+        },
+        {
+          "name": "With Lidl Plus 1kg 1l 200g Cat Treats U DREAMIES W",
+          "price": "€8.49",
+          "page": 9
+        },
+        {
+          "name": "MULTI-BUY With Lidl Plus 1kg 1l 200g 654ml Cat Treats Unit U Price:",
+          "price": "€0.00",
+          "page": 9
+        },
+        {
+          "name": "With Lidl Plus 1l 12x500ml Return Deposit Alc. Vol.",
+          "price": "€19.88",
+          "page": 9
+        },
+        {
+          "name": "With Lidl Plus 1kg 200g Coffee Smooth Instant",
+          "price": "€0.49",
+          "page": 9
+        },
+        {
+          "name": "With Lidl Plus With Lidl Plus 1kg 1l 200g 12x500ml Coffee Return Smooth Instant Alc. Vol.",
+          "price": "€0.00",
+          "page": 9
+        },
+        {
+          "name": "With Lidl Plus 1l 15x500ml Deposit Return Alc. Vol.",
+          "price": "€5.45",
+          "page": 9
+        },
+        {
+          "name": "With Lidl Plus 1Piece Pack Gold Blend Tea LYONS",
+          "price": "€1.49",
+          "page": 9
+        },
+        {
+          "name": "With Lidl Plus With Lidl Plus 1Piece 1kg Pack 200g Gold Blend Tea Coffee LYONS Smooth Instant",
+          "price": "€0.00",
+          "page": 9
+        },
+        {
+          "name": "With Lidl Plus MIX 'N' 1kg 1l 140g 2l Chilli Unit Price: DORITOS Return Deposit",
+          "price": "€0.00",
+          "page": 9
+        },
+        {
+          "name": "With Lidl Plus 1kg x 37g Kid Yogurt Tubes MILBONA",
+          "price": "€1.34",
+          "page": 10
+        },
+        {
+          "name": "With Lidl Plus 1kg x 37g Kid Yogurt Tubes MILBONA",
+          "price": "€0.00",
+          "page": 10
+        },
+        {
+          "name": "With Lidl Plus 1kg Granulated Sugar BELBAKE",
+          "price": "€1.34",
+          "page": 10
+        },
+        {
+          "name": "With Lidl Plus With Lidl Plus 1kg 1l Granulated Sugar 1.5l BELBAKE Return Double",
+          "price": "€0.00",
+          "page": 10
+        },
+        {
+          "name": "With Lidl Plus 1l 3l Fabric Conditioner DOUSSY",
+          "price": "€0.60",
+          "page": 10
+        },
+        {
+          "name": "With Lidl Plus Fabric Conditioner DOUSSY",
+          "price": "€0.00",
+          "page": 10
+        },
+        {
+          "name": "With Lidl Plus 1kg 300g Fresh Fruit Salad MEADOW FRESH",
+          "price": "€1.49",
+          "page": 10
+        },
+        {
+          "name": "With Lidl Plus With Lidl Plus 1kg 1kg 300g x 37g Fresh Fruit Salad Kid Yogurt MEADOW FRESH MILBONA",
+          "price": "€0.00",
+          "page": 10
+        },
+        {
+          "name": "With Lidl Plus 1l 1.5l Return Deposit Double Concentrate Squash",
+          "price": "€1.11",
+          "page": 10
+        },
+        {
+          "name": "With Lidl Plus With Lidl Plus 1l 1l 1.5l 3l Return Deposit Fabric Double Concentrate Squash DOUSSY",
+          "price": "€0.00",
+          "page": 10
+        },
+        {
+          "name": "With Lidl Plus 1l 1kg 150ml Return Deposit Juice Shots",
+          "price": "€1.47",
+          "page": 10
+        },
+        {
+          "name": "With Lidl Plus With Lidl Plus 1l 1kg 150ml 300g Return Deposit Fresh Fruit Salad Juice Shots MEADOW FRESH",
+          "price": "€0.00",
+          "page": 10
+        },
+        {
+          "name": "Date Bites Peanut Cocoa ALESTO",
+          "price": "€1.73",
+          "page": 11
+        },
+        {
+          "name": "Crispy French Fries Goujons HARVEST BASKET",
+          "price": "€1.04",
+          "page": 11
+        },
+        {
+          "name": "1kg Deli Style Coleslaw DELUXE",
+          "price": "€1.11",
+          "page": 11
+        },
+        {
+          "name": "Breaded Chicken Fillet Goujons RED HEN",
+          "price": "€8.18",
+          "page": 11
+        },
+        {
+          "name": "Food Pairing: Salads, fish and pâté. relatively light and dry. Tasting Notes: Bright, peachy fruit, 750ml Alc. Vol. French",
+          "price": "€0.99",
+          "page": 11
+        },
+        {
+          "name": "hearty stews and aged cheeses. or lamb, roasted or grilled game, Food Pairing: Red meat, such as beef chocolate and tobacco. blackberry, and savory notes like dark",
+          "price": "€11.99",
+          "page": 11
+        },
+        {
+          "name": "Shrimp Gyoza with Sauce STYLE VITASIA JAPANESE STYLE to Value.",
+          "price": "€3.00",
+          "page": 12
+        },
+        {
+          "name": "Sauce Gyoza STYLE VITASIA JAPANESE STYLE",
+          "price": "€3.00",
+          "page": 12
+        },
+        {
+          "name": "Gyoza VITASIA JAPANESE STYLE More to",
+          "price": "€3.00",
+          "page": 12
+        },
+        {
+          "name": "Edamame Beans VITASIA JAPANESE STYLE .⁹⁹",
+          "price": "€2.00",
+          "page": 13
+        },
+        {
+          "name": "Sushi Kit VITASIA JAPANESE STYLE .⁷⁹",
+          "price": "€4.00",
+          "page": 13
+        },
+        {
+          "name": "Wakame Salad STYLE VITASIA JAPANESE STYLE",
+          "price": "€2.00",
+          "page": 13
+        },
+        {
+          "name": "Sushi Caviar STYLE VITASIA JAPANESE STYLE .²⁹",
+          "price": "€2.00",
+          "page": 13
+        },
+        {
+          "name": "Miso Paste STYLE VITASIA JAPANESE STYLE .³⁹ .⁴⁹",
+          "price": "€1.00",
+          "page": 13
+        },
+        {
+          "name": "Sushi Ginger VITASIA JAPANESE STYLE .³⁹",
+          "price": "€1.00",
+          "page": 13
+        },
+        {
+          "name": "Wakame Seaweed VITASIA JAPANESE STYLE",
+          "price": "€1.00",
+          "page": 13
+        },
+        {
+          "name": "1kg Up to Selection Assorted Maki OISHII SUSHI",
+          "price": "€1.99",
+          "page": 13
+        },
+        {
+          "name": "Snack Pack OISHII SUSHI",
+          "price": "€0.19",
+          "page": 13
+        },
+        {
+          "name": "1kg Up to Sushi Lovers RAKU",
+          "price": "€8.29",
+          "page": 13
+        },
+        {
+          "name": ".²⁹ 1kg Panko Breadcrumbs SAMLIP",
+          "price": "€1.00",
+          "page": 14
+        },
+        {
+          "name": "1l 250ml Sesame Oil STYLE VITASIA JAPANESE",
+          "price": "€2.00",
+          "page": 14
+        },
+        {
+          "name": "1kg Miso Soup Cup STYLE VITASIA JAPANESE STYLE .⁹⁹",
+          "price": "€2.00",
+          "page": 14
+        },
+        {
+          "name": "1kg Soup Mini Chicken Schnitzel STYLE VITASIA JAPANESE STYLE .²⁹ .⁷⁹",
+          "price": "€3.00",
+          "page": 14
+        },
+        {
+          "name": "1kg Nobashi Style King Prawns VITASIA JAPANESE STYLE",
+          "price": "€3.00",
+          "page": 14
+        },
+        {
+          "name": "1kg 400g Ramen Noodle Soup VITASIA JAPANESE STYLE .²⁹",
+          "price": "€2.00",
+          "page": 14
+        },
+        {
+          "name": "1l 330ml Kombucha STYLE JAPANESE",
+          "price": "€2.00",
+          "page": 15
+        },
+        {
+          "name": "1kg 100g Asian Loose e Tea Tea Each .⁹⁹",
+          "price": "€3.00",
+          "page": 15
+        },
+        {
+          "name": "1kg x 35g Mochis STYLE JAPANESE",
+          "price": "€4.00",
+          "page": 15
+        },
+        {
+          "name": "1kg 150g Yogurt Japanese STYLE",
+          "price": "€0.69",
+          "page": 15
+        },
+        {
+          "name": "1kg Up to 33/40/45g POCKY Each",
+          "price": "€1.00",
+          "page": 15
+        },
+        {
+          "name": "1kg 128g Japanese Mochi YUKI LOVE Each",
+          "price": "€3.00",
+          "page": 15
+        },
+        {
+          "name": "1l 200ml HATA",
+          "price": "€1.00",
+          "page": 15
+        },
+        {
+          "name": "With Lidl Plus With Lidl Plus 1kg 1kg 454g 454g Day Matured. Day Matured. Striploin Steaks Aged Rib",
+          "price": "€0.00",
+          "page": 16
+        },
+        {
+          "name": "With Lidl Plus 900g Day Matured. 1kg Tomahawk 454g Irish Dry Day Matured. DELUXE E",
+          "price": "€0.00",
+          "page": 16
+        },
+        {
+          "name": "1kg With Lidl Plus 1kg 454g Day Matured.",
+          "price": "€15.29",
+          "page": 16
+        },
+        {
+          "name": "With Lidl Plus 1kg 1kg 454g Day Matured. Striploin Steaks",
+          "price": "€11.69",
+          "page": 16
+        },
+        {
+          "name": "1kg 284g Day Matured. Striploin Steak Irish New York",
+          "price": "€8.00",
+          "page": 16
+        },
+        {
+          "name": "1kg 400g Day Matured. Irish T-Bone Steak",
+          "price": "€1.00",
+          "page": 16
+        },
+        {
+          "name": "1kg 400g Day Matured. Irish Cowboy Steak",
+          "price": "€1.00",
+          "page": 16
+        },
+        {
+          "name": "1kg 900g Day Matured. Tomahawk Beef Steak Irish Dry Aged",
+          "price": "€2.00",
+          "page": 16
+        },
+        {
+          "name": "With Lidl Plus vegetables and fine cheeses. confit, mushroom dishes, roasted Food Pairing: Grilled meats, duck dark fruit, velvety and robust",
+          "price": "€0.00",
+          "page": 17
+        },
+        {
+          "name": "With Lidl Plus 700ml Alc. Vol. Irish Whiskey POWERS",
+          "price": "€0.00",
+          "page": 17
+        },
+        {
+          "name": "With Lidl Plus 700ml Alc. Vol. Irish Whiskey POWERS",
+          "price": "€2.09",
+          "page": 17
+        },
+        {
+          "name": "With Lidl Plus 700ml Alc. Vol. Irish Whiskey JAMESON",
+          "price": "€2.09",
+          "page": 17
+        },
+        {
+          "name": "With Lidl Plus 1l 6x568ml Return Deposit Alc. Vol.",
+          "price": "€14.99",
+          "page": 17
+        },
+        {
+          "name": "With Lidl Plus 1l 6x568ml Return Deposit Alc. Vol.",
+          "price": "€0.00",
+          "page": 17
+        },
+        {
+          "name": "With Lidl Plus grilled lamb and hard cheeses. Food Pairing: Excellent with steak, spicy and velvety. Tasting Notes: Robust, dark fruit,",
+          "price": "€0.99",
+          "page": 17
+        },
+        {
+          "name": "With Lidl Plus grilled lamb and hard cheeses. Food Pairing: Excellent with steak, spicy and velvety. Tasting Notes: Robust, dark fruit,",
+          "price": "€0.00",
+          "page": 17
+        },
+        {
+          "name": "With Lidl Plus vegetables and fine cheeses. confit, mushroom dishes, roasted Food Pairing: Grilled meats, duck dark fruit, velvety and robust",
+          "price": "€11.49",
+          "page": 17
+        },
+        {
+          "name": "With Lidl Plus 700ml Alc. Vol. Irish Whiskey JAMESON",
+          "price": "€0.00",
+          "page": 17
+        },
+        {
+          "name": "tiltable saw head. laser for improved cutting accuracy and a For precisely cutting wood and plastic, with Compound Mitre Saw 2000W Sliding",
+          "price": "€1.00",
+          "page": 18
+        },
+        {
+          "name": "94-198.5cm.",
+          "price": "€19.99",
+          "page": 18
+        },
+        {
+          "name": "Laser Distance PARKSIDE",
+          "price": "€1.00",
+          "page": 19
+        },
+        {
+          "name": "Screwdriver Set/ Multi-Bit Ratchet PARKSIDE",
+          "price": "€7.00",
+          "page": 19
+        },
+        {
+          "name": "Utility Knife Set PARKSIDE Line Laser 20m 9.⁹⁹ Distance",
+          "price": "€2.00",
+          "page": 19
+        },
+        {
+          "name": "Serrated Spatula Taping Knife/ PARKSIDE Socket Set Screwdriver Bit",
+          "price": "€4.00",
+          "page": 19
+        },
+        {
+          "name": "identify the size. markings to help easily steel. In a matt finish laser chrome molybdenum and S2 Made from chrome vanadium,",
+          "price": "€19.99",
+          "page": 19
+        },
+        {
+          "name": "10m Tape Measure. Choose from: 50m Tape Measure and Tape Measure Assortment PARKSIDE",
+          "price": "€4.00",
+          "page": 20
+        },
+        {
+          "name": "65L Mortar Bucket Measure and PARKSIDE Assortment",
+          "price": "€7.00",
+          "page": 20
+        },
+        {
+          "name": "as a Ladder Multi-",
+          "price": "€19.99",
+          "page": 20
+        },
+        {
+          "name": "capacity (when shelves, each with 160kg Shelving Unit PARKSIDE",
+          "price": "€3.00",
+          "page": 20
+        },
+        {
+          "name": "17-piece bit and drill set. Starter set includes battery, charger and 20V Cordless Drill Driver PARKSIDE",
+          "price": "€3.00",
+          "page": 21
+        },
+        {
+          "name": "Glue Assortment PATTEX",
+          "price": "€1.99",
+          "page": 21
+        },
+        {
+          "name": "SOS Repair Tape Bitumen/Sealant Spray/ MR.HELPER",
+          "price": "€7.00",
+          "page": 21
+        },
+        {
+          "name": "accurate cutting performance. parallel guide enables precise work and cutting depth and cutting angle and lightweight building materials. Adjustable For precise and powerful cuts in wood and",
+          "price": "€2.00",
+          "page": 21
+        },
+        {
+          "name": "LIVARNO",
+          "price": "€5.00",
+          "page": 22
+        },
+        {
+          "name": "In a practical bag for storage and easy Folding Mattress LIVARNO",
+          "price": "€5.00",
+          "page": 22
+        },
+        {
+          "name": "fabric cover TopCool® Pillow Neck",
+          "price": "€0.99",
+          "page": 22
+        },
+        {
+          "name": "Plus Single: x 200cm x 200cm Cover Set Seersucker Duvet LIVARNO x 200cm",
+          "price": "€1.00",
+          "page": 23
+        },
+        {
+          "name": "x 200cm Double: x 200cm Set Duvet Thread count:",
+          "price": "€1.00",
+          "page": 23
+        },
+        {
+          "name": "With Lidl Plus With Lidl Single: x 200cm King: up to 20cm deep. Fits mattresses Jersey Fitted Sheet",
+          "price": "€1.39",
+          "page": 23
+        },
+        {
+          "name": "With Lidl Plus Single: x 200cm King: x 200cm Cover Seersucker LIVARNO Sheet",
+          "price": "€0.99",
+          "page": 23
+        },
+        {
+          "name": "Sheet With Lidl Plus Double: x 200cm From Thu",
+          "price": "€0.19",
+          "page": 23
+        },
+        {
+          "name": "Pink or Yellow Choose from Orange, Plant Height: 15-30cm Height: 45cm Pot Size: 19cm Size: 19cm Trixi Selection",
+          "price": "€5.00",
+          "page": 24
+        },
+        {
+          "name": "Purple, Pink or Yellow Choose from Orange, Plant Pot Height: 45cm Pot Pot Size: 19cm Trixi Selection",
+          "price": "€9.00",
+          "page": 24
+        },
+        {
+          "name": "Multiple colours available in stores! Plant Height: 40cm Pot Size: 19cm XL Alstromeria .⁹⁹",
+          "price": "€1.00",
+          "page": 24
+        },
+        {
+          "name": "1piece Plant Height: 35cm Pot Size: 12cm Celosia Parade .⁴⁹",
+          "price": "€3.00",
+          "page": 25
+        },
+        {
+          "name": "Orange, White or Yellow. Choose from Red, Pink, Plant Height: 30cm Pot Size: 10.5cm Mini Rose",
+          "price": "€2.00",
+          "page": 25
+        },
+        {
+          "name": "Hazel! Mountain Ash, Birch such as Oak, Alder, Including varieties Plant Height: 100cm",
+          "price": "€1.00",
+          "page": 25
+        },
+        {
+          "name": "including Yucca Ficus Choose from Varieties Plant Height: 115-130cm Pot Size: 21cm Large Houseplants",
+          "price": "€1.00",
+          "page": 25
+        },
+        {
+          "name": "Plant Height: 7-12cm Pot Size: 6.5cm Thank you Teacher Plants 1.⁹⁹ Hazel!",
+          "price": "€3.00",
+          "page": 25
+        },
+        {
+          "name": "Plant Height: 10-15cm Pot Size: 12cm Dianthus Peman",
+          "price": "€3.00",
+          "page": 25
+        },
+        {
+          "name": "From Mon LGBTQIA+ communities. and customers. Proceeds from items sold supporting the LGBTQIA+ community and and belonging this Pride month.",
+          "price": "€1.00",
+          "page": 28
+        },
+        {
+          "name": "With removable, padded insoles. Men's sizes: Ladies' sizes: Ladies# Men#s Outdoor Shoes Sandals CRIVIT",
+          "price": "€11.99",
+          "page": 29
+        },
+        {
+          "name": "for a custom fit. With Adjustable hook loop fasteners Men's Men's sizes: Ladies' Ladies' sizes: Ladies# Men's Walking Sandals",
+          "price": "€10.39",
+          "page": 29
+        },
+        {
+          "name": "body height. (105–120cm) for adjusting the 4-stage extendable top segment Trekking Poles CRIVIT",
+          "price": "€1.99",
+          "page": 29
+        },
+        {
+          "name": "chest straps with 30L x x 54cm",
+          "price": "€11.99",
+          "page": 29
+        },
+        {
+          "name": "Jacket",
+          "price": "€1.59",
+          "page": 29
+        },
+        {
+          "name": "sailing boats. Includes shovel, rake, scoop, sand moulds and Recommended age: from years. Sand and Water Activity Table LUPILU",
+          "price": "€4.99",
+          "page": 30
+        },
+        {
+          "name": "and plastic container. with holes for play ice cream cones a lid. Play corner (ice cream parlour) The roof can be lowered and used as Recommended age: years.",
+          "price": "€3.00",
+          "page": 30
+        },
+        {
+          "name": "age: Lite",
+          "price": "€3.99",
+          "page": 30
+        },
+        {
+          "name": "Recommended Age: years. Squish-a-longs Figures Plush Toy",
+          "price": "€8.00",
+          "page": 31
+        },
+        {
+          "name": "Recommended age: years. Hot Wheels Car Assortment",
+          "price": "€6.00",
+          "page": 31
+        },
+        {
+          "name": "decorative elements. multicoloured LEDs. Reﬂ ective Light-up wheels with Recommended age: years. LED Wheels",
+          "price": "€4.99",
           "page": 32
         }
       ],
