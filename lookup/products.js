@@ -1,5 +1,5 @@
 window.LEAFLET_INDEX = {
-  "indexedAt": "2026-06-11T09:56:39.090640+00:00",
+  "indexedAt": "2026-06-18T15:50:16.676319+00:00",
   "leaflets": [
     {
       "file": "ALDI IE  - ALDI IE Thur  04 Jun _ Sun 07 Jun.pdf",
@@ -3568,6 +3568,731 @@ window.LEAFLET_INDEX = {
         {
           "name": "300ml (€8.30 per litre) Strawberry Vanilla. Choose from Bubblegum or Gianni’s Twisty Pop",
           "price": "€2.49",
+          "page": 20
+        }
+      ],
+      "tags": [
+        "2025",
+        "aldi"
+      ]
+    },
+    {
+      "file": "ALDI IE  - ALDI IE Thur  25 Jun _ Sun 28 Jun.pdf",
+      "pageCount": 20,
+      "items": [
+        {
+          "name": "750g (€1.32 per kg) Clementines June In store Thur June finalists",
+          "price": "€1.99",
+          "page": 1
+        },
+        {
+          "name": "750g (€1.32 per kg) Clementines June In store Thur June",
+          "price": "€0.99",
+          "page": 1
+        },
+        {
+          "name": "500g pack (€3.38 (24.8c per each) kg) White Joya Apples Grapes GROWN IRELAND IN 1kg",
+          "price": "€2.79",
+          "page": 2
+        },
+        {
+          "name": "500g pack (€3.38 (24.8c per each) kg) White Joya Apples Grapes GROWN IRELAND IN",
+          "price": "€1.49",
+          "page": 2
+        },
+        {
+          "name": "750g (€1.32 per kg) Clementines",
+          "price": "€1.99",
+          "page": 2
+        },
+        {
+          "name": "750g (€1.32 per kg) Clementines",
+          "price": "€0.99",
+          "page": 2
+        },
+        {
+          "name": "¤1.49 pack (49.5c each) Twin Peppers",
+          "price": "€0.99",
+          "page": 2
+        },
+        {
+          "name": "1kg Baby Potatoes",
+          "price": "€1.39",
+          "page": 2
+        },
+        {
+          "name": "1kg Baby Potatoes",
+          "price": "€0.99",
+          "page": 2
+        },
+        {
+          "name": "750g (65.3c per kg) Red Onions guaranteed fruit and veg fresh",
+          "price": "€0.99",
+          "page": 2
+        },
+        {
+          "name": "750g (65.3c per kg) Red Onions guaranteed fruit and veg fresh",
+          "price": "€0.49",
+          "page": 2
+        },
+        {
+          "name": "500g (€2.58 per kg) Flat Peaches 750g (€1.32 per kg)",
+          "price": "€2.99",
+          "page": 2
+        },
+        {
+          "name": "500g (€2.58 per kg) Flat Peaches",
+          "price": "€1.29",
+          "page": 2
+        },
+        {
+          "name": "70cl Smirnoff Vodka and",
+          "price": "€25.00",
+          "page": 3
+        },
+        {
+          "name": "70cl Smirnoff Vodka save. Sip and",
+          "price": "€20.71",
+          "page": 3
+        },
+        {
+          "name": "Thur June Wed July. Offer available from x 330ml (€4.04 per litre) Corona June Wed July.",
+          "price": "€16.00",
+          "page": 3
+        },
+        {
+          "name": "Thur June Wed July. Offer available from x 500ml (€3.75 per litre) Stella Artois deposit +60c",
+          "price": "€7.50",
+          "page": 3
+        },
+        {
+          "name": "Thur June Wed July. Offer available from x 300ml (€3.44 per litre) Budweiser deposit +€1.20",
+          "price": "€15.50",
+          "page": 3
+        },
+        {
+          "name": "75cl Rosso Grande Alberone 70cl Smirnoff Vodka",
+          "price": "€9.99",
+          "page": 3
+        },
+        {
+          "name": "75cl Rosso Grande Alberone 70cl Smirnoff Vodka",
+          "price": "€8.99",
+          "page": 3
+        },
+        {
+          "name": "x 500ml (€3.31 per litre) Guinness 70cl Irish Whiskey Triple Distilled",
+          "price": "€16.50",
+          "page": 3
+        },
+        {
+          "name": "x 500ml (€3.31 per litre) Guinness 70cl Irish Whiskey Triple Distilled",
+          "price": "€13.26",
+          "page": 3
+        },
+        {
+          "name": "x 500ml (€3.00 per litre) Guinness 75cl Rosso Grande Alberone",
+          "price": "€6.99",
+          "page": 3
+        },
+        {
+          "name": "x 500ml (€3.00 per litre) Guinness 75cl Rosso Grande Alberone",
+          "price": "€5.99",
+          "page": 3
+        },
+        {
+          "name": "70cl Irish Whiskey Triple Distilled Jameson",
+          "price": "€32.50",
+          "page": 3
+        },
+        {
+          "name": "70cl Irish Whiskey Triple Distilled Jameson",
+          "price": "€22.09",
+          "page": 3
+        },
+        {
+          "name": "165g (€18.12 per kg) Basil Pesto Homemade Moran’s Co. Cavan",
+          "price": "€2.99",
+          "page": 4
+        },
+        {
+          "name": "300g (€14.97 per kg) Steak Cheese Burrito Spicy Chicken/ Go Pig Belfast",
+          "price": "€4.49",
+          "page": 4
+        },
+        {
+          "name": "35g (€114.00 per kg) Seavoury Mushroom Crisps Sweet Chilli/Shroom/ Taste Counts Co. Cavan",
+          "price": "€3.99",
+          "page": 4
+        },
+        {
+          "name": "We’ve invested over with Aldi. Growing suppliers. Local",
+          "price": "€10.00",
+          "page": 5
+        },
+        {
+          "name": "600g (€6.65 per kg) Crumble Pie Bake Easy Boylans Co. Kildare",
+          "price": "€3.99",
+          "page": 5
+        },
+        {
+          "name": "250g (€13.96 per kg) 150g (€9.93 Burger Sauce Hummus Pitt Bros Fresh Co. Dublin Safco John Relihan, Co. Dublin",
+          "price": "€3.49",
+          "page": 5
+        },
+        {
+          "name": "250g/150g (€9.16/€15.27 per kg) Cashel Blue Cheese Dip Creamy Pepper Sauce/ Pitt Bros Co. Dublin",
+          "price": "€2.29",
+          "page": 5
+        },
+        {
+          "name": "per kg) 150g (€9.93 per kg) 57g (€43.68 Hummus Nut/Cranberry Fresh Beetroot Cashew Safco Embark Co. Dublin Co.",
+          "price": "€1.49",
+          "page": 5
+        },
+        {
+          "name": "per kg) 57g (€43.68 per kg) Nut/Cranberry Nut Bar Cashew Cookie/Chocolate Embark Protein Co. Fermanagh",
+          "price": "€2.49",
+          "page": 5
+        },
+        {
+          "name": "220g (€18.14 per kg) Bar Sriracha 212g (€18.82 Mustard per kg) Kimchi Ketchup Chimac Co.Dublin",
+          "price": "€3.99",
+          "page": 5
+        },
+        {
+          "name": "pack (€8.32 per kg) Mushroom Gyoza Pork Prawn/Chicken The Wild Wok Co. Dublin",
+          "price": "€4.99",
+          "page": 5
+        },
+        {
+          "name": "Available in two colours. Garden Tennis Set",
+          "price": "€7.99",
+          "page": 6
+        },
+        {
+          "name": "Approx. x x 3.8cm. Matt smooth surface. Carbon frame. Padel Racket hits.",
+          "price": "€24.99",
+          "page": 6
+        },
+        {
+          "name": "with lightweight feel. designs. Comfortable grip turquoise or black/white Available in petrol/ Tennis Racket",
+          "price": "€14.99",
+          "page": 6
+        },
+        {
+          "name": "and convenient Storage Bag. lightweight Net, Posts, Rackets, Balls set up and take down. Includes portable, All-weather PVC construction with quick Pickleball Set with Net",
+          "price": "€26.99",
+          "page": 6
+        },
+        {
+          "name": "pack Shuttlecocks. Balls, pack Padel Balls or Choose from pack Tennis Shuttlecocks Racket Balls/",
+          "price": "€1.16",
+          "page": 7
+        },
+        {
+          "name": "each pack Shuttlecocks. Balls, pack Padel Balls or Choose from pack Tennis Shuttlecocks",
+          "price": "€3.49",
+          "page": 7
+        },
+        {
+          "name": "year warranty*. Tennis Balls and Carry Bag. Set includes Bats, Table Table Tennis Set",
+          "price": "€12.99",
+          "page": 7
+        },
+        {
+          "name": "x x 234cm. weight 50kg. Size approx. entrance. Max. user safety net with zip Features a sturdy",
+          "price": "€89.99",
+          "page": 7
+        },
+        {
+          "name": "Height approx. 154cm. and easy to assemble. twist-out supports. Quick High stability due to Set with Net",
+          "price": "€26.99",
+          "page": 7
+        },
+        {
+          "name": "Pegs and Carry Bag. one with a target sheet, Set includes Goals, Football Goal",
+          "price": "€24.99",
+          "page": 8
+        },
+        {
+          "name": "Markers or Training Ladder. Choose from Hurdle Set, Agility Training Equipment per set Pegs and Carry Bag.",
+          "price": "€16.99",
+          "page": 8
+        },
+        {
+          "name": "multicoloured designs. Size Available in lime/blue or Football Football not included. each",
+          "price": "€6.99",
+          "page": 8
+        },
+        {
+          "name": "system for goal-shooting games. integrated holes and a points Easy to assemble. Features with Target Sheet Football Goal",
+          "price": "€39.99",
+          "page": 8
+        },
+        {
+          "name": "Automatic Launcher. self-stick covers and Baseballs with Batting Tee, Plastic Bat, Includes approx. 58cm",
+          "price": "€26.99",
+          "page": 9
+        },
+        {
+          "name": "Includes Ball and Pump. Height adjustable. Easy assembly. Basketball Hoop Children’s",
+          "price": "€29.99",
+          "page": 9
+        },
+        {
+          "name": "Throwing or Roll Score. Choose from Axe Roll Score Axe Throwing/",
+          "price": "€26.99",
+          "page": 9
+        },
+        {
+          "name": "Solution. Basketball and outdoor use. Rocket, use. Visible Suitable for indoor Suitable Rainbow Sports Ball Bubble",
+          "price": "€3.99",
+          "page": 9
+        },
+        {
+          "name": "Size or American Football Size valve. Choose from Netball Size Basketball Suitable for indoor and outdoor use. Visible Ball Assortment",
+          "price": "€5.49",
+          "page": 9
+        },
+        {
+          "name": "Solution. Suitable for ages years. use. Rocket, Foot Pump and approx. 236ml Bubble indoor Suitable for outdoor use. Includes Bubblz Sports Ball Bubble Rocket",
+          "price": "€5.99",
+          "page": 9
+        },
+        {
+          "name": "Approx. x x 99cm. Easy to set up. Includes Sticky Velcro Balls. Inflatable Dartboard each",
+          "price": "€29.99",
+          "page": 9
+        },
+        {
+          "name": "Rings, pack Sticks or pack Animal Tails. coordination and fun play. Choose from Easy to grab and highly visible underwater. Diving Accessories Prices",
+          "price": "€3.99",
+          "page": 10
+        },
+        {
+          "name": "colours and designs. Available in various Assortment Lounger/Tube",
+          "price": "€8.99",
+          "page": 10
+        },
+        {
+          "name": "Patch and Hose Adaptor. Includes Puncture Repair Made from durable PVC. Sprinkler Assortment impress.",
+          "price": "€12.99",
+          "page": 10
+        },
+        {
+          "name": "Shell designs. Choose from Shark, Crab, Stripe or pads. Adjustable strap for secure fit. Comfortable fabric and built-in foam Children’s Swim Vest",
+          "price": "€14.99",
+          "page": 10
+        },
+        {
+          "name": "Paddleboard Inflatable Stand-Up each",
+          "price": "€149.99",
+          "page": 10
+        },
+        {
+          "name": "Clip-On Holder or Beach Table. Beach Pillow, Waterproof Bag, Choose from Inflatable Beach Helper Assortment",
+          "price": "€3.99",
+          "page": 11
+        },
+        {
+          "name": "Marble in sizes or dark blue, rose Flower or black or green Zoo designs in sizes Choose from blue Face, pink Fruit Summer Clogs",
+          "price": "€3.49",
+          "page": 11
+        },
+        {
+          "name": "designs in sizes Stitch, Moana or PAW Patrol Choose from Spidey, Ariel, Children’s Pool Sliders pair",
+          "price": "€4.49",
+          "page": 11
+        },
+        {
+          "name": "mint green. Available in coral or Swimming Sliders pair designs in sizes",
+          "price": "€3.99",
+          "page": 11
+        },
+        {
+          "name": "Toddler sizes or Children’s sizes strap. Available in purple, navy or pink in Lightweight material. Removable buckle Lightweight Footbed Sandals",
+          "price": "€4.99",
+          "page": 11
+        },
+        {
+          "name": "approx. x x 14.5cm. approx. x x 17.5cm. Small Bag Lemon or black designs. Large Bag Choose from Leaf, Orange, Shell, Cool Bags",
+          "price": "€3.00",
+          "page": 11
+        },
+        {
+          "name": "each approx. x x 14.5cm. approx. x x 17.5cm. Small Bag Lemon or black designs. Large Bag Choose from Leaf, Orange, Shell,",
+          "price": "€5.99",
+          "page": 11
+        },
+        {
+          "name": "Irish Grown Maxi Dahlia Colourful Making",
+          "price": "€6.99",
+          "page": 11
+        },
+        {
+          "name": "Rock Plant Mix Outdoor each each Irish Grown Maxi Dahlia Colourful Making",
+          "price": "€3.99",
+          "page": 11
+        },
+        {
+          "name": "Mix Outdoor Roses each Maxi Dahlia Colourful Bouquet Making Life",
+          "price": "€4.99",
+          "page": 11
+        },
+        {
+          "name": "Maxi Dahlia Colourful Bouquet Making Life",
+          "price": "€12.99",
+          "page": 11
+        },
+        {
+          "name": "in sizes M-XL. in blue, green or beige cycle at 30°C. Available washable on delicate Regular fit. Machine",
+          "price": "€8.99",
+          "page": 12
+        },
+        {
+          "name": "in sizes M-XXL. green or beige Available in blue, Bermuda Shorts Men’s",
+          "price": "€8.99",
+          "page": 12
+        },
+        {
+          "name": "Choose from two colours. Travel Trainers",
+          "price": "€14.99",
+          "page": 12
+        },
+        {
+          "name": "navy in waist or Available in black, brown or Men’s Stretch Braided Belt",
+          "price": "€4.99",
+          "page": 12
+        },
+        {
+          "name": "Men’s in sizes M-XL. in sizes or Choose from Ladies’ Washable at 40°C. Training Joggers",
+          "price": "€11.99",
+          "page": 13
+        },
+        {
+          "name": "designs. Approx. x x 18cm. Available in blue, Zebra, black or Chevron Novelty Straw Tote Bag pair Men’s in sizes M-XL.",
+          "price": "€9.99",
+          "page": 13
+        },
+        {
+          "name": "in sizes pink, sand or Stripe designs Regular fit. Available in Ladies’ Ribbed Short Pyjamas each",
+          "price": "€6.99",
+          "page": 13
+        },
+        {
+          "name": "gold or black in sizes Wedge heel. Available in brown, Ladies’ Fashion Sandals pack each",
+          "price": "€12.99",
+          "page": 13
+        },
+        {
+          "name": "various colours. Available in Men’s Hipsters",
+          "price": "€1.99",
+          "page": 13
+        },
+        {
+          "name": "each various colours. Available in Men’s Hipsters",
+          "price": "€5.99",
+          "page": 13
+        },
+        {
+          "name": "black in sizes M-XXL. or Men’s fit. Available in green or fabric. Quick-dry design. Regular Regular Outdoor T-Shirt Training Comfort",
+          "price": "€4.99",
+          "page": 13
+        },
+        {
+          "name": "M-XXL. or Men’s in sizes M-XL. in green or fabric. Choose from Ladies’ in sizes design. Regular Regular fit with short sleeves. Quick-dry Training T-Shirt Comfort that keeps",
+          "price": "€3.99",
+          "page": 13
+        },
+        {
+          "name": "in sizes Available in green, beige or navy Relaxed fit. Washable at 40°C. Ladies’ T-Shirt keeps up.",
+          "price": "€4.99",
+          "page": 13
+        },
+        {
+          "name": "ready for every school day. Ages Classic, comfortable and Jersey Pinafores Classic",
+          "price": "€4.50",
+          "page": 14
+        },
+        {
+          "name": "each each ready for every school day. Ages Classic, comfortable and Washable at Jersey Pinafores Classic Pinafores",
+          "price": "€8.99",
+          "page": 14
+        },
+        {
+          "name": "ready for every school day. Ages years. Classic, comfortable and Washable at 40°C. Jersey Pinafores Classic Pinafores",
+          "price": "€4.00",
+          "page": 14
+        },
+        {
+          "name": "each each every school day. Ages years. comfortable and Washable at 40°C. Pinafores Classic Pinafores",
+          "price": "€7.99",
+          "page": 14
+        },
+        {
+          "name": "Clips or Ponytail Bands in various designs. from a Choose from Scrunchies, Headbands, Hair Hair Accessories Sun June In store",
+          "price": "€2.49",
+          "page": 15
+        },
+        {
+          "name": "53.8c each black in variety of styles in sizes in grey Washable at 40°C. Choose from a Ankle/Knee-High Socks",
+          "price": "€2.69",
+          "page": 15
+        },
+        {
+          "name": "ages years. in ages years or black in Washable at 40°C. Available in grey Tights",
+          "price": "€1.33",
+          "page": 15
+        },
+        {
+          "name": "each ages years. in ages years or black in Washable at 40°C. Available in grey Tights",
+          "price": "€3.99",
+          "page": 15
+        },
+        {
+          "name": "red in ages years. years. Cardigan available in red or navy in ages 40°C. Sweatshirt available in Relaxed fit. Washable at",
+          "price": "€0.99",
+          "page": 15
+        },
+        {
+          "name": "82.5c each years. in white or blue in ages cotton. Available Polo Shirts",
+          "price": "€1.65",
+          "page": 15
+        },
+        {
+          "name": "grey in various sizes. design. Available in black or Adjustable waist. Easy-iron Boys’ Trousers/Cargo Shorts",
+          "price": "€1.65",
+          "page": 15
+        },
+        {
+          "name": "Ages years. Ages Machine washable at 40°C. Pleated Adjustable waist. Girls’ Trousers OR OR",
+          "price": "€1.65",
+          "page": 15
+        },
+        {
+          "name": "years. Ages years. washable at 40°C. Pleated Skirt waist. OR",
+          "price": "€1.65",
+          "page": 15
+        },
+        {
+          "name": "Sizes Leather Shoes",
+          "price": "€9.99",
+          "page": 16
+        },
+        {
+          "name": "Ages years. washable at 40°C. Regular fit. Machine Jersey Trousers each",
+          "price": "€3.49",
+          "page": 16
+        },
+        {
+          "name": "Perfect for layering. Vests staple.",
+          "price": "€1.50",
+          "page": 16
+        },
+        {
+          "name": "each Perfect for layering. Vests",
+          "price": "€2.99",
+          "page": 16
+        },
+        {
+          "name": "Ages years. Washable at 40°C. Short sleeves. Shirts term in",
+          "price": "€1.66",
+          "page": 16
+        },
+        {
+          "name": "each Ages years. Washable at 40°C. Short sleeves. Shirts",
+          "price": "€4.49",
+          "page": 16
+        },
+        {
+          "name": "Easy-iron design. Adjustable waist. Cargo Shorts pack each",
+          "price": "€1.65",
+          "page": 16
+        },
+        {
+          "name": "A timeless schoolwear staple. Jersey Skirt pair Easy-iron design. Adjustable waist.",
+          "price": "€3.99",
+          "page": 16
+        },
+        {
+          "name": "FOR LESS THAN KIT THEM OUT",
+          "price": "€14.00",
+          "page": 17
+        },
+        {
+          "name": "Great for PE lessons. Crew Neck T-Shirts",
+          "price": "€1.00",
+          "page": 17
+        },
+        {
+          "name": "each Great for PE lessons. Crew Neck T-Shirts",
+          "price": "€1.99",
+          "page": 17
+        },
+        {
+          "name": "Available in two colours. Joggers",
+          "price": "€3.00",
+          "page": 17
+        },
+        {
+          "name": "each Available in two colours. Joggers KIT",
+          "price": "€5.99",
+          "page": 17
+        },
+        {
+          "name": "various designs. Choose from Sports Shorts",
+          "price": "€3.49",
+          "page": 17
+        },
+        {
+          "name": "years from Sizes Trainers Items are sold separately. TRAINERS",
+          "price": "€7.99",
+          "page": 17
+        },
+        {
+          "name": "or Skorts in ages years. Leggings in ages years Washable at 40°C. Choose from Leggings/Skorts pack",
+          "price": "€2.00",
+          "page": 17
+        },
+        {
+          "name": "each or Skorts in ages years. Leggings in ages years Washable at 40°C. Choose from Leggings/Skorts",
+          "price": "€3.99",
+          "page": 17
+        },
+        {
+          "name": "or Non-Elastic design in sizes Choose from Elastic design in sizes Football Boots pair various designs.",
+          "price": "€9.99",
+          "page": 17
+        },
+        {
+          "name": "Choose from various designs. Premium Backpack",
+          "price": "€12.99",
+          "page": 18
+        },
+        {
+          "name": "Choose from various designs. Premium Lunch Bag each Choose from various designs. Premium Backpack",
+          "price": "€6.99",
+          "page": 18
+        },
+        {
+          "name": "Sizes Leather Shoes",
+          "price": "€9.99",
+          "page": 18
+        },
+        {
+          "name": "Choose from various designs. 3D Topper Bottle with Strap Sun In",
+          "price": "€4.99",
+          "page": 19
+        },
+        {
+          "name": "Choose from various designs. Lunch Bag",
+          "price": "€5.99",
+          "page": 19
+        },
+        {
+          "name": "grey, pink, blue or yellow. Hand wash only. Available in Microwave safe without lid. Lunch Box each",
+          "price": "€3.49",
+          "page": 19
+        },
+        {
+          "name": "their creativity. Keep little hands busy and spark Kaleidoscope Colouring each grey, pink, blue or yellow.",
+          "price": "€4.99",
+          "page": 19
+        },
+        {
+          "name": "PAW Patrol, Unicorn or Axolotl designs. from Capybara, Dinosaur, Monster Machines, Includes Lock and Carry Handle. Choose Activity Tin each",
+          "price": "€6.99",
+          "page": 19
+        },
+        {
+          "name": "Suitable for ages years. First Learning, Plus or Plus. Choose from All About My World, Wipe-clean design. Includes Pen. Giant Wipe-Clean Workbook",
+          "price": "€3.99",
+          "page": 19
+        },
+        {
+          "name": "for outdoor fun. Chalk Basket. Perfect Egg Chalks or Jumbo Choose from Stencils, Chalk Assortment",
+          "price": "€3.99",
+          "page": 19
+        },
+        {
+          "name": "in blue, green or red. or Square designs available Choose from Triangle, Round Clear To-Go Assortment each",
+          "price": "€3.99",
+          "page": 19
+        },
+        {
+          "name": "per kg) 400g (€7.48 per kg) Fried. BBQ Pulled Pork from Plain Slow Cooked Irish Goujons Irish",
+          "price": "€3.69",
+          "page": 20
+        },
+        {
+          "name": "400g (€7.48 per kg) 500g BBQ Pulled Pork or Spicy Slow Cooked Irish Choose Pork Marinated",
+          "price": "€2.99",
+          "page": 20
+        },
+        {
+          "name": "454g (€8.79 per kg) Steak Mince Irish Fat Beef Round 915g (€2.17 per kg) Thighs/Drumsticks",
+          "price": "€4.39",
+          "page": 20
+        },
+        {
+          "name": "454g (€8.79 per kg) 440g Steak Mince Salmon Irish Fat Beef Round 915g (€2.17 per kg) 270g",
+          "price": "€3.99",
+          "page": 20
+        },
+        {
+          "name": "per kg) 270g (€8.48 per kg) Thighs/Drumsticks or Southern Fried. Chicken Choose from Plain Chicken Goujons Breaded Irish",
+          "price": "€2.99",
+          "page": 20
+        },
+        {
+          "name": "270g (€8.48 per kg) 400g or Southern Fried. BBQ Choose from Plain Slow Chicken Goujons Breaded Irish",
+          "price": "€2.29",
+          "page": 20
+        },
+        {
+          "name": "per kg) 500g (€5.98 per kg) Pork or Spicy Maple. Cooked Irish Choose from Asian BBQ Pork Belly Strips Marinated",
+          "price": "€3.49",
+          "page": 20
+        },
+        {
+          "name": "500g (€5.98 per kg) or Spicy Maple. Choose from Asian BBQ Pork Belly Strips Marinated",
+          "price": "€2.99",
+          "page": 20
+        },
+        {
+          "name": "915g (€2.17 per kg) Thighs/Drumsticks Irish Chicken",
+          "price": "€2.89",
+          "page": 20
+        },
+        {
+          "name": "915g (€2.17 per kg) 270g Thighs/Drumsticks or Irish Chicken Choose Chicken Breaded",
+          "price": "€1.99",
+          "page": 20
+        },
+        {
+          "name": "¤12.99 454g (€24.21 per kg) 454g (€26.41 Angus Striploin Steaks Angus Specially Selected Irish Specially 400g (€7.48 per kg) 500g (€5.98",
+          "price": "€10.99",
+          "page": 20
+        },
+        {
+          "name": "per kg) 454g (€26.41 per kg) Striploin Steaks Angus Ribeye Steaks Selected Irish Specially Selected Irish per kg) 500g (€5.98 per kg) Pork or Spicy Maple.",
+          "price": "€13.99",
+          "page": 20
+        },
+        {
+          "name": "454g (€26.41 per kg) Steaks Angus Ribeye Steaks Irish Specially Selected Irish 500g (€5.98 per kg)",
+          "price": "€11.99",
+          "page": 20
+        },
+        {
+          "name": "per kg) 440g (€13.61 per kg) Mince Salmon Fillets Fat Beef Round per kg) 270g (€8.48 per kg) Thighs/Drumsticks or Southern Fried.",
+          "price": "€6.99",
+          "page": 20
+        },
+        {
+          "name": "¤12.99 440g (€13.61 per kg) 454g Salmon Fillets Angus Round Specially 270g (€8.48 per kg) 400g",
+          "price": "€5.99",
           "page": 20
         }
       ],
@@ -8068,6 +8793,706 @@ window.LEAFLET_INDEX = {
         {
           "name": "piezo ignition system. With a reliable, high quality integrated a side burner (3kW). burner gas barbecue (2.5kW each) with Burner Gas Barbecue",
           "price": "€149.99",
+          "page": 32
+        }
+      ],
+      "tags": [
+        "2025",
+        "lidl"
+      ]
+    },
+    {
+      "file": "From-Thu-25-06-to-Wed-01-07-June-to-July-00.pdf",
+      "pageCount": 32,
+      "items": [
+        {
+          "name": "Beans Style Latin American Unit Price: Burgers",
+          "price": "€2.00",
+          "page": 1
+        },
+        {
+          "name": "braces or dentures. Suitable for use with Water Jet Flosser Cien BEAUTY I:=%:A@!I=4%=>AC<",
+          "price": "€12.99",
+          "page": 1
+        },
+        {
+          "name": "EXTRA FREE XXL Nectarines O#JP.K8 D#(M70%N#(\"",
+          "price": "€1.99",
+          "page": 1
+        },
+        {
+          "name": "Microwaveable Baby Potatoes",
+          "price": "€0.59",
+          "page": 2
+        },
+        {
+          "name": "Irish Chestnut Mushrooms FARRELL‘S",
+          "price": "€0.69",
+          "page": 2
+        },
+        {
+          "name": "EXTRA FREE XXL Nectarines",
+          "price": "€1.99",
+          "page": 3
+        },
+        {
+          "name": "With Lidl Plus piece Salad Trio DELUXE",
+          "price": "€0.99",
+          "page": 3
+        },
+        {
+          "name": "With Lidl Plus Cherry Tomatoes",
+          "price": "€0.49",
+          "page": 3
+        },
+        {
+          "name": "With Lidl Plus 1Piece pack Golden Delicious Apples",
+          "price": "€0.99",
+          "page": 3
+        },
+        {
+          "name": "Skinless Salmon Darnes LIGHTHOUSE BAY Sensational Salmon",
+          "price": "€4.49",
+          "page": 4
+        },
+        {
+          "name": "Fat Irish Skinny Beef Meatballs Irish Beef",
+          "price": "€1.29",
+          "page": 4
+        },
+        {
+          "name": "Breaded Chicken Steaks Kids’ Favourite",
+          "price": "€0.79",
+          "page": 5
+        },
+        {
+          "name": "BBQ Peri Peri Irish Flavoured Turkey Burgers Irish Turkey",
+          "price": "€1.35",
+          "page": 5
+        },
+        {
+          "name": "Irish Chicken Breast Fillets Irish Chicken",
+          "price": "€4.99",
+          "page": 5
+        },
+        {
+          "name": "Fat Irish Lean Beef Mince Midweek Treat",
+          "price": "€8.19",
+          "page": 5
+        },
+        {
+          "name": "1l x 250ml Return Deposit Drink Classic Energy",
+          "price": "€2.49",
+          "page": 7
+        },
+        {
+          "name": "1l 500ml Return Deposit Energy Drink Colossus",
+          "price": "€0.99",
+          "page": 7
+        },
+        {
+          "name": "1l 500ml Return Deposit Energy Drink Colossus",
+          "price": "€0.99",
+          "page": 7
+        },
+        {
+          "name": "1l x 330ml Return Deposit Diet Cola FREEWAY",
+          "price": "€2.99",
+          "page": 7
+        },
+        {
+          "name": "Return Deposit Crush 1l x 330ml",
+          "price": "€2.99",
+          "page": 7
+        },
+        {
+          "name": "Return Deposit Return Deposit Crush",
+          "price": "€2.99",
+          "page": 7
+        },
+        {
+          "name": "Return Deposit Deposit Tonic Water",
+          "price": "€2.99",
+          "page": 7
+        },
+        {
+          "name": "Deposit Tonic Water Each 1l 500ml",
+          "price": "€3.39",
+          "page": 7
+        },
+        {
+          "name": "Return Deposit Tropical Crush FREEWAY 1l x 330ml",
+          "price": "€0.00",
+          "page": 7
+        },
+        {
+          "name": "Quick Oats",
+          "price": "€0.75",
+          "page": 8
+        },
+        {
+          "name": "Original PHILADELPHIA",
+          "price": "€1.99",
+          "page": 8
+        },
+        {
+          "name": "1l 800ml Tomato Ketchup HEINZ",
+          "price": "€1.49",
+          "page": 8
+        },
+        {
+          "name": "1kg 600g Mayonnaise",
+          "price": "€4.49",
+          "page": 8
+        },
+        {
+          "name": "1kg Traditional Bacon Rasher DENNY",
+          "price": "€0.99",
+          "page": 8
+        },
+        {
+          "name": "1l Oat Milk Barista ALPRO",
+          "price": "€1.99",
+          "page": 8
+        },
+        {
+          "name": "1l 12x330ml Alc. Vol. Beer STAROPRAMEN",
+          "price": "€15.62",
+          "page": 9
+        },
+        {
+          "name": "1l 150ml Africa LYNX",
+          "price": "€0.99",
+          "page": 9
+        },
+        {
+          "name": "1l 12x500ml Return Deposit Alc. Vol. Draught",
+          "price": "€19.88",
+          "page": 9
+        },
+        {
+          "name": "1kg 1l Up 450g X 65ml/4 Garden Peas Unit GREEN ISLE Loop HB",
+          "price": "€1.49",
+          "page": 9
+        },
+        {
+          "name": "1l 15x500ml Deposit Return Alc. Vol. Lager",
+          "price": "€5.45",
+          "page": 9
+        },
+        {
+          "name": "1kg 1l 138g 2l Yorkie Unit Price: NESTLE COCA",
+          "price": "€0.49",
+          "page": 9
+        },
+        {
+          "name": "1l 75ml Action Fresh White Toothpaste 3D",
+          "price": "€0.89",
+          "page": 9
+        },
+        {
+          "name": "Edam Slices MILBONA",
+          "price": "€0.14",
+          "page": 10
+        },
+        {
+          "name": "Rocket Leaves MEADOW FRESH",
+          "price": "€0.74",
+          "page": 10
+        },
+        {
+          "name": "Pepperoni Slices DULANO",
+          "price": "€1.04",
+          "page": 10
+        },
+        {
+          "name": "Crumbed Ham Butcher Style Irish DELUXE",
+          "price": "€0.22",
+          "page": 10
+        },
+        {
+          "name": "1l Drink Oat Barista Unit Price: VEMONDO Irish DELUXE",
+          "price": "€0.89",
+          "page": 10
+        },
+        {
+          "name": "Kitchen Towel FLORALYS Unit Price: Sugar",
+          "price": "€1.37",
+          "page": 11
+        },
+        {
+          "name": "1kg Up Skin-On Fries HARVEST BASKET Unit Price: Stonebaked CHEF",
+          "price": "€0.22",
+          "page": 11
+        },
+        {
+          "name": "mushroom risotto. Food Pairing: Roast chicken and dry finish. notes, light but ﬂ avoursome and Tasting Notes: Red fruits, earthy",
+          "price": "€10.99",
+          "page": 11
+        },
+        {
+          "name": "and chicken dishes. Food Pairing: Seafood, soft cheese lemon and notes of biscuit. Tasting Notes: Crisp apple, 750ml Alc. Vol.",
+          "price": "€18.99",
+          "page": 11
+        },
+        {
+          "name": "1kg Instant Coffee Barista Premium BELLAROM",
+          "price": "€0.59",
+          "page": 11
+        },
+        {
+          "name": "1kg Up to Roasted Sweetcorn LATIN AMERICAN STYLE",
+          "price": "€1.00",
+          "page": 12
+        },
+        {
+          "name": "Potato Chips ALMA LATINA More to",
+          "price": "€1.00",
+          "page": 12
+        },
+        {
+          "name": "Requeijao Cremoso MABIJU .⁹⁹",
+          "price": "€3.00",
+          "page": 13
+        },
+        {
+          "name": "Spices GOYA Tequeños Brazilian",
+          "price": "€3.00",
+          "page": 13
+        },
+        {
+          "name": "Trio Nacho Dip EL TEQUITO .⁴⁹",
+          "price": "€2.00",
+          "page": 13
+        },
+        {
+          "name": "1kg Snacks Traditional NAZINHA EL",
+          "price": "€1.00",
+          "page": 13
+        },
+        {
+          "name": "Salsa LATIN AMERICAN STYLE !\"#$€¸",
+          "price": "€1.00",
+          "page": 13
+        },
+        {
+          "name": "Spices Brazilian",
+          "price": "€1.00",
+          "page": 13
+        },
+        {
+          "name": "900g Beans STYLE AMERICAN LATIN",
+          "price": "€2.00",
+          "page": 13
+        },
+        {
+          "name": "1kg Mexican Style Tortilla EL TEQUITO !\"#$€¶ .⁴⁹",
+          "price": "€2.00",
+          "page": 13
+        },
+        {
+          "name": "1kg 550g Pulled Pork EL TEQUITO",
+          "price": "€4.00",
+          "page": 14
+        },
+        {
+          "name": "1kg 240g Tortilla Wraps EL TEQUITO",
+          "price": "€0.89",
+          "page": 14
+        },
+        {
+          "name": "1kg 150g Filled Jalapeños with Cream Cheese EL TEQUITO !\"#$€¹",
+          "price": "€2.00",
+          "page": 14
+        },
+        {
+          "name": "1kg Cheese 300g Salad Cheese Cubes EL TEQUITO",
+          "price": "€2.00",
+          "page": 14
+        },
+        {
+          "name": "Melonitas CARIBBEAN STYLE",
+          "price": "€1.00",
+          "page": 15
+        },
+        {
+          "name": "Pudding Chia Seed EL TEQUITO .⁹⁹",
+          "price": "€1.00",
+          "page": 15
+        },
+        {
+          "name": "1l Pink Guava Nectar EL TEQUITO .⁷⁹",
+          "price": "€1.00",
+          "page": 15
+        },
+        {
+          "name": "Churros Cinnamon EL TEQUITO 1kg !\"#$€¸",
+          "price": "€1.00",
+          "page": 15
+        },
+        {
+          "name": "BRIGADEIROS .⁴⁹",
+          "price": "€4.00",
+          "page": 15
+        },
+        {
+          "name": "1kg Up to Macaroons CARIBBEAN STYLE .⁹⁹",
+          "price": "€2.00",
+          "page": 15
+        },
+        {
+          "name": "Coffee Roast Ground PILAO",
+          "price": "€3.00",
+          "page": 15
+        },
+        {
+          "name": "Gyoza FOOD FESTIVAL",
+          "price": "€2.00",
+          "page": 16
+        },
+        {
+          "name": "Croquette Roulette FOOD FESTIVAL More to",
+          "price": "€3.00",
+          "page": 16
+        },
+        {
+          "name": "1kg Balls Cherry Banana Strawberry Vanilla Pancake Burger FOOD FESTIVAL",
+          "price": "€2.00",
+          "page": 17
+        },
+        {
+          "name": "1kg Chicken Bucket Ribs FOOD FESTIVAL",
+          "price": "€7.00",
+          "page": 17
+        },
+        {
+          "name": "1kg Sweet Chilli Honey BBQ Slow Cooked Spare Ribs FOOD FESTIVAL",
+          "price": "€7.00",
+          "page": 17
+        },
+        {
+          "name": "1kg 250g Banana Cashews Blueberry Almond Raspberry Cashews",
+          "price": "€4.00",
+          "page": 17
+        },
+        {
+          "name": "1l 500ml Spicy Sauces FOOD FESTIVAL .⁹⁹",
+          "price": "€2.00",
+          "page": 17
+        },
+        {
+          "name": "1kg Crackers with Dip FOOD FESTIVAL .⁴⁹",
+          "price": "€1.00",
+          "page": 17
+        },
+        {
+          "name": "1kg Up to Festival Cookies FOOD FESTIVAL .⁹⁹",
+          "price": "€1.00",
+          "page": 17
+        },
+        {
+          "name": "1kg x 32g Ice Cream Dough Balls FOOD FESTIVAL .⁷⁹",
+          "price": "€4.00",
+          "page": 17
+        },
+        {
+          "name": "1kg Gnocchi FOOD FESTIVAL",
+          "price": "€1.00",
+          "page": 17
+        },
+        {
+          "name": "Men's Piquée ESMARA",
+          "price": "€7.00",
+          "page": 19
+        },
+        {
+          "name": "ESMARA In sizes: M-XL. Polo Shirt .⁹⁹ Men's Piquée ESMARA",
+          "price": "€7.00",
+          "page": 19
+        },
+        {
+          "name": "cotton. In sizes: S-L. Dress Ladies' Muslin ESMARA",
+          "price": "€9.00",
+          "page": 19
+        },
+        {
+          "name": "Men's sizes: M-XXL. Short Pyjamas Men's ESMARA piece",
+          "price": "€5.00",
+          "page": 19
+        },
+        {
+          "name": "cotton. In sizes: S-L. Shorts Ladies' Muslin ESMARA",
+          "price": "€4.00",
+          "page": 19
+        },
+        {
+          "name": "cutting. materials also ideal metal and lightweight effortless cuts in wood, Sabre Saw",
+          "price": "€3.00",
+          "page": 20
+        },
+        {
+          "name": "be used as a blower or for extracting water. Effortlessly removes wet and dry dirt. Can also container. With an easy to empty litre stainless steel 1200W Wet Dry Vacuum Cleaner",
+          "price": "€14.99",
+          "page": 20
+        },
+        {
+          "name": "Screwdriver Tool Set with Cordless PARKSIDE",
+          "price": "€19.99",
+          "page": 21
+        },
+        {
+          "name": "load Unit Unit With Lidl Plus x x 30cm x x 30cm",
+          "price": "€14.99",
+          "page": 21
+        },
+        {
+          "name": "PARKSIDE piece set",
+          "price": "€1.00",
+          "page": 22
+        },
+        {
+          "name": "practical and sturdy case. Neatly arranged in a Tool Kit PARKSIDE piece set",
+          "price": "€6.00",
+          "page": 22
+        },
+        {
+          "name": "chromevanadium High-quality Socket Set PARKSIDE",
+          "price": "€1.00",
+          "page": 22
+        },
+        {
+          "name": "set",
+          "price": "€19.99",
+          "page": 22
+        },
+        {
+          "name": "locks. bar with With Lidl Plus Max. load:",
+          "price": "€14.99",
+          "page": 22
+        },
+        {
+          "name": "a and below With Lidl Plus piece set",
+          "price": "€18.74",
+          "page": 23
+        },
+        {
+          "name": "With Lidl Plus Pliers Set 5-in-1 Crimping PARKSIDE piece set",
+          "price": "€14.99",
+          "page": 23
+        },
+        {
+          "name": "Work With Lidl Plus",
+          "price": "€1.99",
+          "page": 23
+        },
+        {
+          "name": "Metal Paint Rust Protection PARKSIDE 1L price pads",
+          "price": "€9.00",
+          "page": 23
+        },
+        {
+          "name": "Plant Height: 15-25cm Pot Size: 15cm Selection Portulaca .⁹⁹",
+          "price": "€4.00",
+          "page": 24
+        },
+        {
+          "name": "Pot Height 25-45cm Pot Size: 17cm Pot Perennial Selection",
+          "price": "€4.00",
+          "page": 24
+        },
+        {
+          "name": "Plant Height: 25-30cm Pot Size: 13cm Dahlietta",
+          "price": "€2.00",
+          "page": 24
+        },
+        {
+          "name": "12cm Selection",
+          "price": "€3.00",
+          "page": 25
+        },
+        {
+          "name": "Plant Height: 17-22cm Pot Size: 12cm Scaevola Mix",
+          "price": "€3.00",
+          "page": 25
+        },
+        {
+          "name": "Purple or Bi-Colour. Choose from White, Pink, Plant Height: 60cm Pot Size: 12cm Stem Orchid",
+          "price": "€1.00",
+          "page": 25
+        },
+        {
+          "name": "Plant Height: 8cm Pot Size 19cm Terrarium Garden",
+          "price": "€1.00",
+          "page": 25
+        },
+        {
+          "name": "8cm Plant Height: 34cm Pot Size: 14cm Garden Rose Duo",
+          "price": "€5.00",
+          "page": 25
+        },
+        {
+          "name": "In sizes: years. Shirts Kids' Short Sleeve pack pack",
+          "price": "€2.00",
+          "page": 26
+        },
+        {
+          "name": "In sizes: years. Kids' Tights",
+          "price": "€3.00",
+          "page": 26
+        },
+        {
+          "name": "years. In sizes: Joggers Kids' pack",
+          "price": "€5.00",
+          "page": 26
+        },
+        {
+          "name": "Water-repellent. sizes: In sizes: years. Joggers Kids’ Trousers",
+          "price": "€1.00",
+          "page": 26
+        },
+        {
+          "name": "cotton. In sizes: years. Kids' Polo Shirts pack",
+          "price": "€1.00",
+          "page": 26
+        },
+        {
+          "name": "Water-repellent outer. In sizes: years. Kids' Pinafore pack",
+          "price": "€6.00",
+          "page": 26
+        },
+        {
+          "name": "In sizes: years. Kids' Sweatshirt",
+          "price": "€0.99",
+          "page": 26
+        },
+        {
+          "name": "Sandwich Box set .⁹⁹",
+          "price": "€7.00",
+          "page": 27
+        },
+        {
+          "name": "Marvel or Jurassic. Choose from Minnie, Stitch, School Backpack Bottle Set and Aluminium .⁹⁹",
+          "price": "€9.00",
+          "page": 27
+        },
+        {
+          "name": "360ml",
+          "price": "€4.00",
+          "page": 27
+        },
+        {
+          "name": "or Spiderman. Frozen, Paw Patrol Choose from Barbie, Stitch, Kids’ Umbrella Bottles",
+          "price": "€3.00",
+          "page": 27
+        },
+        {
+          "name": "Vaiana. Stitch, Spidey or Choose from Pencil Case Bag and",
+          "price": "€9.00",
+          "page": 27
+        },
+        {
+          "name": "Stitch. Spiderman or Choose from Desk Mat",
+          "price": "€6.00",
+          "page": 28
+        },
+        {
+          "name": "design ideal for use on the go. writing with a slim, lightweight For paperless notes, drawing and LCD Writing Tablet TRONIC",
+          "price": "€3.00",
+          "page": 28
+        },
+        {
+          "name": "eraser, sharpener and pair of scissors. pencils, ruler, pencils, ballpoint pen, Includes felt tip pens, coloured or Super Mario. Choose from Frozen, Stitch, Spiderman",
+          "price": "€9.00",
+          "page": 28
+        },
+        {
+          "name": "coloured markers with eraser lids. Whiteboard pen set includes and eraser. includes markers, magnets Whiteboard accessory set",
+          "price": "€2.00",
+          "page": 28
+        },
+        {
+          "name": "eraser and 1x pen with magnetic holder. cloth with 3x magnets, 1x dry Can be wiped clean with a damp or dry Magnetic Whiteboard CRELANDO",
+          "price": "€1.00",
+          "page": 28
+        },
+        {
+          "name": "pack A4 Sketch Pad CRELANDO .⁹⁹",
+          "price": "€4.00",
+          "page": 29
+        },
+        {
+          "name": "coloured pencils, from pack",
+          "price": "€2.00",
+          "page": 29
+        },
+        {
+          "name": "pack pack fiber .⁴⁹",
+          "price": "€2.00",
+          "page": 29
+        },
+        {
+          "name": "pack Pencil Case CRELANDO .⁹⁹",
+          "price": "€4.00",
+          "page": 29
+        },
+        {
+          "name": "a hairdryer it also styling in a gentle drying Brush",
+          "price": "€1.99",
+          "page": 30
+        },
+        {
+          "name": "BEAUTY",
+          "price": "€1.00",
+          "page": 30
+        },
+        {
+          "name": "=>?@'A\"B Suitable for use with braces or dentures. Water Jet Flosser CIEN BEAUTY",
+          "price": "€12.99",
+          "page": 30
+        },
+        {
+          "name": "Toilet Seat LIVARNO Max weight: 150kg",
+          "price": "€0.99",
+          "page": 31
+        },
+        {
+          "name": "Pedal Bin LIVARNO Capacity (pedal bin): water ﬂ ow. optimal control of",
+          "price": "€4.00",
+          "page": 31
+        },
+        {
+          "name": "Mat Set piece .⁹⁹ Bin LIVARNO",
+          "price": "€6.00",
+          "page": 31
+        },
+        {
+          "name": "settings for ow function: Assortment Mixer Tap LIVARNO",
+          "price": "€2.00",
+          "page": 31
+        },
+        {
+          "name": "connection hose. heads. Includes fixings and 80cm pattern, switch between shower shower with a powerful rain spray Large fixed shower head plus a hand",
+          "price": "€3.00",
+          "page": 31
+        },
+        {
+          "name": "Shower Rack LIVARNO Brush Set",
+          "price": "€6.00",
+          "page": 31
+        },
+        {
+          "name": "Toilet Brush Set LIVARNO Toilet Seat",
+          "price": "€1.19",
+          "page": 31
+        },
+        {
+          "name": "sockets with thermal overload protection. Socket Cable Reel PARKSIDE",
+          "price": "€19.99",
+          "page": 32
+        },
+        {
+          "name": "Adjustable rotation speed. concrete or tiles (with suitable discs). For cutting and grinding metal, both sold separately. 20V Battery and Charger required",
+          "price": "€4.99",
           "page": 32
         }
       ],
