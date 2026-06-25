@@ -37,7 +37,10 @@ SUP = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹", "0123456789")
 
 
 def number_cleanup(number: str) -> int:
-    return int(re.sub("[^0-9]", "", number))
+    cleaned_num = re.sub("[^0-9]", "", number)
+    if not cleaned_num:
+        cleaned_num = "0"
+    return int(cleaned_num)
 
 
 def is_noise_word(text: str) -> bool:
