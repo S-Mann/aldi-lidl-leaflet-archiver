@@ -1,5 +1,5 @@
 window.LEAFLET_INDEX = {
-  "indexedAt": "2026-09-26T20:07:24.450576+00:00",
+  "indexedAt": "2026-10-01T22:37:57.658316+00:00",
   "leaflets": [
     {
       "file": "ALDI IE  - ALDI IE Thur  02 Jul _ Sun 05 Jul.pdf",
@@ -15092,6 +15092,471 @@ window.LEAFLET_INDEX = {
       ]
     },
     {
+      "file": "ALDI IE  - ALDI IE Thur 08 Oct.pdf",
+      "pageCount": 20,
+      "items": [
+        {
+          "name": "OUTDOOR SET",
+          "price": "€65.00",
+          "page": 2
+        },
+        {
+          "name": "House, Doll’s House Furniture and Characters Family Set all for under Accessories not included. FAMILY SET RAINBOW OUTDOOR",
+          "price": "€49.99",
+          "page": 2
+        },
+        {
+          "name": "and Outdoor Furniture Sets. with Little Town Indoor Furniture different colours. Can combine Open design. Three floors of Wooden Doll’s House",
+          "price": "€39.99",
+          "page": 2
+        },
+        {
+          "name": "PIRATE SET",
+          "price": "€19.99",
+          "page": 3
+        },
+        {
+          "name": "or Castle Family Sets. Choose from Rainbow, Picnic, Pirate Includes Characters and Accessories. Wooden Characters Family Set",
+          "price": "€7.99",
+          "page": 3
+        },
+        {
+          "name": "CHEAPER Little Town Doll’s House. Choose from Indoor Develops imagination and interaction skills. Wooden Doll’s House Furniture Set",
+          "price": "€16.99",
+          "page": 3
+        },
+        {
+          "name": "Green and Beige, Dark Green or Grey. Washing kitchen role play. Choose from Hobs, and routines. Inspires imaginative Encourages everyday learning",
+          "price": "€24.99",
+          "page": 4
+        },
+        {
+          "name": "Oven lights up",
+          "price": "€39.99",
+          "page": 4
+        },
+        {
+          "name": "Grey. x x 29.5cm (approx.). from Washing Machine or Dishwasher in Beige or imaginative sets. Includes Play Accessories. Choose from learning For use with Country or Modern Kitchen C. Wooden Washing Machine/Dishwasher",
+          "price": "€24.99",
+          "page": 4
+        },
+        {
+          "name": "CHEAPER or Beige. x x 83cm (approx.). Utensils. Choose from Dark Green Bowl, Window Insert Card and Clock with movable hands, Washing",
+          "price": "€34.99",
+          "page": 4
+        },
+        {
+          "name": "Wok Set or Casserole Pot Set. Breakfast Pan Set, Stir-Fry CHOCOLATE SET Ingredients. Choose from Includes assorted Play Food Wooden Pan/Pot Set",
+          "price": "€6.99",
+          "page": 5
+        },
+        {
+          "name": "x 79cm (approx.). Smoothie Insert. x Plate and Double-Sided Includes Interactive Card Realistic kitchen features.",
+          "price": "€34.99",
+          "page": 5
+        },
+        {
+          "name": "FRYER or Pizza Oven Sets. AIR Cooking Hob Pan, Cleaning Stand DUAL Choose from Smoothie Maker, F. Wooden Kitchen Set THAN 2025†",
+          "price": "€14.99",
+          "page": 5
+        },
+        {
+          "name": "Tableware Matcha Set, Set Travel or Kettle Cup Set, Mug Set. Choose from Hot Chocolate Set, HOT Kitchen Accessories E. Wooden MACHINE",
+          "price": "€14.99",
+          "page": 5
+        },
+        {
+          "name": "Fryer or Ice Cream Maker. Coffee Machine, Dual Air Choose from Stand Mixer, Kitchen Appliance D. Wooden",
+          "price": "€14.99",
+          "page": 5
+        },
+        {
+          "name": "x x 24cm (approx.). Cash and a variety of Food Items. Reversible Store Panel, Play Stand and Market Stall. Includes Alternate between Cinema",
+          "price": "€34.99",
+          "page": 6
+        },
+        {
+          "name": "x 23.9cm (approx.). Food Items. x variety of Wooden Accessories and a reader. Includes Play",
+          "price": "€34.99",
+          "page": 6
+        },
+        {
+          "name": "or Shopping Basket. Choose from Wooden Till Play Accessories. features. Includes Detailed wooden",
+          "price": "€19.99",
+          "page": 6
+        },
+        {
+          "name": "Cheese or Pastry Platters. Meat Board, Seafood, Choose from Fruit Veg Crate, Wooden Food Crate/Platter",
+          "price": "€9.99",
+          "page": 7
+        },
+        {
+          "name": "Box or Takeaway Set. Coffee Cake Set, Sweet Treat Choose from Biscuit Tin, Wooden Treats Selection each",
+          "price": "€9.99",
+          "page": 7
+        },
+        {
+          "name": "Cuthbert Cake or Party Cake. Sponge Cake, Kevin Cake, Choose from Victoria Wooden Cake",
+          "price": "€7.99",
+          "page": 7
+        },
+        {
+          "name": "Cucina or Fresh Food Sets. Garden, Power Force, Choose from Asia Green Wooden Grocery Set Thur Oct",
+          "price": "€7.99",
+          "page": 7
+        },
+        {
+          "name": "Pasta Sets. Sushi, Burger or Pizza Drinks, Gyros, Tacos, Choose from Summer Wooden Meal Set",
+          "price": "€8.99",
+          "page": 7
+        },
+        {
+          "name": "Box or Takeaway Set. Coffee Cake Set, Sweet Treat Choose from Biscuit Tin, Wooden Treats Selection",
+          "price": "€8.99",
+          "page": 7
+        },
+        {
+          "name": "x x 91.4cm (approx.). MOVING Functional scanner on tabletop. and Opening Cash Drawer. Card, Beeping Item Scanner Screen, Play Cash, Play Credit",
+          "price": "€34.99",
+          "page": 7
+        },
+        {
+          "name": "Tortoise Houses. Guinea Pig or Choose from Chicken, and Balance Bridge. Food Piece, Heat Lamp",
+          "price": "€12.99",
+          "page": 8
+        },
+        {
+          "name": "Stable Stable x x x x 22cm 22cm (approx.). (approx.). Hay, Hay, Brush Brush and and Plush Plush Poo. Poo. Includes Includes Stable Stable Jump, Jump, Hobby Hobby Horse, Horse, Wooden Show Jump Jump",
+          "price": "€34.99",
+          "page": 8
+        },
+        {
+          "name": "x x 23.9cm (approx.). Pancakes and Fruit Toppings. Includes Waffle Quarters, Felt Wooden Dessert Cart",
+          "price": "€34.99",
+          "page": 8
+        },
+        {
+          "name": "Medical or Vet Table. and Accessories. Choose from Includes a variety of Play Tools creativity and imaginative play. Encourages caring role play,",
+          "price": "€24.99",
+          "page": 9
+        },
+        {
+          "name": "Changing Bag or Feeding Bag. Choose from Sleep Set, Potty Set, Wooden Doll Care Accessories",
+          "price": "€12.99",
+          "page": 9
+        },
+        {
+          "name": "x x 24.2cm (approx.). 46.8cm (approx.). Bouncer (approx.). Stroller x x Bouncer. Cot Bed x x 31.2cm Choose from Cot Bed, Stroller or",
+          "price": "€12.99",
+          "page": 9
+        },
+        {
+          "name": "x x 55cm (approx.). Includes a variety of Play Car Repair Tools. Encourages problem-solving skills. Wooden Mechanic Car possibilities.",
+          "price": "€39.99",
+          "page": 10
+        },
+        {
+          "name": "CHEF VEST Courier Vest. Beautician Belt, Chef Vest or skills. Choose from Tool Belt, Develops creativity and storytelling",
+          "price": "€9.99",
+          "page": 11
+        },
+        {
+          "name": "Delivery Bag or Purse Bag. Choose from Tool Bag, Barber Bag, Wooden Role Play Bag each each multiple multiple attachments. attachments.",
+          "price": "€14.99",
+          "page": 11
+        },
+        {
+          "name": "TOOL BELT each CHEF VEST Courier Vest. Beautician Belt, Chef Vest or",
+          "price": "€49.99",
+          "page": 11
+        },
+        {
+          "name": "multiple attachments. TOOL BAG Vacuum Cleaner with Vacuum Cleaner Wooden",
+          "price": "€14.99",
+          "page": 11
+        },
+        {
+          "name": "multiple multiple attachments. attachments. Hair 5-in-1 5-in-1 Styler Hair Hair Styler Styler with with Wooden",
+          "price": "€14.99",
+          "page": 11
+        },
+        {
+          "name": "x x 79cm (approx.). Cosmetic Accessories. Stool, and a variety of Play Includes Vanity Unit, Features light-up mirror.",
+          "price": "€39.99",
+          "page": 11
+        },
+        {
+          "name": "Suitable for ages years. Pirate Ship x x 41.5cm (approx.). Pirate Ship. Castle x x 55cm (approx.). Accessories. Choose from Wooden Castle or Opens for extended play. Includes Play",
+          "price": "€29.99",
+          "page": 12
+        },
+        {
+          "name": "Drum Kit or Piano. skills. Choose from learning and musical Develops early Piano/Drum Kit",
+          "price": "€34.99",
+          "page": 12
+        },
+        {
+          "name": "Crystal Ball Sets. Magic Wand or Choose from Potions, Interactive Accessories. Includes Wooden and",
+          "price": "€17.99",
+          "page": 13
+        },
+        {
+          "name": "Safari, Ocean or Dino Railway Sets. wooden animals. Choose from Enchanted, Train Cars. Features removable blocks and Wooden Railway Set FIRE STATION",
+          "price": "€19.99",
+          "page": 13
+        },
+        {
+          "name": "for ages years. Supermarket Playsets. Suitable Choose from Fire Station or Aldi fire station or supermarket. Truck transforms into either a",
+          "price": "€24.99",
+          "page": 13
+        },
+        {
+          "name": "Construction Site or Shopping Centre. Choose from Fire Station, Hospital, Wooden Play World",
+          "price": "€29.99",
+          "page": 13
+        },
+        {
+          "name": "x x 39cm (approx.). from Rainbow or Grey. rocker into a trike. Choose Can be converted from a Height-adjustable seat.",
+          "price": "€29.99",
+          "page": 14
+        },
+        {
+          "name": "Adult supervision required. THAN 2025† CHEAPER each x x 39cm (approx.).",
+          "price": "€34.99",
+          "page": 14
+        },
+        {
+          "name": "x x 50cm (approx.). Choose from Yellow or Blue. Height-adjustable seat. Wooden Vespa Bike",
+          "price": "€29.99",
+          "page": 14
+        },
+        {
+          "name": "Fantasy or Safari Sets. Choose from Ocean, Box Set Wooden Vehicle",
+          "price": "€7.99",
+          "page": 15
+        },
+        {
+          "name": "or Cargo Transporter. Safari Car, Submarine, Rubble Truck Choose from Fire Engine, Car Transporter, Wooden Large Vehicle RACETRACK",
+          "price": "€12.99",
+          "page": 15
+        },
+        {
+          "name": "or Downhill Looping Racetrack. Choose from Downhill Car Racetrack Includes Cars with each racetrack. Straight and curved tracks and ramps. Wooden Downhill Racetrack",
+          "price": "€29.99",
+          "page": 15
+        },
+        {
+          "name": "Tractor, Plane or Rubble Truck. Ambulance, Ice Cream Van, Choose from Fire Engine, Wooden Small Vehicle",
+          "price": "€3.99",
+          "page": 15
+        },
+        {
+          "name": "each Doctor or Vet Books. Police, Trucks, Firefighter, Choose from Tractors,",
+          "price": "€4.99",
+          "page": 15
+        },
+        {
+          "name": "sold at the same price from †Wooden Small Vehicle previously THAN 2025† CHEAPER each Tractor, Plane or Rubble Truck.",
+          "price": "€8.99",
+          "page": 15
+        },
+        {
+          "name": "Doctor or Vet Books. Police, Trucks, Firefighter, Choose from Tractors, Wooden Book THAN 2025†",
+          "price": "€3.99",
+          "page": 15
+        },
+        {
+          "name": "or Activity Walker. Choose from Activity Table and shape recognition. hand-eye coordination Attachments. Develops",
+          "price": "€24.99",
+          "page": 16
+        },
+        {
+          "name": "Computer Activity Boards. Dino Play Cubes or Safari or sensory skills. Choose from Develops curiosity and Activity Board",
+          "price": "€12.99",
+          "page": 16
+        },
+        {
+          "name": "Ramp Racer Sets. Safari Ramp Racer or Dino Hammer, Ocean Hammer, skills. Choose from Fantasy play. Develops fine motor",
+          "price": "€12.99",
+          "page": 16
+        },
+        {
+          "name": "or Dino Train Sets. Choose from Safari, Ocean blocks and wooden animals. train cars. Features removable Wooden Animal Train",
+          "price": "€12.99",
+          "page": 17
+        },
+        {
+          "name": "Choose from Whale or Elephant designs. Chimes, Castanet and Wooden Drumstick. Includes Sound Plates, Scraper, Cymbals, Wooden Musician Set",
+          "price": "€9.99",
+          "page": 17
+        },
+        {
+          "name": "Safari Puzzles. Choose from Dinosaur, Round Fish or Develops creativity and imagination. Wooden Puzzle set",
+          "price": "€4.99",
+          "page": 17
+        },
+        {
+          "name": "Underwater, Fantasy, Safari or Dinosaur Sets. Develops fine motor skills. Choose from Wooden Building Blocks",
+          "price": "€12.99",
+          "page": 17
+        },
+        {
+          "name": "Gardening Puzzles. or work. Choose from Medical, Tools or Features tools based on plants, medicine Wooden Role Play Puzzle",
+          "price": "€7.99",
+          "page": 17
+        },
+        {
+          "name": "Board Giraffe Sets. Crab or Wooden Magnetic Drawing Wooden Magnetic Drawing Board Underwater Magnet Set, Choose from Safari Magnet Set,",
+          "price": "€9.99",
+          "page": 18
+        },
+        {
+          "name": "Creation Station Wooden",
+          "price": "€29.99",
+          "page": 18
+        },
+        {
+          "name": "Suitable for ages years. provides additional stability. stool and chalkboard. Skirting Converts to play table, step Learning Tower",
+          "price": "€39.99",
+          "page": 19
+        },
+        {
+          "name": "height. Wall mounting kit included. and picture books. Child-friendly shelves for organising story Children’s Bookshelf Accessories not included.",
+          "price": "€24.99",
+          "page": 19
+        },
+        {
+          "name": "for ages years. Chairs. Suitable Includes Table and with Chairs Children’s Table",
+          "price": "€29.99",
+          "page": 19
+        },
+        {
+          "name": "Ornament or Children designs. Ornaments. Choose from Includes Wooden Advent Calendar your way.",
+          "price": "€14.99",
+          "page": 19
+        },
+        {
+          "name": "x 42g (€4.71 per kg) Jive",
+          "price": "€1.59",
+          "page": 20
+        },
+        {
+          "name": "x 42g (€4.71 per kg) Jive",
+          "price": "€0.99",
+          "page": 20
+        },
+        {
+          "name": "x 38g (€4.34 per kg) Racer x 42g (€4.71 per kg) Jive",
+          "price": "€1.55",
+          "page": 20
+        },
+        {
+          "name": "x 38g (€4.34 per kg) Racer x 42g (€4.71 per kg) Jive",
+          "price": "€0.99",
+          "page": 20
+        },
+        {
+          "name": "ONLY 500ml Available Thur Oct-Wed Oct. or x 500ml (€3.16 per litre) Choose Rockshore Lager Luxury Specially",
+          "price": "€12.62",
+          "page": 20
+        },
+        {
+          "name": "Oct. ONLY Available Thur Oct-Wed Oct. x 500ml (€3.16 per litre) Rockshore Lager",
+          "price": "€1.20",
+          "page": 20
+        },
+        {
+          "name": "500ml (€3.58 per litre) Thur Oct-Wed Oct. or Belgian Chocolate. (€3.16 per litre) Madagascan Vanilla Lager Choose from Luxury Ice Cream",
+          "price": "€2.69",
+          "page": 20
+        },
+        {
+          "name": "500ml (€3.58 per litre) Oct-Wed Oct. or Belgian Chocolate. litre) Madagascan Vanilla Choose from Luxury Ice Cream",
+          "price": "€1.79",
+          "page": 20
+        },
+        {
+          "name": "415g/452g/435g (€5.76/€5.28/€5.49 Margherita or Ham, Mushroom Choose from Spicy Salami ’Nduja, Stonebaked Woodfired Pizza Thur Oct-Wed Oct. Specially Selected",
+          "price": "€3.49",
+          "page": 20
+        },
+        {
+          "name": "415g/452g/435g (€5.76/€5.28/€5.49 per kg) Margherita or Ham, Mushroom Mascarpone. Choose from Spicy Salami ’Nduja, Stonebaked Woodfired Pizza Oct-Wed Oct. Specially Selected",
+          "price": "€2.39",
+          "page": 20
+        },
+        {
+          "name": "Movie night Wed Oct Thur Oct In store",
+          "price": "€5.97",
+          "page": 20
+        },
+        {
+          "name": "Oct-Wed Oct. Available Thur 75cl Alberone Rosso Grande",
+          "price": "€9.99",
+          "page": 20
+        },
+        {
+          "name": "Oct-Wed Oct. Available Thur 75cl Alberone Rosso Grande",
+          "price": "€8.99",
+          "page": 20
+        },
+        {
+          "name": "Available Thur Oct-Wed Oct. x 500ml (€3.39 per litre) Heineken x 38g (€4.34 per kg) Racer",
+          "price": "€21.00",
+          "page": 20
+        },
+        {
+          "name": "ONLY Available Thur Oct-Wed Oct. x 500ml (€3.39 per litre) x Heineken x 38g (€4.34 per kg)",
+          "price": "€16.96",
+          "page": 20
+        },
+        {
+          "name": "Available Thur Oct-Wed Oct. x 500ml (€3.39 per litre) Heineken",
+          "price": "€1.50",
+          "page": 20
+        },
+        {
+          "name": "per litre) 1kg Potato Wedges Premium Jumbo Specially Selected in for",
+          "price": "€2.69",
+          "page": 20
+        },
+        {
+          "name": "litre) 1kg Potato Wedges Premium Jumbo Specially Selected in for",
+          "price": "€1.79",
+          "page": 20
+        },
+        {
+          "name": "Choose ONLY Stonebaked Oct. Available Thur Oct-Wed Oct. Specially x 500ml (€3.62 per litre) Budweiser",
+          "price": "€14.50",
+          "page": 20
+        },
+        {
+          "name": "ONLY Oct-Wed Oct. Available Thur Oct-Wed Oct. (€3.39 per litre) x 500ml (€3.62 per litre) Budweiser deposit",
+          "price": "€1.20",
+          "page": 20
+        },
+        {
+          "name": "per kg) litres (24.5c per litre) Cola ZX per kg)",
+          "price": "€0.99",
+          "page": 20
+        },
+        {
+          "name": "kg) litres (24.5c per litre) Cola ZX kg)",
+          "price": "€0.49",
+          "page": 20
+        },
+        {
+          "name": "litres (24.5c per litre) 1kg Cola ZX Potato Wedges Premium Specially in",
+          "price": "€0.25",
+          "page": 20
+        }
+      ],
+      "tags": [
+        "2025",
+        "aldi"
+      ]
+    },
+    {
       "file": "ALDI IE  - ALDI IE Thurs 01 Oct _ Sun 04 Oct.pdf",
       "pageCount": 20,
       "items": [
@@ -20373,6 +20838,691 @@ window.LEAFLET_INDEX = {
         {
           "name": "over ver Save ve savings. vings.",
           "price": "€30.00",
+          "page": 32
+        }
+      ],
+      "tags": [
+        "2025",
+        "lidl"
+      ]
+    },
+    {
+      "file": "From-Thu-08-10-to-Wed-14-10-October-00.pdf",
+      "pageCount": 32,
+      "items": [
+        {
+          "name": "Soup Maker SILVERCREST Chicken Irish Medium",
+          "price": "€4.39",
+          "page": 1
+        },
+        {
+          "name": "600W Hand Blender Set SILVERCREST 6*)7,()G,=L<=:",
+          "price": "€14.99",
+          "page": 1
+        },
+        {
+          "name": "C\".&,DE Heater Ceramic Tower TRONIC for !&\"8A'B",
+          "price": "€14.99",
+          "page": 1
+        },
+        {
+          "name": "C\".&,D=E Soup Maker SILVERCREST Medium 6*)7,()G,=L<=:",
+          "price": "€14.99",
+          "page": 1
+        },
+        {
+          "name": "$'#K Meanies Bones Banshee TAYTO",
+          "price": "€0.99",
+          "page": 1
+        },
+        {
+          "name": "Mushrooms Irish FARRELL'S CF?&M,C\".&MC",
+          "price": "€0.99",
+          "page": 1
+        },
+        {
+          "name": "?MAN&,6$M,#A6& customers only. for the first C34-J9,()H40+,?0/G@,')32 FGH+04+I/H0+,./01+2",
+          "price": "€2.99",
+          "page": 1
+        },
+        {
+          "name": "With Lidl Plus Piece Piece Cucumber Cucumber",
+          "price": "€0.69",
+          "page": 2
+        },
+        {
+          "name": "With Lidl Plus Piece Piece Cucumber Cucumber",
+          "price": "€0.00",
+          "page": 2
+        },
+        {
+          "name": "Pack With Lidl Plus 1kg 433g Irish Irish Mushrooms Mushrooms",
+          "price": "€0.99",
+          "page": 2
+        },
+        {
+          "name": "With Lidl Plus 1kg 433g Irish Irish Mushrooms Mushrooms FARRELL'S FARRELL'S",
+          "price": "€0.00",
+          "page": 2
+        },
+        {
+          "name": "Piece Loose Mango",
+          "price": "€0.79",
+          "page": 3
+        },
+        {
+          "name": "Piece Pieces Gala Apples",
+          "price": "€1.29",
+          "page": 3
+        },
+        {
+          "name": "Conference Pears",
+          "price": "€1.49",
+          "page": 3
+        },
+        {
+          "name": "!kg 500g Red Grapes",
+          "price": "€1.99",
+          "page": 3
+        },
+        {
+          "name": "With Lidl Plus 1kg 800g Beef Stewing",
+          "price": "€2.29",
+          "page": 4
+        },
+        {
+          "name": "Plus With 1kg 650g Fat Beef",
+          "price": "€0.00",
+          "page": 4
+        },
+        {
+          "name": "With Lidl Plus 1kg 650g Fat Beef Steak Mince",
+          "price": "€0.29",
+          "page": 4
+        },
+        {
+          "name": "Plus Mince Lean Lean Favourite",
+          "price": "€0.00",
+          "page": 4
+        },
+        {
+          "name": "%kg 300g Duck Legs Irish Confit DELUXE",
+          "price": "€4.69",
+          "page": 5
+        },
+        {
+          "name": "%kg 1.6kg Irish Medium Chicken",
+          "price": "€4.39",
+          "page": 5
+        },
+        {
+          "name": "%kg Thai Prawn/Salmon Spinach Fishcakes DELUXE Fish Fish Sensation Sensation",
+          "price": "€0.99",
+          "page": 5
+        },
+        {
+          "name": "%kg 600g with Pancakes Irish Crispy Roast Half Duck DELUXE",
+          "price": "€8.99",
+          "page": 5
+        },
+        {
+          "name": "Spanish Fuet Salami DULANO SELECTION",
+          "price": "€1.59",
+          "page": 6
+        },
+        {
+          "name": "Up to High Protein Pizza TRATTORIA ALFREDO",
+          "price": "€0.29",
+          "page": 6
+        },
+        {
+          "name": "Cocktail Sausages BRAEMOOR",
+          "price": "€1.86",
+          "page": 6
+        },
+        {
+          "name": "Toilet Tissue FLORALYS",
+          "price": "€0.47",
+          "page": 6
+        },
+        {
+          "name": "Sugar Granulated BELBAKE",
+          "price": "€1.43",
+          "page": 6
+        },
+        {
+          "name": "cheeses. pasta and semi-hard roast lamb, rich tomato-based Food Pairing: Pan fried duck or strawberry with a hint of vanilla.",
+          "price": "€2.99",
+          "page": 7
+        },
+        {
+          "name": "and salads. seafood, poultry Food Pairing: Fish cakes, light apple and melon. Tasting Notes: Citrus fruits, green",
+          "price": "€1.99",
+          "page": 7
+        },
+        {
+          "name": "With Lidl Plus Piece Pieces Gold Blend Tea LYONS",
+          "price": "€1.49",
+          "page": 8
+        },
+        {
+          "name": "With Lidl Plus Piece Pieces Gold Blend Tea LYONS",
+          "price": "€0.00",
+          "page": 8
+        },
+        {
+          "name": "With Lidl Plus With 1kg 1kg 750g 169/170g Custard Desserts BIRD'S",
+          "price": "€1.75",
+          "page": 8
+        },
+        {
+          "name": "750g 169/170g Custard Desserts BIRD'S Zillionaire GU GU",
+          "price": "€0.00",
+          "page": 8
+        },
+        {
+          "name": "With Lidl Plus 1kg Up to 169/170g Desserts Zillionaire",
+          "price": "€1.49",
+          "page": 8
+        },
+        {
+          "name": "With Lidl Plus 1kg Up to 169/170g Desserts Zillionaire",
+          "price": "€0.00",
+          "page": 8
+        },
+        {
+          "name": "MIX With Lidl Plus 1kg Unit Price: x 20g 1kg Up to Pork Salami 345/365g",
+          "price": "€0.49",
+          "page": 8
+        },
+        {
+          "name": "x 20g 1kg Up to Pork Salami 345/365g PEPERAMI Thin Crust GOODFELLA'S",
+          "price": "€0.00",
+          "page": 8
+        },
+        {
+          "name": "Deposit With Lidl Plus",
+          "price": "€13.25",
+          "page": 9
+        },
+        {
+          "name": "With Lidl Plus",
+          "price": "€0.00",
+          "page": 9
+        },
+        {
+          "name": "Deposit Lager With With Lidl Lidl Plus Plus Wed",
+          "price": "€12.62",
+          "page": 9
+        },
+        {
+          "name": "With With Lidl Lidl Plus Plus",
+          "price": "€0.00",
+          "page": 9
+        },
+        {
+          "name": "With Lidl Plus 1l x 440ml Return Deposit Alc. Vol.",
+          "price": "€2.39",
+          "page": 9
+        },
+        {
+          "name": "With Lidl Plus 1l x 440ml Return Deposit Alc. Vol.",
+          "price": "€0.00",
+          "page": 9
+        },
+        {
+          "name": "With Lidl Plus With 1l 1l x 500ml x Return Deposit Alc. Vol. Alc.",
+          "price": "€5.45",
+          "page": 9
+        },
+        {
+          "name": "With Lidl Plus With Lidl Plus 1l 1l x 500ml x 500ml Return Deposit Return Alc. Vol. Alc. Vol",
+          "price": "€0.00",
+          "page": 9
+        },
+        {
+          "name": "With Lidl Plus With 1l 1l x 500ml x Return Deposit Alc. Vol Alc.",
+          "price": "€19.88",
+          "page": 9
+        },
+        {
+          "name": "With Lidl Plus With Lidl Plus 1l 1l x 500ml x 440ml Return Deposit Return Alc. Vol Alc. Vol.",
+          "price": "€0.00",
+          "page": 9
+        },
+        {
+          "name": "Alc. Red With Lidl Plus 700ml Alc. Vol.",
+          "price": "€1.99",
+          "page": 9
+        },
+        {
+          "name": "With Lidl Plus SMITHWICKS 700ml Alc. Vol. Gin GORDON'S",
+          "price": "€0.00",
+          "page": 9
+        },
+        {
+          "name": "With Lidl Plus 1kg 280g Jammie Dodgers BURTON'S",
+          "price": "€1.99",
+          "page": 10
+        },
+        {
+          "name": "With Lidl Plus With Lidl Plus 1kg 1kg 280g 200g Jammie Dodgers Biscuits BURTON'S JACOB'S",
+          "price": "€0.00",
+          "page": 10
+        },
+        {
+          "name": "With Lidl Plus 1kg Unit 200g 1kg Biscuits 55g g JACOB'S Protein",
+          "price": "€0.49",
+          "page": 10
+        },
+        {
+          "name": "With Lidl Plus 1kg Unit Price: 200g 1kg Biscuits 55g g JACOB'S Protein rotein Bars Bars",
+          "price": "€0.00",
+          "page": 10
+        },
+        {
+          "name": "FROM Pumpkins Gourds",
+          "price": "€0.49",
+          "page": 11
+        },
+        {
+          "name": "200g Chocolate Balls",
+          "price": "€2.99",
+          "page": 12
+        },
+        {
+          "name": "200g with Candy Plastic Pumpkin",
+          "price": "€4.99",
+          "page": 12
+        },
+        {
+          "name": "Party Mix !\"#$€µ",
+          "price": "€3.99",
+          "page": 12
+        },
+        {
+          "name": "Skull with Sweets",
+          "price": "€5.99",
+          "page": 12
+        },
+        {
+          "name": "1kg 440g Monster Treats Bags SWIZZELS",
+          "price": "€3.69",
+          "page": 13
+        },
+        {
+          "name": "1kg 650g Sweet Shop Favourites SWIZZELS",
+          "price": "€5.99",
+          "page": 13
+        },
+        {
+          "name": "1kg x 17g Banshee Bones TAYTO TAYTO",
+          "price": "€2.99",
+          "page": 13
+        },
+        {
+          "name": "1kg 1kg 785g Party Mix Tub SWIZZELS",
+          "price": "€6.49",
+          "page": 13
+        },
+        {
+          "name": "1kg x 17g Meanies TAYTO TAYTO",
+          "price": "€2.99",
+          "page": 13
+        },
+        {
+          "name": "With Lidl Plus 1kg 260g Wham Scary Chews BARRATT",
+          "price": "€0.49",
+          "page": 13
+        },
+        {
+          "name": "With Lidl Plus x 17g Banshee 1kg TAYTO TAYTO 260g Wham Scary Chews",
+          "price": "€2.99",
+          "page": 13
+        },
+        {
+          "name": "1kg 165g Baking Almonds BELBAKE BAKE BAKE Essentials!",
+          "price": "€1.35",
+          "page": 14
+        },
+        {
+          "name": "Baking Paper AROMATA Each 1kg",
+          "price": "€1.49",
+          "page": 14
+        },
+        {
+          "name": "Scan 1kg 250g Ready To Roll Icing BELBAKE KE",
+          "price": "€2.19",
+          "page": 14
+        },
+        {
+          "name": "1kg 500g Sultanas s BELBAKE KE Each for",
+          "price": "€1.25",
+          "page": 14
+        },
+        {
+          "name": "40g Cinnamon Ground BATTS 1kg",
+          "price": "€0.79",
+          "page": 14
+        },
+        {
+          "name": "38ml Vanilla Extract act BELBAKE Cake Recipe! for our Christmas Essentials!",
+          "price": "€1.39",
+          "page": 14
+        },
+        {
+          "name": "1kg 2kg Flour Self-Raising g BELBAKE",
+          "price": "€1.19",
+          "page": 14
+        },
+        {
+          "name": "temperature",
+          "price": "€9.99",
+          "page": 15
+        },
+        {
+          "name": "with Adjustable temperature: Fan heat TRONIC element Heater",
+          "price": "€14.99",
+          "page": 15
+        },
+        {
+          "name": "for convenience. Includes remote control (18–45°C). Adjustable temperature setting materials included.",
+          "price": "€19.99",
+          "page": 15
+        },
+        {
+          "name": "settings thermostat Cable length: 180cm",
+          "price": "€19.99",
+          "page": 16
+        },
+        {
+          "name": "of heating bars: 50°C. heating bars with temperature With on/off switch for easy operation. For wall-mounting or free-standing setup. Electric Towel Warmer",
+          "price": "€29.99",
+          "page": 16
+        },
+        {
+          "name": "Adjustable temperature (15-35°C) of time, temperature and oscillation. With remote control for easy setting Fan Heater TRONIC",
+          "price": "€1.99",
+          "page": 16
+        },
+        {
+          "name": "calculators, watches, etc. For scales, remote controls, Button Cell Batteries TRONIC !\"#$€´2",
+          "price": "€1.99",
+          "page": 16
+        },
+        {
+          "name": "!l 7l Kindling Dried KILN",
+          "price": "€3.79",
+          "page": 17
+        },
+        {
+          "name": "!l 18l Logs FIRE NATURAL",
+          "price": "€6.49",
+          "page": 17
+        },
+        {
+          "name": "of free Stove Fan",
+          "price": "€4.99",
+          "page": 17
+        },
+        {
+          "name": "recessed standing Increases thermostat and Blade Radiator",
+          "price": "€29.99",
+          "page": 17
+        },
+        {
+          "name": "In sizes: S-L. Fit Jeans Ladies' Skinny ESMARA Each",
+          "price": "€9.99",
+          "page": 18
+        },
+        {
+          "name": "In sizes: S-L. Jumper Ladies' ESMARA",
+          "price": "€1.99",
+          "page": 18
+        },
+        {
+          "name": "In sizes: XS-XL. Sleeve Ribbed Tops Ladies' Long ESMARA",
+          "price": "€9.99",
+          "page": 18
+        },
+        {
+          "name": "and side pockets. Hood, full-length 2-way zip In sizes: XS-L. Ladies' Longline Gilet ESMARA",
+          "price": "€11.99",
+          "page": 18
+        },
+        {
+          "name": "sizes: S-XL. Joggers ESMARA",
+          "price": "€9.99",
+          "page": 19
+        },
+        {
+          "name": "cotton. In sizes: M-XL. Men's Ribbed Vests ESMARA pack",
+          "price": "€5.99",
+          "page": 19
+        },
+        {
+          "name": "wind-resistant. Lightweight, warm and In sizes: M-XL. Men's Padded Gilet ESMARA",
+          "price": "€9.99",
+          "page": 19
+        },
+        {
+          "name": "In sizes: S-XL. Hoodie Men's Zip-Up ESMARA",
+          "price": "€12.99",
+          "page": 19
+        },
+        {
+          "name": "King Size Fleece Duvet Cover Set LIVARNO Per Set",
+          "price": "€15.99",
+          "page": 20
+        },
+        {
+          "name": "Blanket LIVARNO",
+          "price": "€7.99",
+          "page": 20
+        },
+        {
+          "name": "support positions. Pillow",
+          "price": "€17.99",
+          "page": 20
+        },
+        {
+          "name": "Double Size Fleece Duvet Cover Set LIVARNO Per Set",
+          "price": "€11.99",
+          "page": 20
+        },
+        {
+          "name": "Single Size Fleece Duvet Cover Set LIVARNO",
+          "price": "€0.99",
+          "page": 20
+        },
+        {
+          "name": "Single: x 200cm Fits mattresses up to 25cm deep. Fleece Fitted Sheet LIVARNO",
+          "price": "€1.99",
+          "page": 21
+        },
+        {
+          "name": "King: x 200cm Fits mattresses up to 25cm deep. Fleece Fitted Sheet LIVARNO Each",
+          "price": "€0.99",
+          "page": 21
+        },
+        {
+          "name": "Double: x 200cm Fits mattresses up to 25cm deep. Fleece Fitted Sheet LIVARNO Each",
+          "price": "€0.19",
+          "page": 21
+        },
+        {
+          "name": "Thread count: Cover Set Double Size Microfibre Sateen Duvet LIVARNO Per",
+          "price": "€9.99",
+          "page": 21
+        },
+        {
+          "name": "Thread count: made from microfibre. Soft and quick-drying, partially Cover Set King Size Microfibre Sateen Duvet",
+          "price": "€12.99",
+          "page": 21
+        },
+        {
+          "name": "tablets, e-book readers, etc. Portable charger for smartphones, as a carry strap. (USB-C to USB-C) can also be used Includes a 15cm charging cable",
+          "price": "€19.99",
+          "page": 22
+        },
+        {
+          "name": "Foldable Rug LIVARNO x 180cm",
+          "price": "€24.99",
+          "page": 22
+        },
+        {
+          "name": "outdoor areas. For indoors or covered easy-care. With anti-slip backing. Hard wearing, durable and Doormat",
+          "price": "€5.99",
+          "page": 22
+        },
+        {
+          "name": "Plant Height: 20cm Pot Size: 23cm Autumn Planter Medium",
+          "price": "€9.99",
+          "page": 23
+        },
+        {
+          "name": "Pot Size: 23cm Plant Pops Planter Pot Large Flower",
+          "price": "€11.99",
+          "page": 23
+        },
+        {
+          "name": "Varieties, incl. Ficus Choose from Plant Height: 55cm Pot Size: 15cm Houseplant",
+          "price": "€8.99",
+          "page": 23
+        },
+        {
+          "name": "Plant Height: 20cm Pot Size: Pot Size: 27cm Pops Planter Large Autumn Large",
+          "price": "€12.99",
+          "page": 23
+        },
+        {
+          "name": "Plant Height: 33cm Pot Size: 17cm Extra Large Heather Plant Pot Pot Size: 23cm Plant",
+          "price": "€5.49",
+          "page": 23
+        },
+        {
+          "name": "cleaning modes. Gyro sensor for intelligent navigation. one appliance. 2-in-1: vacuum and mop with with Mop Function",
+          "price": "€89.99",
+          "page": 24
+        },
+        {
+          "name": "in Dry Vacuum and Wet Mop Charging time: up to hours. handheld or upright vacuum cleaner. Multifunctional can be used as a Vacuum Cleaner",
+          "price": "€112.99",
+          "page": 24
+        },
+        {
+          "name": "With Lidl Plus nozzle and furniture brush. head, crevice and upholstery includes exchangeable ﬂ oor brush With adjustable suction control and",
+          "price": "€49.99",
+          "page": 24
+        },
+        {
+          "name": "With Lidl Plus nozzle and furniture brush. head, crevice and upholstery includes exchangeable ﬂ oor brush With adjustable suction control and",
+          "price": "€10.00",
+          "page": 24
+        },
+        {
+          "name": "VILEDA pack",
+          "price": "€4.49",
+          "page": 25
+        },
+        {
+          "name": "Clothes Dryer Steel Tower VILEDA",
+          "price": "€4.99",
+          "page": 25
+        },
+        {
+          "name": "and",
+          "price": "€9.99",
+          "page": 25
+        },
+        {
+          "name": "cooked meat, Slicer",
+          "price": "€39.99",
+          "page": 26
+        },
+        {
+          "name": "button for powerful pulse blending. Adjustable speed setting and turbo boost in for pureeing and chopping. 600W Hand Blender Set SILVERCREST",
+          "price": "€14.99",
+          "page": 26
+        },
+        {
+          "name": "vegetables, fish, etc. With steamer insert for steaming 1L uncooked rice up to portions. Cooking insert capacity: 400W Rice Cooker",
+          "price": "€17.99",
+          "page": 27
+        },
+        {
+          "name": "blades. Mini Chopper SILVERCREST",
+          "price": "€9.99",
+          "page": 27
+        },
+        {
+          "name": "SAVE and keep-warm function. compote, smoothie, blending 6-in-1: smooth soup, chunky soup, Soup Maker",
+          "price": "€14.99",
+          "page": 27
+        },
+        {
+          "name": "and keep-warm function. compote, smoothie, blending 6-in-1: smooth soup, chunky soup, Soup Maker SILVERCREST",
+          "price": "€15.00",
+          "page": 27
+        },
+        {
+          "name": "cleaning. dishwasher safe for easy serving at the table and ceramic bowl, ideal for Removable stoneware",
+          "price": "€27.99",
+          "page": 27
+        },
+        {
+          "name": "SILVERCREST pack",
+          "price": "€6.99",
+          "page": 28
+        },
+        {
+          "name": "Set Storage",
+          "price": "€4.99",
+          "page": 28
+        },
+        {
+          "name": "With minute timer and automatic shut-off. Temperature adjustable from 80°C to 200°C. 2L Air Fryer SILVERCREST",
+          "price": "€29.99",
+          "page": 28
+        },
+        {
+          "name": "in one step. Vacuums and seals preserves ﬂ avour. storage which watertight food",
+          "price": "€14.99",
+          "page": 29
+        },
+        {
+          "name": "Rack x 19.6cm (Ø x H) Dimensions: piece set",
+          "price": "€6.99",
+          "page": 29
+        },
+        {
+          "name": "Plate Set Soup Bowl/Dinner SILVERCREST piece set",
+          "price": "€9.99",
+          "page": 29
+        },
+        {
+          "name": "Frying Pan 28cm 24cm",
+          "price": "€9.99",
+          "page": 30
+        },
+        {
+          "name": "24cm",
+          "price": "€6.99",
+          "page": 30
+        },
+        {
+          "name": "settings",
+          "price": "€9.99",
+          "page": 30
+        },
+        {
+          "name": "initiative. exceptional standard Champions! Club the Lidl",
+          "price": "€10000.00",
+          "page": 31
+        },
+        {
+          "name": "customers or ends ‘Price for Life’ only Plus.",
+          "price": "€0.00",
           "page": 32
         }
       ],
