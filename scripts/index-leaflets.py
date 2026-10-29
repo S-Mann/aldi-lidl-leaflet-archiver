@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import argparse
 import json
 import re
 import sys
@@ -187,20 +188,79 @@ def index_pdf(path: Path) -> dict:
     }
 
 
+def leaflet_key(entry: dict) -> tuple[tuple[str, ...], str]:
+    return (tuple(entry.get("tags") or ()), entry["file"])
+
+
+def pdf_key(path: Path) -> tuple[tuple[str, ...], str]:
+    relative = path.relative_to(LEAFLETS_DIR)
+    return (tuple(relative.parent.parts), relative.name)
+
+
+def load_existing_index() -> dict:
+    if not PRODUCTS_JS.exists():
+        return {"leaflets": []}
+    text = PRODUCTS_JS.read_text(encoding="utf-8")
+    prefix = "window.LEAFLET_INDEX = "
+    if not text.startswith(prefix):
+        return {"leaflets": []}
+    payload = text[len(prefix) :].strip()
+    if payload.endswith(";"):
+        payload = payload[:-1]
+    try:
+        data = json.loads(payload)
+    except json.JSONDecodeError:
+        return {"leaflets": []}
+    if not isinstance(data, dict) or not isinstance(data.get("leaflets"), list):
+        return {"leaflets": []}
+    return data
+
+
 def main() -> None:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--re-index",
+        action="store_true",
+        help="Re-index every leaflet PDF (default: skip ones already in products.js)",
+    )
+    args = parser.parse_args()
+
     pdfs = sorted(LEAFLETS_DIR.glob("**/*.pdf"))
     if not pdfs:
         print(f"No PDFs in {LEAFLETS_DIR}")
         sys.exit(1)
 
-    leaflets = []
+    existing_by_key = {
+        leaflet_key(entry): entry for entry in load_existing_index().get("leaflets", [])
+    }
+
+    leaflets: list[dict] = []
     total_items = 0
+    indexed = 0
+    skipped = 0
     for pdf in pdfs:
+        key = pdf_key(pdf)
+        if not args.re_index and key in existing_by_key:
+            entry = existing_by_key[key]
+            leaflets.append(entry)
+            total_items += len(entry.get("items") or [])
+            skipped += 1
+            print(f"Skipping {pdf.name} (already indexed)")
+            continue
+
         print(f"Indexing {pdf.name}…")
         entry = index_pdf(pdf)
         total_items += len(entry["items"])
         leaflets.append(entry)
+        indexed += 1
         print(f"  {len(entry['items'])} products")
+
+    if indexed == 0 and not args.re_index:
+        print(
+            f"Nothing new to index ({skipped} already indexed). "
+            "Pass --re-index to force a full rebuild."
+        )
+        return
 
     payload = {
         "indexedAt": datetime.now(timezone.utc).isoformat(),
@@ -213,7 +273,10 @@ def main() -> None:
         + ";\n"
     )
     PRODUCTS_JS.write_text(js, encoding="utf-8")
-    print(f"Wrote {total_items} items to {PRODUCTS_JS.relative_to(ROOT)}")
+    print(
+        f"Indexed {indexed}, skipped {skipped}; "
+        f"wrote {total_items} items to {PRODUCTS_JS.relative_to(ROOT)}"
+    )
 
 
 if __name__ == "__main__":

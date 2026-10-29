@@ -7,7 +7,8 @@ There are two manual steps required, leaflet pdf should be downloaded from each 
 python -m venv venv
 source venv/bin/activate
 pip install -r scripts/requirements.txt
-python -m scripts/index-leaflets.py
+python scripts/index-leaflets.py          # index new PDFs only
+python scripts/index-leaflets.py --re-index  # rebuild everything
 ```
 
 Then you can just check your brower and access the files through `file://` protocol locally.
